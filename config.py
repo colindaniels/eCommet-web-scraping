@@ -1,0 +1,1 @@
+prices = ['se', '6', '6-plus', '6s', '6s-plus', '7', '7-plus', '8', '8-plus', 'x', 'xr', 'xs', 'xs-max', '11', '11-pro', '11-pro-max', 'se-2nd-gen', '12', '12-pro']

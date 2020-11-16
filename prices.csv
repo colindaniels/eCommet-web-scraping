@@ -1,72 +1,62 @@
-Model,Storage,Avg_Sale_Price
-iPhone 5, 16 GB,38
-iPhone 5, 32 GB,45
-iPhone 5, 64 GB,40
-iPhone 5C, 8 GB,39
-iPhone 5C, 16 GB,44
-iPhone 5C, 32 GB,44
-iPhone 5S, 16 GB,50
-iPhone 5S, 32 GB,55
-iPhone 5S, 64 GB,66
-iPhone 5S, 128 GB,
-iPhone SE, 16 GB,88
-iPhone SE, 32 GB,104
-iPhone SE, 64 GB,121
-iPhone SE, 128 GB,146
-iPhone 6, 16 GB,91
-iPhone 6, 32 GB,80
-iPhone 6, 64 GB,97
-iPhone 6, 128 GB,109
-iPhone 6 Plus, 16 GB,118
-iPhone 6 Plus, 32 GB,105
-iPhone 6 Plus, 64 GB,133
-iPhone 6 Plus, 128 GB,150
-iPhone 6S, 16 GB,106
-iPhone 6S, 32 GB,113
-iPhone 6S, 64 GB,125
-iPhone 6S, 128 GB,147
-iPhone 6S Plus, 16 GB,140
-iPhone 6S Plus, 32 GB,168
-iPhone 6S Plus, 64 GB,163
-iPhone 6S Plus, 128 GB,192
-iPhone 7, 32 GB,151
-iPhone 7, 128 GB,181
-iPhone 7, 256 GB,199
-iPhone 7 Plus, 32 GB,217
-iPhone 7 Plus, 128 GB,248
-iPhone 7 Plus, 256 GB,264
-iPhone 8, 64 GB,240
-iPhone 8, 128 GB,286
-iPhone 8, 256 GB,281
-iPhone 8 Plus, 64 GB,313
-iPhone 8 Plus, 128 GB,340
-iPhone 8 Plus, 256 GB,360
-iPhone X, 64 GB,374
-iPhone X, 256 GB,408
-iPhone Xr, 64 GB,384
-iPhone Xr, 128 GB,416
-iPhone Xr, 256 GB,463
-iPhone Xs, 64 GB,429
-iPhone Xs, 256 GB,491
-iPhone Xs, 512 GB,574
-iPhone Xs Max, 64 GB,501
-iPhone Xs Max, 256 GB,559
-iPhone Xs Max, 512 GB,614
-iPhone 11, 64 GB,544
-iPhone 11, 128 GB,582
-iPhone 11, 256 GB,631
-iPhone 11 Pro, 64 GB,696
-iPhone 11 Pro, 256 GB,749
-iPhone 11 Pro, 512 GB,844
-iPhone 11 Pro Max, 64 GB,782
-iPhone 11 Pro Max, 256 GB,860
-iPhone 11 Pro Max, 512 GB,1004
-iPhone SE 2nd Gen, 64 GB,320
-iPhone SE 2nd Gen, 128 GB,374
-iPhone SE 2nd Gen, 256 GB,431
-iPhone 12, 64 GB,833
-iPhone 12, 128 GB,897
-iPhone 12, 256 GB,1040
-iPhone 12 Pro, 128 GB,1178
-iPhone 12 Pro, 256 GB,1344
-iPhone 12 Pro, 512 GB,1535
+model,storage,price
+iPhoneSE,16GB,87
+iPhoneSE,32GB,102
+iPhoneSE,64GB,120
+iPhoneSE,128GB,145
+iPhone6,16GB,88
+iPhone6,32GB,82
+iPhone6,64GB,96
+iPhone6,128GB,101
+iPhone6Plus,16GB,120
+iPhone6Plus,32GB,105
+iPhone6Plus,64GB,129
+iPhone6Plus,128GB,148
+iPhone6S,16GB,103
+iPhone6S,32GB,111
+iPhone6S,64GB,120
+iPhone6S,128GB,141
+iPhone6SPlus,16GB,138
+iPhone6SPlus,32GB,160
+iPhone6SPlus,64GB,161
+iPhone6SPlus,128GB,189
+iPhone7,32GB,147
+iPhone7,128GB,176
+iPhone7,256GB,199
+iPhone7Plus,32GB,216
+iPhone7Plus,128GB,242
+iPhone7Plus,256GB,262
+iPhone8,64GB,244
+iPhone8,128GB,286
+iPhone8,256GB,278
+iPhone8Plus,64GB,305
+iPhone8Plus,128GB,328
+iPhone8Plus,256GB,352
+iPhoneX,64GB,366
+iPhoneX,256GB,394
+iPhoneXr,64GB,376
+iPhoneXr,128GB,404
+iPhoneXr,256GB,467
+iPhoneXs,64GB,408
+iPhoneXs,256GB,466
+iPhoneXs,512GB,545
+iPhoneXsMax,64GB,482
+iPhoneXsMax,256GB,537
+iPhoneXsMax,512GB,609
+iPhone11,64GB,529
+iPhone11,128GB,567
+iPhone11,256GB,595
+iPhone11Pro,64GB,666
+iPhone11Pro,256GB,724
+iPhone11Pro,512GB,801
+iPhone11ProMax,64GB,755
+iPhone11ProMax,256GB,834
+iPhone11ProMax,512GB,927
+iPhoneSE2ndGen,64GB,316
+iPhoneSE2ndGen,128GB,364
+iPhoneSE2ndGen,256GB,425
+iPhone12,64GB,783
+iPhone12,128GB,859
+iPhone12,256GB,979
+iPhone12Pro,128GB,1149
+iPhone12Pro,256GB,1248
+iPhone12Pro,512GB,1400
