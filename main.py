@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import config
-iPhones = config.prices
+iPhones = config.models
 
 phone_prices = []
 for phone in iPhones:
@@ -16,9 +16,7 @@ for phone in iPhones:
 with open("prices.csv", 'w') as file:
     file.write('model,storage,price\n')
     for n, (phone, price) in enumerate(phone_prices, start=1):
-        print(phone)
-        file.write(phone.replace(" ","") + ',' + price[1:] + '\n')
+        price = int(price[1:])
+        print(price)
+        file.write(phone.replace(" ","") + ',' + str(price) + '\n')
     file.close()
-
-
-
