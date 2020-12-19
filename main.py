@@ -52,10 +52,28 @@ with open('buy_prices.csv', 'w') as file:
         writer.writerow(row)
     file.close()
 
+def calc_sell_price(row):
+    model, storage, carrier, condition, price = row
+    price = float(price)           # str -> float
+    price = 1.2 * price            # calculation
+    price = str(round(price,2) )   # float -> str
+    return [model, storage, carrier, condition, price]
 
-with open('sell_prices.csv', 'w') as file:
-    file.write('model,storage,carrier,condition,price\n')
-    writer = csv.writer(file, delimiter=',')
-    for row in sell_prices:
-        writer.writerow(row)
-    file.close()
+with open('sell_prices.csv', 'w') as sell_file:
+    sell_file.write('model,storage,carrier,condition,price\n')
+    with open('buy_prices.csv', 'r') as buy_file:
+        reader = csv.reader(buy_file, delimiter=',')
+        reader.__next__() # get rid of the header
+        for row in reader:
+            row = calc_sell_price(row) # update price
+            sell_file.write(','.join(row)+'\n')
+        buy_file.close()
+    sell_file.close()
+
+# original colde
+# with open('sell_prices.csv', 'w') as file:
+#     file.write('model,storage,carrier,condition,price\n')
+#     writer = csv.writer(file, delimiter=',')
+#     for row in sell_prices:
+#         writer.writerow(row)
+#     file.close()
