@@ -13,6 +13,14 @@ def calculate_buy(data):
                                                                          float(price)*config.carrier_depreciation[carrier] *
                                                                          config.condition_depreciation[condition], 2))))
 
+def calc_sell_price(row):
+    model, storage, carrier, condition, price = row
+    price = float(price)           # str -> float
+    price = price-((price * config.ebay_fee) + (price * config.sales_tax) + (price * config.company_percentage)) - config.buying_shipping          # calculation
+    price = str(round(price,2) )   # float -> str
+    return [model, storage, carrier, condition, price]
+
+
 iPhones = config.models
 phone_prices = [] #all prices before variations
 buy_prices = [] #all price variations
@@ -43,8 +51,6 @@ with open('buy_prices.csv', 'r') as file:
             for condition in config.condition_depreciation:
                 calculate_buy(buy_prices)
 
-
-
 with open('buy_prices.csv', 'w') as file:
     file.write('model,storage,carrier,condition,price\n')
     writer = csv.writer(file, delimiter=',')
@@ -52,12 +58,6 @@ with open('buy_prices.csv', 'w') as file:
         writer.writerow(row)
     file.close()
 
-def calc_sell_price(row):
-    model, storage, carrier, condition, price = row
-    price = float(price)           # str -> float
-    price = 1.2 * price            # calculation
-    price = str(round(price,2) )   # float -> str
-    return [model, storage, carrier, condition, price]
 
 with open('sell_prices.csv', 'w') as sell_file:
     sell_file.write('model,storage,carrier,condition,price\n')
