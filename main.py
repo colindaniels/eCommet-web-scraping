@@ -3,13 +3,15 @@ from bs4 import BeautifulSoup
 import csv
 import math
 import config
+from tqdm import tqdm
 
 # Declaring lists from config.py
 iPhones = config.iPhones
 apple_watches = config.apple_watches
+samsung = config.samsung
 
 # All prices before variations
-phone_prices = []
+device_prices = []
 
 # Buy prices using the calculate_buy function
 buy_prices = []
@@ -37,33 +39,40 @@ def calc_sell_price(row):
 
 #scrapes models and prices from swappa.com
 def scrape(device):
+    pbar = tqdm(total=len(device['devices']))
     for progress, variation in enumerate(device['devices']):
-        url = f"https://swappa.com/sell/{device['web-prefix']}/apple-{variation}?carrier=unlocked"
+        # Prints progress of program
+        pbar.update(n=1)
+        # Scraping
+        url = f"https://swappa.com/sell/{device['web-prefix']}/{device['brand']}-{variation}?carrier=unlocked"
         headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
         page = requests.get(url, headers=headers)
         soup = BeautifulSoup(page.content, 'html.parser')
-        # If the prices are found in a <td> tag
-        if device['type'] == '<td>':
-            model = soup.find('td').text.strip()
-            price = soup.find_all('td')[1].text.strip()
-            phone_prices.append([model, price])
-        # If the prices are found in a <h2> tag
-        elif device['type'] == '<h2>':
-            # Finds title of product and removes the "Get more green." string after name.
-            model = soup.find('h1').text.strip()[:-16]
-            # Finds price of product at the 3rd index of <h2>
-            price = soup.find_all('h2')[3].text.strip()
-            phone_prices.append([model, price])
-            print(model, price)
-        print(f"{round(progress/len(iPhones['devices'])*100, 1)}% Complete")
-    print('100% Complete')
 
+        # Finds all values in table '<td>' tag
+        if device['price-tag'] == 'td':
+            model_list = [value.text.strip() for value in soup.find_all('td')]
+            for model, price in zip(model_list[::2], model_list[1::2]):
+                device_prices.append([model, int(price[1:])])
+
+        else:
+            model = soup.find(class_='col-xs-12').find('h1').text.strip()[5:-16]
+            if device['price-tag'] == 'h2':
+                # Finds all values in any other tag with specified title and price tags in config.py
+                price = int(soup.find(class_=device['price-class']).find_all(device['price-tag'])[device['price-index']].text.strip()[1:])
+                device_prices.append([model, price])
+            elif device['price-tag'] == 'span':
+                price = soup.find(class_=device['price-class']).text.strip()
+                device_prices.append([model, int(price)])
+
+    print(device_prices)
 scrape(iPhones)
+
+
 
 with open("buy_prices.csv", 'w') as file:
     file.write('model,storage,price\n')
-    for n, (device, price) in enumerate(phone_prices, start=1):
-        price = int(price[1:])
+    for n, (device, price) in enumerate(device_prices, start=1):
         file.write(device.replace(" ","") + ',' + str(price) + '\n')
     file.close()
 

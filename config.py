@@ -1,10 +1,22 @@
 iPhones = {'web-prefix': 'mobile',
-           'devices': ['iphone-se', 'iphone-6', 'iphone-6-plus', 'iphone-6s', 'iphone-6s-plus', 'iphone-7', 'iphone-7-plus', 'iphone-8', 'iphone-8-plus', 'iphone-x', 'iphone-xr', 'iphone-xs', 'iphone-xs-max', 'iphone-se-2nd-gen', 'iphone-11', 'iphone-11-pro', 'iphone-11-pro-max'],
-           'type': '<td>'}
+           'brand': 'apple',
+           'devices': ['iphone-se', 'iphone-6', 'iphone-6-plus', 'iphone-6s', 'iphone-6s-plus', 'iphone-7', 'iphone-7-plus', 'iphone-8', 'iphone-8-plus', 'iphone-x', 'iphone-xr', 'iphone-xs', 'iphone-xs-max', 'iphone-se-2nd-gen', 'iphone-11', 'iphone-11-pro', 'iphone-11-pro-max', 'iphone-12', 'iphone-12-mini', 'iphone-12-pro', 'iphone-12-pro-max'],
+           'price-tag': 'td'
+           }
 apple_watches = {'web-prefix': 'wearables',
+                 'brand': 'apple',
                  'devices': ['watch-1st-gen-38mm', 'watch-1st-gen-42mm', 'watch-se-40mm', 'watch-se-44mm', 'watch-series-5-40mm'],
-                 'type': '<h2>'}
-
+                 'price-class': 'row auto-clear',
+                 'price-tag': 'h2',
+                 'price-index': 1
+                 }
+samsung = {'web-prefix': 'mobile',
+           'brand': 'samsung',
+           'devices': ['galaxy-s8', 'galaxy-s9', 'galaxy-s10', 'galaxy-s7'],
+           'price-class': 'price_value',
+           'price-tag': 'span',
+           'price-index': 0
+           }
 company_percentage = 0.2
 #buying fees
 buying_shipping = 8.61 #flat
@@ -14,7 +26,7 @@ ebay_fee = 0.076
 sales_tax = 0.0625
 
 carrier_depreciation = {'Unlocked': 1, 'Verizon': 1, 'AT&T': 0.962, 'T-Mobile': 0.93, 'Sprint': 0.893, 'Other': 0.65}
-condition_depreciation = {'New': 1.25, 'Like_new': 1.06, 'Good': 1, 'Fair': 0.85, 'Broken': 0.5}
+condition_depreciation = {'New': 1.2, 'Like_new': 1.06, 'Good': 1, 'Fair': 0.85, 'Broken': 0.5}
 
 
 
