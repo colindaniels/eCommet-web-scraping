@@ -12,10 +12,8 @@ samsung = config.samsung
 
 # All prices before variations
 device_prices = []
-
 # Buy prices using the calculate_buy function
 buy_prices = []
-
 # Sell Prices using the calc_sell_price function
 sell_prices = []
 
@@ -23,19 +21,23 @@ sell_prices = []
 def reliable_price(price):
     return 1-(1/(math.sqrt(price)+1)*3)
 
-# Changes price values to be put in buy_prices.csv
+# Appends prices to empty list to be put in buy_prices.csv
 def calculate_buy(data):
     data.append((model, storage, carrier, condition, (round(reliable_price(float(price)) *
                                                                          float(price)*config.carrier_depreciation[carrier] *
                                                                          config.condition_depreciation[condition], 2))))
 
-# Calculates new prices from buy_prices to sell_prices
-def calc_sell_price(row):
-    model, storage, carrier, condition, price = row
-    price = float(price)
-    price = price-((price * config.ebay_fee) + (price * config.sales_tax) + (price * config.company_percentage)) - config.buying_shipping          # calculation
-    price = str(round(price,2) )
-    return [model, storage, carrier, condition, price]
+# Calculates sell prices
+def calculate_sell(price):
+    return round(price-((price * config.ebay_fee) + (price * config.sales_tax) + (price * config.company_percentage)) - config.buying_shipping, 2)
+
+def write_csv(file_name, prices_list):
+    with open(file_name, 'w') as file:
+        file.write('model,storage,carrier,condition,price\n')
+        writer = csv.writer(file, delimiter=',')
+        for row in prices_list:
+            writer.writerow(row)
+        file.close()
 
 #scrapes models and prices from swappa.com
 def scrape(device):
@@ -53,7 +55,9 @@ def scrape(device):
         if device['price-tag'] == 'td':
             model_list = [value.text.strip() for value in soup.find_all('td')]
             for model, price in zip(model_list[::2], model_list[1::2]):
-                device_prices.append([model, int(price[1:])])
+                device_and_model = model.split(', ')
+                device_and_model.append(int(price[1:]))
+                device_prices.append(device_and_model)
 
         else:
             model = soup.find(class_='col-xs-12').find('h1').text.strip()[5:-16]
@@ -65,40 +69,22 @@ def scrape(device):
                 price = soup.find(class_=device['price-class']).text.strip()
                 device_prices.append([model, int(price)])
 
-    print(device_prices)
 scrape(iPhones)
 
 
-
-with open("buy_prices.csv", 'w') as file:
-    file.write('model,storage,price\n')
-    for n, (device, price) in enumerate(device_prices, start=1):
-        file.write(device.replace(" ","") + ',' + str(price) + '\n')
-    file.close()
-
 # Get starting prices
-with open('buy_prices.csv', 'r') as file:
-    for row in file.readlines()[1:]:
-        model, storage, price = row.replace("\n","").split(',')
-        for carrier in config.carrier_depreciation:
-            for condition in config.condition_depreciation:
-                calculate_buy(buy_prices)
-
-with open('buy_prices.csv', 'w') as file:
-    file.write('model,storage,carrier,condition,price\n')
-    writer = csv.writer(file, delimiter=',')
-    for row in buy_prices:
-        writer.writerow(row)
-    file.close()
 
 
-with open('sell_prices.csv', 'w') as sell_file:
-    sell_file.write('model,storage,carrier,condition,price\n')
-    with open('buy_prices.csv', 'r') as buy_file:
-        reader = csv.reader(buy_file, delimiter=',')
-        reader.__next__() # get rid of the header
-        for row in reader:
-            row = calc_sell_price(row) # update price
-            sell_file.write(','.join(row)+'\n')
-        buy_file.close()
-    sell_file.close()
+for element in device_prices:
+    model, storage, price = element
+    for carrier in config.carrier_depreciation:
+        for condition in config.condition_depreciation:
+            calculate_buy(buy_prices)
+
+for model, storage, carrier, condition, price in buy_prices:
+    price = calculate_sell(price)
+    sell_prices.append((model, storage, carrier, condition, price))
+
+
+write_csv('buy_prices.csv', buy_prices)
+write_csv('sell_prices.csv', sell_prices)

@@ -1,2011 +1,2011 @@
 model,storage,carrier,condition,price
-iPhoneSE,16GB,Unlocked,New,39.06
-iPhoneSE,16GB,Unlocked,Like_new,33.49
-iPhoneSE,16GB,Unlocked,Good,31.11
-iPhoneSE,16GB,Unlocked,Fair,25.15
-iPhoneSE,16GB,Unlocked,Broken,11.25
-iPhoneSE,16GB,Verizon,New,39.06
-iPhoneSE,16GB,Verizon,Like_new,33.49
-iPhoneSE,16GB,Verizon,Good,31.11
-iPhoneSE,16GB,Verizon,Fair,25.15
-iPhoneSE,16GB,Verizon,Broken,11.25
-iPhoneSE,16GB,AT&T,New,37.25
-iPhoneSE,16GB,AT&T,Like_new,31.89
-iPhoneSE,16GB,AT&T,Good,29.6
-iPhoneSE,16GB,AT&T,Fair,23.87
-iPhoneSE,16GB,AT&T,Broken,10.49
-iPhoneSE,16GB,T-Mobile,New,35.72
-iPhoneSE,16GB,T-Mobile,Like_new,30.55
-iPhoneSE,16GB,T-Mobile,Good,28.33
-iPhoneSE,16GB,T-Mobile,Fair,22.79
-iPhoneSE,16GB,T-Mobile,Broken,9.86
-iPhoneSE,16GB,Sprint,New,33.96
-iPhoneSE,16GB,Sprint,Like_new,28.99
-iPhoneSE,16GB,Sprint,Good,26.86
-iPhoneSE,16GB,Sprint,Fair,21.54
-iPhoneSE,16GB,Sprint,Broken,9.12
-iPhoneSE,16GB,Other,New,22.37
-iPhoneSE,16GB,Other,Like_new,18.76
-iPhoneSE,16GB,Other,Good,17.21
-iPhoneSE,16GB,Other,Fair,13.34
-iPhoneSE,16GB,Other,Broken,4.3
-iPhoneSE,32GB,Unlocked,New,47.77
-iPhoneSE,32GB,Unlocked,Like_new,41.19
-iPhoneSE,32GB,Unlocked,Good,38.38
-iPhoneSE,32GB,Unlocked,Fair,31.32
-iPhoneSE,32GB,Unlocked,Broken,14.88
-iPhoneSE,32GB,Verizon,New,47.77
-iPhoneSE,32GB,Verizon,Like_new,41.19
-iPhoneSE,32GB,Verizon,Good,38.38
-iPhoneSE,32GB,Verizon,Fair,31.32
-iPhoneSE,32GB,Verizon,Broken,14.88
-iPhoneSE,32GB,AT&T,New,45.63
-iPhoneSE,32GB,AT&T,Like_new,39.3
-iPhoneSE,32GB,AT&T,Good,36.59
-iPhoneSE,32GB,AT&T,Fair,29.81
-iPhoneSE,32GB,AT&T,Broken,13.99
-iPhoneSE,32GB,T-Mobile,New,43.83
-iPhoneSE,32GB,T-Mobile,Like_new,37.71
-iPhoneSE,32GB,T-Mobile,Good,35.08
-iPhoneSE,32GB,T-Mobile,Fair,28.53
-iPhoneSE,32GB,T-Mobile,Broken,13.24
-iPhoneSE,32GB,Sprint,New,41.74
-iPhoneSE,32GB,Sprint,Like_new,35.86
-iPhoneSE,32GB,Sprint,Good,33.35
-iPhoneSE,32GB,Sprint,Fair,27.05
-iPhoneSE,32GB,Sprint,Broken,12.37
-iPhoneSE,32GB,Other,New,28.04
-iPhoneSE,32GB,Other,Like_new,23.76
-iPhoneSE,32GB,Other,Good,21.93
-iPhoneSE,32GB,Other,Fair,17.35
-iPhoneSE,32GB,Other,Broken,6.66
-iPhoneSE,64GB,Unlocked,New,54.54
-iPhoneSE,64GB,Unlocked,Like_new,47.17
-iPhoneSE,64GB,Unlocked,Good,44.02
-iPhoneSE,64GB,Unlocked,Fair,36.13
-iPhoneSE,64GB,Unlocked,Broken,17.7
-iPhoneSE,64GB,Verizon,New,54.54
-iPhoneSE,64GB,Verizon,Like_new,47.17
-iPhoneSE,64GB,Verizon,Good,44.02
-iPhoneSE,64GB,Verizon,Fair,36.13
-iPhoneSE,64GB,Verizon,Broken,17.7
-iPhoneSE,64GB,AT&T,New,52.14
-iPhoneSE,64GB,AT&T,Like_new,45.06
-iPhoneSE,64GB,AT&T,Good,42.02
-iPhoneSE,64GB,AT&T,Fair,34.43
-iPhoneSE,64GB,AT&T,Broken,16.71
-iPhoneSE,64GB,T-Mobile,New,50.12
-iPhoneSE,64GB,T-Mobile,Like_new,43.27
-iPhoneSE,64GB,T-Mobile,Good,40.33
-iPhoneSE,64GB,T-Mobile,Fair,32.99
-iPhoneSE,64GB,T-Mobile,Broken,15.87
-iPhoneSE,64GB,Sprint,New,47.79
-iPhoneSE,64GB,Sprint,Like_new,41.21
-iPhoneSE,64GB,Sprint,Good,38.39
-iPhoneSE,64GB,Sprint,Fair,31.34
-iPhoneSE,64GB,Sprint,Broken,14.89
-iPhoneSE,64GB,Other,New,32.44
-iPhoneSE,64GB,Other,Like_new,27.65
-iPhoneSE,64GB,Other,Good,25.6
-iPhoneSE,64GB,Other,Fair,20.47
-iPhoneSE,64GB,Other,Broken,8.5
-iPhoneSE,128GB,Unlocked,New,71.0
-iPhoneSE,128GB,Unlocked,Like_new,61.71
-iPhoneSE,128GB,Unlocked,Good,57.73
-iPhoneSE,128GB,Unlocked,Fair,47.78
-iPhoneSE,128GB,Unlocked,Broken,24.56
-iPhoneSE,128GB,Verizon,New,71.0
-iPhoneSE,128GB,Verizon,Like_new,61.71
-iPhoneSE,128GB,Verizon,Good,57.73
-iPhoneSE,128GB,Verizon,Fair,47.78
-iPhoneSE,128GB,Verizon,Broken,24.56
-iPhoneSE,128GB,AT&T,New,67.98
-iPhoneSE,128GB,AT&T,Like_new,59.04
-iPhoneSE,128GB,AT&T,Good,55.21
-iPhoneSE,128GB,AT&T,Fair,45.64
-iPhoneSE,128GB,AT&T,Broken,23.3
-iPhoneSE,128GB,T-Mobile,New,65.43
-iPhoneSE,128GB,T-Mobile,Like_new,56.79
-iPhoneSE,128GB,T-Mobile,Good,53.09
-iPhoneSE,128GB,T-Mobile,Fair,43.83
-iPhoneSE,128GB,T-Mobile,Broken,22.24
-iPhoneSE,128GB,Sprint,New,62.48
-iPhoneSE,128GB,Sprint,Like_new,54.19
-iPhoneSE,128GB,Sprint,Good,50.63
-iPhoneSE,128GB,Sprint,Fair,41.75
-iPhoneSE,128GB,Sprint,Broken,21.01
-iPhoneSE,128GB,Other,New,43.14
-iPhoneSE,128GB,Other,Like_new,37.1
-iPhoneSE,128GB,Other,Good,34.51
-iPhoneSE,128GB,Other,Fair,28.04
-iPhoneSE,128GB,Other,Broken,12.95
-iPhone6,16GB,Unlocked,New,35.08
-iPhone6,16GB,Unlocked,Like_new,29.98
-iPhone6,16GB,Unlocked,Good,27.79
-iPhone6,16GB,Unlocked,Fair,22.33
-iPhone6,16GB,Unlocked,Broken,9.59
-iPhone6,16GB,Verizon,New,35.08
-iPhone6,16GB,Verizon,Like_new,29.98
-iPhone6,16GB,Verizon,Good,27.79
-iPhone6,16GB,Verizon,Fair,22.33
-iPhone6,16GB,Verizon,Broken,9.59
-iPhone6,16GB,AT&T,New,33.42
-iPhone6,16GB,AT&T,Like_new,28.51
-iPhone6,16GB,AT&T,Good,26.41
-iPhone6,16GB,AT&T,Fair,21.16
-iPhone6,16GB,AT&T,Broken,8.9
-iPhone6,16GB,T-Mobile,New,32.02
-iPhone6,16GB,T-Mobile,Like_new,27.28
-iPhone6,16GB,T-Mobile,Good,25.25
-iPhone6,16GB,T-Mobile,Fair,20.17
-iPhone6,16GB,T-Mobile,Broken,8.32
-iPhone6,16GB,Sprint,New,30.4
-iPhone6,16GB,Sprint,Like_new,25.85
-iPhone6,16GB,Sprint,Good,23.9
-iPhone6,16GB,Sprint,Fair,19.02
-iPhone6,16GB,Sprint,Broken,7.64
-iPhone6,16GB,Other,New,19.78
-iPhone6,16GB,Other,Like_new,16.47
-iPhone6,16GB,Other,Good,15.05
-iPhone6,16GB,Other,Fair,11.51
-iPhone6,16GB,Other,Broken,3.22
-iPhone6,32GB,Unlocked,New,36.4
-iPhone6,32GB,Unlocked,Like_new,31.15
-iPhone6,32GB,Unlocked,Good,28.9
-iPhone6,32GB,Unlocked,Fair,23.27
-iPhone6,32GB,Unlocked,Broken,10.14
-iPhone6,32GB,Verizon,New,36.4
-iPhone6,32GB,Verizon,Like_new,31.15
-iPhone6,32GB,Verizon,Good,28.9
-iPhone6,32GB,Verizon,Fair,23.27
-iPhone6,32GB,Verizon,Broken,10.14
-iPhone6,32GB,AT&T,New,34.69
-iPhone6,32GB,AT&T,Like_new,29.64
-iPhone6,32GB,AT&T,Good,27.47
-iPhone6,32GB,AT&T,Fair,22.06
-iPhone6,32GB,AT&T,Broken,9.43
-iPhone6,32GB,T-Mobile,New,33.25
-iPhone6,32GB,T-Mobile,Like_new,28.36
-iPhone6,32GB,T-Mobile,Good,26.27
-iPhone6,32GB,T-Mobile,Fair,21.04
-iPhone6,32GB,T-Mobile,Broken,8.83
-iPhone6,32GB,Sprint,New,31.58
-iPhone6,32GB,Sprint,Like_new,26.89
-iPhone6,32GB,Sprint,Good,24.88
-iPhone6,32GB,Sprint,Fair,19.86
-iPhone6,32GB,Sprint,Broken,8.14
-iPhone6,32GB,Other,New,20.65
-iPhone6,32GB,Other,Like_new,17.23
-iPhone6,32GB,Other,Good,15.77
-iPhone6,32GB,Other,Fair,12.11
-iPhone6,32GB,Other,Broken,3.58
-iPhone6,64GB,Unlocked,New,40.39
-iPhone6,64GB,Unlocked,Like_new,34.67
-iPhone6,64GB,Unlocked,Good,32.22
-iPhone6,64GB,Unlocked,Fair,26.1
-iPhone6,64GB,Unlocked,Broken,11.8
-iPhone6,64GB,Verizon,New,40.39
-iPhone6,64GB,Verizon,Like_new,34.67
-iPhone6,64GB,Verizon,Good,32.22
-iPhone6,64GB,Verizon,Fair,26.1
-iPhone6,64GB,Verizon,Broken,11.8
-iPhone6,64GB,AT&T,New,38.53
-iPhone6,64GB,AT&T,Like_new,33.02
-iPhone6,64GB,AT&T,Good,30.67
-iPhone6,64GB,AT&T,Fair,24.78
-iPhone6,64GB,AT&T,Broken,11.03
-iPhone6,64GB,T-Mobile,New,36.96
-iPhone6,64GB,T-Mobile,Like_new,31.64
-iPhone6,64GB,T-Mobile,Good,29.37
-iPhone6,64GB,T-Mobile,Fair,23.67
-iPhone6,64GB,T-Mobile,Broken,10.38
-iPhone6,64GB,Sprint,New,35.15
-iPhone6,64GB,Sprint,Like_new,30.04
-iPhone6,64GB,Sprint,Good,27.85
-iPhone6,64GB,Sprint,Fair,22.38
-iPhone6,64GB,Sprint,Broken,9.62
-iPhone6,64GB,Other,New,23.24
-iPhone6,64GB,Other,Like_new,19.52
-iPhone6,64GB,Other,Good,17.93
-iPhone6,64GB,Other,Fair,13.95
-iPhone6,64GB,Other,Broken,4.66
-iPhone6,128GB,Unlocked,New,46.42
-iPhone6,128GB,Unlocked,Like_new,40.0
-iPhone6,128GB,Unlocked,Good,37.25
-iPhone6,128GB,Unlocked,Fair,30.37
-iPhone6,128GB,Unlocked,Broken,14.32
-iPhone6,128GB,Verizon,New,46.42
-iPhone6,128GB,Verizon,Like_new,40.0
-iPhone6,128GB,Verizon,Good,37.25
-iPhone6,128GB,Verizon,Fair,30.37
-iPhone6,128GB,Verizon,Broken,14.32
-iPhone6,128GB,AT&T,New,44.33
-iPhone6,128GB,AT&T,Like_new,38.16
-iPhone6,128GB,AT&T,Good,35.51
-iPhone6,128GB,AT&T,Fair,28.89
-iPhone6,128GB,AT&T,Broken,13.45
-iPhone6,128GB,T-Mobile,New,42.57
-iPhone6,128GB,T-Mobile,Like_new,36.6
-iPhone6,128GB,T-Mobile,Good,34.04
-iPhone6,128GB,T-Mobile,Fair,27.64
-iPhone6,128GB,T-Mobile,Broken,12.72
-iPhone6,128GB,Sprint,New,40.53
-iPhone6,128GB,Sprint,Like_new,34.8
-iPhone6,128GB,Sprint,Good,32.34
-iPhone6,128GB,Sprint,Fair,26.2
-iPhone6,128GB,Sprint,Broken,11.87
-iPhone6,128GB,Other,New,27.16
-iPhone6,128GB,Other,Like_new,22.99
-iPhone6,128GB,Other,Good,21.2
-iPhone6,128GB,Other,Fair,16.73
-iPhone6,128GB,Other,Broken,6.29
-iPhone6Plus,16GB,Unlocked,New,57.95
-iPhone6Plus,16GB,Unlocked,Like_new,50.18
-iPhone6Plus,16GB,Unlocked,Good,46.86
-iPhone6Plus,16GB,Unlocked,Fair,38.54
-iPhone6Plus,16GB,Unlocked,Broken,19.13
-iPhone6Plus,16GB,Verizon,New,57.95
-iPhone6Plus,16GB,Verizon,Like_new,50.18
-iPhone6Plus,16GB,Verizon,Good,46.86
-iPhone6Plus,16GB,Verizon,Fair,38.54
-iPhone6Plus,16GB,Verizon,Broken,19.13
-iPhone6Plus,16GB,AT&T,New,55.42
-iPhone6Plus,16GB,AT&T,Like_new,47.95
-iPhone6Plus,16GB,AT&T,Good,44.75
-iPhone6Plus,16GB,AT&T,Fair,36.75
-iPhone6Plus,16GB,AT&T,Broken,18.07
-iPhone6Plus,16GB,T-Mobile,New,53.29
-iPhone6Plus,16GB,T-Mobile,Like_new,46.07
-iPhone6Plus,16GB,T-Mobile,Good,42.97
-iPhone6Plus,16GB,T-Mobile,Fair,35.23
-iPhone6Plus,16GB,T-Mobile,Broken,17.18
-iPhone6Plus,16GB,Sprint,New,50.83
-iPhone6Plus,16GB,Sprint,Like_new,43.89
-iPhone6Plus,16GB,Sprint,Good,40.92
-iPhone6Plus,16GB,Sprint,Fair,33.49
-iPhone6Plus,16GB,Sprint,Broken,16.16
-iPhone6Plus,16GB,Other,New,34.65
-iPhone6Plus,16GB,Other,Like_new,29.6
-iPhone6Plus,16GB,Other,Good,27.44
-iPhone6Plus,16GB,Other,Fair,22.04
-iPhone6Plus,16GB,Other,Broken,9.42
-iPhone6Plus,32GB,Unlocked,New,52.51
-iPhone6Plus,32GB,Unlocked,Like_new,45.38
-iPhone6Plus,32GB,Unlocked,Good,42.32
-iPhone6Plus,32GB,Unlocked,Fair,34.68
-iPhone6Plus,32GB,Unlocked,Broken,16.86
-iPhone6Plus,32GB,Verizon,New,52.51
-iPhone6Plus,32GB,Verizon,Like_new,45.38
-iPhone6Plus,32GB,Verizon,Good,42.32
-iPhone6Plus,32GB,Verizon,Fair,34.68
-iPhone6Plus,32GB,Verizon,Broken,16.86
-iPhone6Plus,32GB,AT&T,New,50.18
-iPhone6Plus,32GB,AT&T,Like_new,43.32
-iPhone6Plus,32GB,AT&T,Good,40.39
-iPhone6Plus,32GB,AT&T,Fair,33.04
-iPhone6Plus,32GB,AT&T,Broken,15.89
-iPhone6Plus,32GB,T-Mobile,New,48.23
-iPhone6Plus,32GB,T-Mobile,Like_new,41.6
-iPhone6Plus,32GB,T-Mobile,Good,38.75
-iPhone6Plus,32GB,T-Mobile,Fair,31.65
-iPhone6Plus,32GB,T-Mobile,Broken,15.07
-iPhone6Plus,32GB,Sprint,New,45.97
-iPhone6Plus,32GB,Sprint,Like_new,39.6
-iPhone6Plus,32GB,Sprint,Good,36.87
-iPhone6Plus,32GB,Sprint,Fair,30.05
-iPhone6Plus,32GB,Sprint,Broken,14.13
-iPhone6Plus,32GB,Other,New,31.11
-iPhone6Plus,32GB,Other,Like_new,26.48
-iPhone6Plus,32GB,Other,Good,24.5
-iPhone6Plus,32GB,Other,Fair,19.53
-iPhone6Plus,32GB,Other,Broken,7.94
-iPhone6Plus,64GB,Unlocked,New,68.24
-iPhone6Plus,64GB,Unlocked,Like_new,59.27
-iPhone6Plus,64GB,Unlocked,Good,55.44
-iPhone6Plus,64GB,Unlocked,Fair,45.82
-iPhone6Plus,64GB,Unlocked,Broken,23.41
-iPhone6Plus,64GB,Verizon,New,68.24
-iPhone6Plus,64GB,Verizon,Like_new,59.27
-iPhone6Plus,64GB,Verizon,Good,55.44
-iPhone6Plus,64GB,Verizon,Fair,45.82
-iPhone6Plus,64GB,Verizon,Broken,23.41
-iPhone6Plus,64GB,AT&T,New,65.32
-iPhone6Plus,64GB,AT&T,Like_new,56.69
-iPhone6Plus,64GB,AT&T,Good,53.0
-iPhone6Plus,64GB,AT&T,Fair,43.76
-iPhone6Plus,64GB,AT&T,Broken,22.2
-iPhone6Plus,64GB,T-Mobile,New,62.87
-iPhone6Plus,64GB,T-Mobile,Like_new,54.52
-iPhone6Plus,64GB,T-Mobile,Good,50.95
-iPhone6Plus,64GB,T-Mobile,Fair,42.01
-iPhone6Plus,64GB,T-Mobile,Broken,21.17
-iPhone6Plus,64GB,Sprint,New,60.02
-iPhone6Plus,64GB,Sprint,Like_new,52.01
-iPhone6Plus,64GB,Sprint,Good,48.58
-iPhone6Plus,64GB,Sprint,Fair,40.0
-iPhone6Plus,64GB,Sprint,Broken,19.99
-iPhone6Plus,64GB,Other,New,41.35
-iPhone6Plus,64GB,Other,Like_new,35.52
-iPhone6Plus,64GB,Other,Good,33.02
-iPhone6Plus,64GB,Other,Fair,26.77
-iPhone6Plus,64GB,Other,Broken,12.2
-iPhone6Plus,128GB,Unlocked,New,73.77
-iPhone6Plus,128GB,Unlocked,Like_new,64.16
-iPhone6Plus,128GB,Unlocked,Good,60.04
-iPhone6Plus,128GB,Unlocked,Fair,49.74
-iPhone6Plus,128GB,Unlocked,Broken,25.72
-iPhone6Plus,128GB,Verizon,New,73.77
-iPhone6Plus,128GB,Verizon,Like_new,64.16
-iPhone6Plus,128GB,Verizon,Good,60.04
-iPhone6Plus,128GB,Verizon,Fair,49.74
-iPhone6Plus,128GB,Verizon,Broken,25.72
-iPhone6Plus,128GB,AT&T,New,70.64
-iPhone6Plus,128GB,AT&T,Like_new,61.39
-iPhone6Plus,128GB,AT&T,Good,57.43
-iPhone6Plus,128GB,AT&T,Fair,47.52
-iPhone6Plus,128GB,AT&T,Broken,24.41
-iPhone6Plus,128GB,T-Mobile,New,68.0
-iPhone6Plus,128GB,T-Mobile,Like_new,59.06
-iPhone6Plus,128GB,T-Mobile,Good,55.23
-iPhone6Plus,128GB,T-Mobile,Fair,45.66
-iPhone6Plus,128GB,T-Mobile,Broken,23.31
-iPhone6Plus,128GB,Sprint,New,64.96
-iPhone6Plus,128GB,Sprint,Like_new,56.37
-iPhone6Plus,128GB,Sprint,Good,52.69
-iPhone6Plus,128GB,Sprint,Fair,43.5
-iPhone6Plus,128GB,Sprint,Broken,22.04
-iPhone6Plus,128GB,Other,New,44.94
-iPhone6Plus,128GB,Other,Like_new,38.69
-iPhone6Plus,128GB,Other,Good,36.01
-iPhone6Plus,128GB,Other,Fair,29.32
-iPhone6Plus,128GB,Other,Broken,13.7
-iPhone6S,16GB,Unlocked,New,45.75
-iPhone6S,16GB,Unlocked,Like_new,39.41
-iPhone6S,16GB,Unlocked,Good,36.69
-iPhone6S,16GB,Unlocked,Fair,29.9
-iPhone6S,16GB,Unlocked,Broken,14.04
-iPhone6S,16GB,Verizon,New,45.75
-iPhone6S,16GB,Verizon,Like_new,39.41
-iPhone6S,16GB,Verizon,Good,36.69
-iPhone6S,16GB,Verizon,Fair,29.9
-iPhone6S,16GB,Verizon,Broken,14.04
-iPhone6S,16GB,AT&T,New,43.68
-iPhone6S,16GB,AT&T,Like_new,37.58
-iPhone6S,16GB,AT&T,Good,34.97
-iPhone6S,16GB,AT&T,Fair,28.43
-iPhone6S,16GB,AT&T,Broken,13.18
-iPhone6S,16GB,T-Mobile,New,41.94
-iPhone6S,16GB,T-Mobile,Like_new,36.05
-iPhone6S,16GB,T-Mobile,Good,33.52
-iPhone6S,16GB,T-Mobile,Fair,27.2
-iPhone6S,16GB,T-Mobile,Broken,12.45
-iPhone6S,16GB,Sprint,New,39.93
-iPhone6S,16GB,Sprint,Like_new,34.27
-iPhone6S,16GB,Sprint,Good,31.84
-iPhone6S,16GB,Sprint,Fair,25.77
-iPhone6S,16GB,Sprint,Broken,11.62
-iPhone6S,16GB,Other,New,26.72
-iPhone6S,16GB,Other,Like_new,22.6
-iPhone6S,16GB,Other,Good,20.83
-iPhone6S,16GB,Other,Fair,16.42
-iPhone6S,16GB,Other,Broken,6.11
-iPhone6S,32GB,Unlocked,New,53.19
-iPhone6S,32GB,Unlocked,Like_new,45.98
-iPhone6S,32GB,Unlocked,Good,42.89
-iPhone6S,32GB,Unlocked,Fair,35.16
-iPhone6S,32GB,Unlocked,Broken,17.14
-iPhone6S,32GB,Verizon,New,53.19
-iPhone6S,32GB,Verizon,Like_new,45.98
-iPhone6S,32GB,Verizon,Good,42.89
-iPhone6S,32GB,Verizon,Fair,35.16
-iPhone6S,32GB,Verizon,Broken,17.14
-iPhone6S,32GB,AT&T,New,50.84
-iPhone6S,32GB,AT&T,Like_new,43.9
-iPhone6S,32GB,AT&T,Good,40.93
-iPhone6S,32GB,AT&T,Fair,33.5
-iPhone6S,32GB,AT&T,Broken,16.16
-iPhone6S,32GB,T-Mobile,New,48.86
-iPhone6S,32GB,T-Mobile,Like_new,42.15
-iPhone6S,32GB,T-Mobile,Good,39.28
-iPhone6S,32GB,T-Mobile,Fair,32.1
-iPhone6S,32GB,T-Mobile,Broken,15.34
-iPhone6S,32GB,Sprint,New,46.57
-iPhone6S,32GB,Sprint,Like_new,40.14
-iPhone6S,32GB,Sprint,Good,37.38
-iPhone6S,32GB,Sprint,Fair,30.48
-iPhone6S,32GB,Sprint,Broken,14.38
-iPhone6S,32GB,Other,New,31.56
-iPhone6S,32GB,Other,Like_new,26.87
-iPhone6S,32GB,Other,Good,24.86
-iPhone6S,32GB,Other,Fair,19.84
-iPhone6S,32GB,Other,Broken,8.13
-iPhone6S,64GB,Unlocked,New,59.32
-iPhone6S,64GB,Unlocked,Like_new,51.39
-iPhone6S,64GB,Unlocked,Good,47.99
-iPhone6S,64GB,Unlocked,Fair,39.51
-iPhone6S,64GB,Unlocked,Broken,19.7
-iPhone6S,64GB,Verizon,New,59.32
-iPhone6S,64GB,Verizon,Like_new,51.39
-iPhone6S,64GB,Verizon,Good,47.99
-iPhone6S,64GB,Verizon,Fair,39.51
-iPhone6S,64GB,Verizon,Broken,19.7
-iPhone6S,64GB,AT&T,New,56.74
-iPhone6S,64GB,AT&T,Like_new,49.11
-iPhone6S,64GB,AT&T,Good,45.84
-iPhone6S,64GB,AT&T,Fair,37.68
-iPhone6S,64GB,AT&T,Broken,18.62
-iPhone6S,64GB,T-Mobile,New,54.56
-iPhone6S,64GB,T-Mobile,Like_new,47.19
-iPhone6S,64GB,T-Mobile,Good,44.03
-iPhone6S,64GB,T-Mobile,Fair,36.14
-iPhone6S,64GB,T-Mobile,Broken,17.71
-iPhone6S,64GB,Sprint,New,52.05
-iPhone6S,64GB,Sprint,Like_new,44.97
-iPhone6S,64GB,Sprint,Good,41.94
-iPhone6S,64GB,Sprint,Fair,34.35
-iPhone6S,64GB,Sprint,Broken,16.67
-iPhone6S,64GB,Other,New,35.55
-iPhone6S,64GB,Other,Like_new,30.39
-iPhone6S,64GB,Other,Good,28.18
-iPhone6S,64GB,Other,Fair,22.67
-iPhone6S,64GB,Other,Broken,9.79
-iPhone6S,128GB,Unlocked,New,71.0
-iPhone6S,128GB,Unlocked,Like_new,61.71
-iPhone6S,128GB,Unlocked,Good,57.73
-iPhone6S,128GB,Unlocked,Fair,47.78
-iPhone6S,128GB,Unlocked,Broken,24.56
-iPhone6S,128GB,Verizon,New,71.0
-iPhone6S,128GB,Verizon,Like_new,61.71
-iPhone6S,128GB,Verizon,Good,57.73
-iPhone6S,128GB,Verizon,Fair,47.78
-iPhone6S,128GB,Verizon,Broken,24.56
-iPhone6S,128GB,AT&T,New,67.98
-iPhone6S,128GB,AT&T,Like_new,59.04
-iPhone6S,128GB,AT&T,Good,55.21
-iPhone6S,128GB,AT&T,Fair,45.64
-iPhone6S,128GB,AT&T,Broken,23.3
-iPhone6S,128GB,T-Mobile,New,65.43
-iPhone6S,128GB,T-Mobile,Like_new,56.79
-iPhone6S,128GB,T-Mobile,Good,53.09
-iPhone6S,128GB,T-Mobile,Fair,43.83
-iPhone6S,128GB,T-Mobile,Broken,22.24
-iPhone6S,128GB,Sprint,New,62.48
-iPhone6S,128GB,Sprint,Like_new,54.19
-iPhone6S,128GB,Sprint,Good,50.63
-iPhone6S,128GB,Sprint,Fair,41.75
-iPhone6S,128GB,Sprint,Broken,21.01
-iPhone6S,128GB,Other,New,43.14
-iPhone6S,128GB,Other,Like_new,37.1
-iPhone6S,128GB,Other,Good,34.51
-iPhone6S,128GB,Other,Fair,28.04
-iPhone6S,128GB,Other,Broken,12.95
-iPhone6SPlus,16GB,Unlocked,New,76.54
-iPhone6SPlus,16GB,Unlocked,Like_new,66.61
-iPhone6SPlus,16GB,Unlocked,Good,62.35
-iPhone6SPlus,16GB,Unlocked,Fair,51.71
-iPhone6SPlus,16GB,Unlocked,Broken,26.87
-iPhone6SPlus,16GB,Verizon,New,76.54
-iPhone6SPlus,16GB,Verizon,Like_new,66.61
-iPhone6SPlus,16GB,Verizon,Good,62.35
-iPhone6SPlus,16GB,Verizon,Fair,51.71
-iPhone6SPlus,16GB,Verizon,Broken,26.87
-iPhone6SPlus,16GB,AT&T,New,73.3
-iPhone6SPlus,16GB,AT&T,Like_new,63.75
-iPhone6SPlus,16GB,AT&T,Good,59.65
-iPhone6SPlus,16GB,AT&T,Fair,49.41
-iPhone6SPlus,16GB,AT&T,Broken,25.52
-iPhone6SPlus,16GB,T-Mobile,New,70.58
-iPhone6SPlus,16GB,T-Mobile,Like_new,61.34
-iPhone6SPlus,16GB,T-Mobile,Good,57.38
-iPhone6SPlus,16GB,T-Mobile,Fair,47.49
-iPhone6SPlus,16GB,T-Mobile,Broken,24.39
-iPhone6SPlus,16GB,Sprint,New,67.43
-iPhone6SPlus,16GB,Sprint,Like_new,58.56
-iPhone6SPlus,16GB,Sprint,Good,54.76
-iPhone6SPlus,16GB,Sprint,Fair,45.25
-iPhone6SPlus,16GB,Sprint,Broken,23.08
-iPhone6SPlus,16GB,Other,New,46.74
-iPhone6SPlus,16GB,Other,Like_new,40.28
-iPhone6SPlus,16GB,Other,Good,37.52
-iPhone6SPlus,16GB,Other,Fair,30.6
-iPhone6SPlus,16GB,Other,Broken,14.45
-iPhone6SPlus,32GB,Unlocked,New,84.89
-iPhone6SPlus,32GB,Unlocked,Like_new,73.98
-iPhone6SPlus,32GB,Unlocked,Good,69.31
-iPhone6SPlus,32GB,Unlocked,Fair,57.62
-iPhone6SPlus,32GB,Unlocked,Broken,30.35
-iPhone6SPlus,32GB,Verizon,New,84.89
-iPhone6SPlus,32GB,Verizon,Like_new,73.98
-iPhone6SPlus,32GB,Verizon,Good,69.31
-iPhone6SPlus,32GB,Verizon,Fair,57.62
-iPhone6SPlus,32GB,Verizon,Broken,30.35
-iPhone6SPlus,32GB,AT&T,New,81.33
-iPhone6SPlus,32GB,AT&T,Like_new,70.84
-iPhone6SPlus,32GB,AT&T,Good,66.34
-iPhone6SPlus,32GB,AT&T,Fair,55.11
-iPhone6SPlus,32GB,AT&T,Broken,28.87
-iPhone6SPlus,32GB,T-Mobile,New,78.34
-iPhone6SPlus,32GB,T-Mobile,Like_new,68.2
-iPhone6SPlus,32GB,T-Mobile,Good,63.85
-iPhone6SPlus,32GB,T-Mobile,Fair,52.98
-iPhone6SPlus,32GB,T-Mobile,Broken,27.62
-iPhone6SPlus,32GB,Sprint,New,74.88
-iPhone6SPlus,32GB,Sprint,Like_new,65.15
-iPhone6SPlus,32GB,Sprint,Good,60.97
-iPhone6SPlus,32GB,Sprint,Fair,50.53
-iPhone6SPlus,32GB,Sprint,Broken,26.18
-iPhone6SPlus,32GB,Other,New,52.16
-iPhone6SPlus,32GB,Other,Like_new,45.08
-iPhone6SPlus,32GB,Other,Good,42.03
-iPhone6SPlus,32GB,Other,Fair,34.44
-iPhone6SPlus,32GB,Other,Broken,16.71
-iPhone6SPlus,64GB,Unlocked,New,88.39
-iPhone6SPlus,64GB,Unlocked,Like_new,77.07
-iPhone6SPlus,64GB,Unlocked,Good,72.22
-iPhone6SPlus,64GB,Unlocked,Fair,60.09
-iPhone6SPlus,64GB,Unlocked,Broken,31.8
-iPhone6SPlus,64GB,Verizon,New,88.39
-iPhone6SPlus,64GB,Verizon,Like_new,77.07
-iPhone6SPlus,64GB,Verizon,Good,72.22
-iPhone6SPlus,64GB,Verizon,Fair,60.09
-iPhone6SPlus,64GB,Verizon,Broken,31.8
-iPhone6SPlus,64GB,AT&T,New,84.69
-iPhone6SPlus,64GB,AT&T,Like_new,73.81
-iPhone6SPlus,64GB,AT&T,Good,69.15
-iPhone6SPlus,64GB,AT&T,Fair,57.48
-iPhone6SPlus,64GB,AT&T,Broken,30.27
-iPhone6SPlus,64GB,T-Mobile,New,81.59
-iPhone6SPlus,64GB,T-Mobile,Like_new,71.07
-iPhone6SPlus,64GB,T-Mobile,Good,66.56
-iPhone6SPlus,64GB,T-Mobile,Fair,55.28
-iPhone6SPlus,64GB,T-Mobile,Broken,28.98
-iPhone6SPlus,64GB,Sprint,New,78.01
-iPhone6SPlus,64GB,Sprint,Like_new,67.9
-iPhone6SPlus,64GB,Sprint,Good,63.57
-iPhone6SPlus,64GB,Sprint,Fair,52.74
-iPhone6SPlus,64GB,Sprint,Broken,27.48
-iPhone6SPlus,64GB,Other,New,54.44
-iPhone6SPlus,64GB,Other,Like_new,47.08
-iPhone6SPlus,64GB,Other,Good,43.93
-iPhone6SPlus,64GB,Other,Fair,36.05
-iPhone6SPlus,64GB,Other,Broken,17.66
-iPhone6SPlus,128GB,Unlocked,New,103.13
-iPhone6SPlus,128GB,Unlocked,Like_new,90.09
-iPhone6SPlus,128GB,Unlocked,Good,84.51
-iPhone6SPlus,128GB,Unlocked,Fair,70.54
-iPhone6SPlus,128GB,Unlocked,Broken,37.95
-iPhone6SPlus,128GB,Verizon,New,103.13
-iPhone6SPlus,128GB,Verizon,Like_new,90.09
-iPhone6SPlus,128GB,Verizon,Good,84.51
-iPhone6SPlus,128GB,Verizon,Fair,70.54
-iPhone6SPlus,128GB,Verizon,Broken,37.95
-iPhone6SPlus,128GB,AT&T,New,98.88
-iPhone6SPlus,128GB,AT&T,Like_new,86.34
-iPhone6SPlus,128GB,AT&T,Good,80.97
-iPhone6SPlus,128GB,AT&T,Fair,67.53
-iPhone6SPlus,128GB,AT&T,Broken,36.18
-iPhone6SPlus,128GB,T-Mobile,New,95.31
-iPhone6SPlus,128GB,T-Mobile,Like_new,83.19
-iPhone6SPlus,128GB,T-Mobile,Good,77.99
-iPhone6SPlus,128GB,T-Mobile,Fair,65.0
-iPhone6SPlus,128GB,T-Mobile,Broken,34.69
-iPhone6SPlus,128GB,Sprint,New,91.17
-iPhone6SPlus,128GB,Sprint,Like_new,79.53
-iPhone6SPlus,128GB,Sprint,Good,74.54
-iPhone6SPlus,128GB,Sprint,Fair,62.07
-iPhone6SPlus,128GB,Sprint,Broken,32.97
-iPhone6SPlus,128GB,Other,New,64.02
-iPhone6SPlus,128GB,Other,Like_new,55.55
-iPhone6SPlus,128GB,Other,Good,51.92
-iPhone6SPlus,128GB,Other,Fair,42.83
-iPhone6SPlus,128GB,Other,Broken,21.65
-iPhone7,32GB,Unlocked,New,83.5
-iPhone7,32GB,Unlocked,Like_new,72.75
-iPhone7,32GB,Unlocked,Good,68.14
-iPhone7,32GB,Unlocked,Fair,56.63
-iPhone7,32GB,Unlocked,Broken,29.77
-iPhone7,32GB,Verizon,New,83.5
-iPhone7,32GB,Verizon,Like_new,72.75
-iPhone7,32GB,Verizon,Good,68.14
-iPhone7,32GB,Verizon,Fair,56.63
-iPhone7,32GB,Verizon,Broken,29.77
-iPhone7,32GB,AT&T,New,80.0
-iPhone7,32GB,AT&T,Like_new,69.66
-iPhone7,32GB,AT&T,Good,65.23
-iPhone7,32GB,AT&T,Fair,54.15
-iPhone7,32GB,AT&T,Broken,28.31
-iPhone7,32GB,T-Mobile,New,77.05
-iPhone7,32GB,T-Mobile,Like_new,67.05
-iPhone7,32GB,T-Mobile,Good,62.77
-iPhone7,32GB,T-Mobile,Fair,52.06
-iPhone7,32GB,T-Mobile,Broken,27.08
-iPhone7,32GB,Sprint,New,73.64
-iPhone7,32GB,Sprint,Like_new,64.04
-iPhone7,32GB,Sprint,Good,59.93
-iPhone7,32GB,Sprint,Fair,49.65
-iPhone7,32GB,Sprint,Broken,25.66
-iPhone7,32GB,Other,New,51.26
-iPhone7,32GB,Other,Like_new,44.28
-iPhone7,32GB,Other,Good,41.28
-iPhone7,32GB,Other,Fair,33.8
-iPhone7,32GB,Other,Broken,16.34
-iPhone7,128GB,Unlocked,New,92.59
-iPhone7,128GB,Unlocked,Like_new,80.78
-iPhone7,128GB,Unlocked,Good,75.72
-iPhone7,128GB,Unlocked,Fair,63.07
-iPhone7,128GB,Unlocked,Broken,33.55
-iPhone7,128GB,Verizon,New,92.59
-iPhone7,128GB,Verizon,Like_new,80.78
-iPhone7,128GB,Verizon,Good,75.72
-iPhone7,128GB,Verizon,Fair,63.07
-iPhone7,128GB,Verizon,Broken,33.55
-iPhone7,128GB,AT&T,New,88.74
-iPhone7,128GB,AT&T,Like_new,77.38
-iPhone7,128GB,AT&T,Good,72.52
-iPhone7,128GB,AT&T,Fair,60.34
-iPhone7,128GB,AT&T,Broken,31.95
-iPhone7,128GB,T-Mobile,New,85.5
-iPhone7,128GB,T-Mobile,Like_new,74.52
-iPhone7,128GB,T-Mobile,Good,69.82
-iPhone7,128GB,T-Mobile,Fair,58.05
-iPhone7,128GB,T-Mobile,Broken,30.6
-iPhone7,128GB,Sprint,New,81.76
-iPhone7,128GB,Sprint,Like_new,71.21
-iPhone7,128GB,Sprint,Good,66.7
-iPhone7,128GB,Sprint,Fair,55.4
-iPhone7,128GB,Sprint,Broken,29.04
-iPhone7,128GB,Other,New,57.16
-iPhone7,128GB,Other,Like_new,49.49
-iPhone7,128GB,Other,Good,46.2
-iPhone7,128GB,Other,Fair,37.98
-iPhone7,128GB,Other,Broken,18.8
-iPhone7,256GB,Unlocked,New,104.54
-iPhone7,256GB,Unlocked,Like_new,91.34
-iPhone7,256GB,Unlocked,Good,85.68
-iPhone7,256GB,Unlocked,Fair,71.54
-iPhone7,256GB,Unlocked,Broken,38.54
-iPhone7,256GB,Verizon,New,104.54
-iPhone7,256GB,Verizon,Like_new,91.34
-iPhone7,256GB,Verizon,Good,85.68
-iPhone7,256GB,Verizon,Fair,71.54
-iPhone7,256GB,Verizon,Broken,38.54
-iPhone7,256GB,AT&T,New,100.24
-iPhone7,256GB,AT&T,Like_new,87.54
-iPhone7,256GB,AT&T,Good,82.1
-iPhone7,256GB,AT&T,Fair,68.49
-iPhone7,256GB,AT&T,Broken,36.74
-iPhone7,256GB,T-Mobile,New,96.62
-iPhone7,256GB,T-Mobile,Like_new,84.34
-iPhone7,256GB,T-Mobile,Good,79.08
-iPhone7,256GB,T-Mobile,Fair,65.93
-iPhone7,256GB,T-Mobile,Broken,35.23
-iPhone7,256GB,Sprint,New,92.43
-iPhone7,256GB,Sprint,Like_new,80.65
-iPhone7,256GB,Sprint,Good,75.59
-iPhone7,256GB,Sprint,Fair,62.96
-iPhone7,256GB,Sprint,Broken,33.49
-iPhone7,256GB,Other,New,64.94
-iPhone7,256GB,Other,Like_new,56.36
-iPhone7,256GB,Other,Good,52.68
-iPhone7,256GB,Other,Fair,43.48
-iPhone7,256GB,Other,Broken,22.04
-iPhone7Plus,32GB,Unlocked,New,127.23
-iPhone7Plus,32GB,Unlocked,Like_new,111.38
-iPhone7Plus,32GB,Unlocked,Good,104.59
-iPhone7Plus,32GB,Unlocked,Fair,87.61
-iPhone7Plus,32GB,Unlocked,Broken,47.99
-iPhone7Plus,32GB,Verizon,New,127.23
-iPhone7Plus,32GB,Verizon,Like_new,111.38
-iPhone7Plus,32GB,Verizon,Good,104.59
-iPhone7Plus,32GB,Verizon,Fair,87.61
-iPhone7Plus,32GB,Verizon,Broken,47.99
-iPhone7Plus,32GB,AT&T,New,122.07
-iPhone7Plus,32GB,AT&T,Like_new,106.82
-iPhone7Plus,32GB,AT&T,Good,100.29
-iPhone7Plus,32GB,AT&T,Fair,83.95
-iPhone7Plus,32GB,AT&T,Broken,45.84
-iPhone7Plus,32GB,T-Mobile,New,117.72
-iPhone7Plus,32GB,T-Mobile,Like_new,102.99
-iPhone7Plus,32GB,T-Mobile,Good,96.67
-iPhone7Plus,32GB,T-Mobile,Fair,80.88
-iPhone7Plus,32GB,T-Mobile,Broken,44.03
-iPhone7Plus,32GB,Sprint,New,112.7
-iPhone7Plus,32GB,Sprint,Like_new,98.54
-iPhone7Plus,32GB,Sprint,Good,92.48
-iPhone7Plus,32GB,Sprint,Fair,77.31
-iPhone7Plus,32GB,Sprint,Broken,41.94
-iPhone7Plus,32GB,Other,New,79.69
-iPhone7Plus,32GB,Other,Like_new,69.39
-iPhone7Plus,32GB,Other,Good,64.97
-iPhone7Plus,32GB,Other,Fair,53.93
-iPhone7Plus,32GB,Other,Broken,28.18
-iPhone7Plus,128GB,Unlocked,New,142.95
-iPhone7Plus,128GB,Unlocked,Like_new,125.26
-iPhone7Plus,128GB,Unlocked,Good,117.68
-iPhone7Plus,128GB,Unlocked,Fair,98.74
-iPhone7Plus,128GB,Unlocked,Broken,54.54
-iPhone7Plus,128GB,Verizon,New,142.95
-iPhone7Plus,128GB,Verizon,Like_new,125.26
-iPhone7Plus,128GB,Verizon,Good,117.68
-iPhone7Plus,128GB,Verizon,Fair,98.74
-iPhone7Plus,128GB,Verizon,Broken,54.54
-iPhone7Plus,128GB,AT&T,New,137.18
-iPhone7Plus,128GB,AT&T,Like_new,120.18
-iPhone7Plus,128GB,AT&T,Good,112.89
-iPhone7Plus,128GB,AT&T,Fair,94.66
-iPhone7Plus,128GB,AT&T,Broken,52.14
-iPhone7Plus,128GB,T-Mobile,New,132.34
-iPhone7Plus,128GB,T-Mobile,Like_new,115.89
-iPhone7Plus,128GB,T-Mobile,Good,108.85
-iPhone7Plus,128GB,T-Mobile,Fair,91.23
-iPhone7Plus,128GB,T-Mobile,Broken,50.12
-iPhone7Plus,128GB,Sprint,New,126.73
-iPhone7Plus,128GB,Sprint,Like_new,110.94
-iPhone7Plus,128GB,Sprint,Good,104.18
-iPhone7Plus,128GB,Sprint,Fair,87.25
-iPhone7Plus,128GB,Sprint,Broken,47.78
-iPhone7Plus,128GB,Other,New,89.9
-iPhone7Plus,128GB,Other,Like_new,78.41
-iPhone7Plus,128GB,Other,Good,73.48
-iPhone7Plus,128GB,Other,Fair,61.17
-iPhone7Plus,128GB,Other,Broken,32.44
-iPhone7Plus,256GB,Unlocked,New,152.99
-iPhone7Plus,256GB,Unlocked,Like_new,134.14
-iPhone7Plus,256GB,Unlocked,Good,126.06
-iPhone7Plus,256GB,Unlocked,Fair,105.86
-iPhone7Plus,256GB,Unlocked,Broken,58.72
-iPhone7Plus,256GB,Verizon,New,152.99
-iPhone7Plus,256GB,Verizon,Like_new,134.14
-iPhone7Plus,256GB,Verizon,Good,126.06
-iPhone7Plus,256GB,Verizon,Fair,105.86
-iPhone7Plus,256GB,Verizon,Broken,58.72
-iPhone7Plus,256GB,AT&T,New,146.85
-iPhone7Plus,256GB,AT&T,Like_new,128.71
-iPhone7Plus,256GB,AT&T,Good,120.94
-iPhone7Plus,256GB,AT&T,Fair,101.5
-iPhone7Plus,256GB,AT&T,Broken,56.16
-iPhone7Plus,256GB,T-Mobile,New,141.68
-iPhone7Plus,256GB,T-Mobile,Like_new,124.15
-iPhone7Plus,256GB,T-Mobile,Good,116.63
-iPhone7Plus,256GB,T-Mobile,Fair,97.85
-iPhone7Plus,256GB,T-Mobile,Broken,54.01
-iPhone7Plus,256GB,Sprint,New,135.7
-iPhone7Plus,256GB,Sprint,Like_new,118.86
-iPhone7Plus,256GB,Sprint,Good,111.64
-iPhone7Plus,256GB,Sprint,Fair,93.6
-iPhone7Plus,256GB,Sprint,Broken,51.52
-iPhone7Plus,256GB,Other,New,96.43
-iPhone7Plus,256GB,Other,Like_new,84.17
-iPhone7Plus,256GB,Other,Good,78.92
-iPhone7Plus,256GB,Other,Fair,65.8
-iPhone7Plus,256GB,Other,Broken,35.15
-iPhone8,64GB,Unlocked,New,140.08
-iPhone8,64GB,Unlocked,Like_new,122.74
-iPhone8,64GB,Unlocked,Good,115.3
-iPhone8,64GB,Unlocked,Fair,96.71
-iPhone8,64GB,Unlocked,Broken,53.35
-iPhone8,64GB,Verizon,New,140.08
-iPhone8,64GB,Verizon,Like_new,122.74
-iPhone8,64GB,Verizon,Good,115.3
-iPhone8,64GB,Verizon,Fair,96.71
-iPhone8,64GB,Verizon,Broken,53.35
-iPhone8,64GB,AT&T,New,134.43
-iPhone8,64GB,AT&T,Like_new,117.74
-iPhone8,64GB,AT&T,Good,110.59
-iPhone8,64GB,AT&T,Fair,92.71
-iPhone8,64GB,AT&T,Broken,50.99
-iPhone8,64GB,T-Mobile,New,129.68
-iPhone8,64GB,T-Mobile,Like_new,113.54
-iPhone8,64GB,T-Mobile,Good,106.62
-iPhone8,64GB,T-Mobile,Fair,89.34
-iPhone8,64GB,T-Mobile,Broken,49.01
-iPhone8,64GB,Sprint,New,124.17
-iPhone8,64GB,Sprint,Like_new,108.68
-iPhone8,64GB,Sprint,Good,102.04
-iPhone8,64GB,Sprint,Fair,85.44
-iPhone8,64GB,Sprint,Broken,46.72
-iPhone8,64GB,Other,New,88.04
-iPhone8,64GB,Other,Like_new,76.76
-iPhone8,64GB,Other,Good,71.93
-iPhone8,64GB,Other,Fair,59.85
-iPhone8,64GB,Other,Broken,31.66
-iPhone8,128GB,Unlocked,New,194.16
-iPhone8,128GB,Unlocked,Like_new,170.5
-iPhone8,128GB,Unlocked,Good,160.36
-iPhone8,128GB,Unlocked,Fair,135.02
-iPhone8,128GB,Unlocked,Broken,75.88
-iPhone8,128GB,Verizon,New,194.16
-iPhone8,128GB,Verizon,Like_new,170.5
-iPhone8,128GB,Verizon,Good,160.36
-iPhone8,128GB,Verizon,Fair,135.02
-iPhone8,128GB,Verizon,Broken,75.88
-iPhone8,128GB,AT&T,New,186.46
-iPhone8,128GB,AT&T,Like_new,163.7
-iPhone8,128GB,AT&T,Good,153.95
-iPhone8,128GB,AT&T,Fair,129.56
-iPhone8,128GB,AT&T,Broken,72.67
-iPhone8,128GB,T-Mobile,New,179.97
-iPhone8,128GB,T-Mobile,Like_new,157.97
-iPhone8,128GB,T-Mobile,Good,148.54
-iPhone8,128GB,T-Mobile,Fair,124.97
-iPhone8,128GB,T-Mobile,Broken,69.96
-iPhone8,128GB,Sprint,New,172.46
-iPhone8,128GB,Sprint,Like_new,151.34
-iPhone8,128GB,Sprint,Good,142.28
-iPhone8,128GB,Sprint,Fair,119.65
-iPhone8,128GB,Sprint,Broken,66.84
-iPhone8,128GB,Other,New,123.19
-iPhone8,128GB,Other,Like_new,107.81
-iPhone8,128GB,Other,Good,101.23
-iPhone8,128GB,Other,Fair,84.75
-iPhone8,128GB,Other,Broken,46.31
-iPhone8,256GB,Unlocked,New,170.99
-iPhone8,256GB,Unlocked,Like_new,150.04
-iPhone8,256GB,Unlocked,Good,141.06
-iPhone8,256GB,Unlocked,Fair,118.61
-iPhone8,256GB,Unlocked,Broken,66.23
-iPhone8,256GB,Verizon,New,170.99
-iPhone8,256GB,Verizon,Like_new,150.04
-iPhone8,256GB,Verizon,Good,141.06
-iPhone8,256GB,Verizon,Fair,118.61
-iPhone8,256GB,Verizon,Broken,66.23
-iPhone8,256GB,AT&T,New,164.17
-iPhone8,256GB,AT&T,Like_new,144.01
-iPhone8,256GB,AT&T,Good,135.37
-iPhone8,256GB,AT&T,Fair,113.77
-iPhone8,256GB,AT&T,Broken,63.38
-iPhone8,256GB,T-Mobile,New,158.43
-iPhone8,256GB,T-Mobile,Like_new,138.94
-iPhone8,256GB,T-Mobile,Good,130.58
-iPhone8,256GB,T-Mobile,Fair,109.71
-iPhone8,256GB,T-Mobile,Broken,60.99
-iPhone8,256GB,Sprint,New,151.78
-iPhone8,256GB,Sprint,Like_new,133.06
-iPhone8,256GB,Sprint,Good,125.05
-iPhone8,256GB,Sprint,Fair,105.0
-iPhone8,256GB,Sprint,Broken,58.22
-iPhone8,256GB,Other,New,108.13
-iPhone8,256GB,Other,Like_new,94.51
-iPhone8,256GB,Other,Good,88.68
-iPhone8,256GB,Other,Fair,74.08
-iPhone8,256GB,Other,Broken,40.03
-iPhone8Plus,64GB,Unlocked,New,191.26
-iPhone8Plus,64GB,Unlocked,Like_new,167.94
-iPhone8Plus,64GB,Unlocked,Good,157.95
-iPhone8Plus,64GB,Unlocked,Fair,132.96
-iPhone8Plus,64GB,Unlocked,Broken,74.67
-iPhone8Plus,64GB,Verizon,New,191.26
-iPhone8Plus,64GB,Verizon,Like_new,167.94
-iPhone8Plus,64GB,Verizon,Good,157.95
-iPhone8Plus,64GB,Verizon,Fair,132.96
-iPhone8Plus,64GB,Verizon,Broken,74.67
-iPhone8Plus,64GB,AT&T,New,183.66
-iPhone8Plus,64GB,AT&T,Like_new,161.23
-iPhone8Plus,64GB,AT&T,Good,151.62
-iPhone8Plus,64GB,AT&T,Fair,127.59
-iPhone8Plus,64GB,AT&T,Broken,71.5
-iPhone8Plus,64GB,T-Mobile,New,177.27
-iPhone8Plus,64GB,T-Mobile,Like_new,155.58
-iPhone8Plus,64GB,T-Mobile,Good,146.29
-iPhone8Plus,64GB,T-Mobile,Fair,123.05
-iPhone8Plus,64GB,T-Mobile,Broken,68.84
-iPhone8Plus,64GB,Sprint,New,169.88
-iPhone8Plus,64GB,Sprint,Like_new,149.05
-iPhone8Plus,64GB,Sprint,Good,140.13
-iPhone8Plus,64GB,Sprint,Fair,117.82
-iPhone8Plus,64GB,Sprint,Broken,65.76
-iPhone8Plus,64GB,Other,New,121.3
-iPhone8Plus,64GB,Other,Like_new,106.15
-iPhone8Plus,64GB,Other,Good,99.65
-iPhone8Plus,64GB,Other,Fair,83.41
-iPhone8Plus,64GB,Other,Broken,45.52
-iPhone8Plus,128GB,Unlocked,New,218.17
-iPhone8Plus,128GB,Unlocked,Like_new,191.71
-iPhone8Plus,128GB,Unlocked,Good,180.37
-iPhone8Plus,128GB,Unlocked,Fair,152.03
-iPhone8Plus,128GB,Unlocked,Broken,85.89
-iPhone8Plus,128GB,Verizon,New,218.17
-iPhone8Plus,128GB,Verizon,Like_new,191.71
-iPhone8Plus,128GB,Verizon,Good,180.37
-iPhone8Plus,128GB,Verizon,Fair,152.03
-iPhone8Plus,128GB,Verizon,Broken,85.89
-iPhone8Plus,128GB,AT&T,New,209.55
-iPhone8Plus,128GB,AT&T,Like_new,184.1
-iPhone8Plus,128GB,AT&T,Good,173.19
-iPhone8Plus,128GB,AT&T,Fair,145.92
-iPhone8Plus,128GB,AT&T,Broken,82.29
-iPhone8Plus,128GB,T-Mobile,New,202.3
-iPhone8Plus,128GB,T-Mobile,Like_new,177.69
-iPhone8Plus,128GB,T-Mobile,Good,167.14
-iPhone8Plus,128GB,T-Mobile,Fair,140.78
-iPhone8Plus,128GB,T-Mobile,Broken,79.27
-iPhone8Plus,128GB,Sprint,New,193.91
-iPhone8Plus,128GB,Sprint,Like_new,170.28
-iPhone8Plus,128GB,Sprint,Good,160.15
-iPhone8Plus,128GB,Sprint,Fair,134.84
-iPhone8Plus,128GB,Sprint,Broken,75.77
-iPhone8Plus,128GB,Other,New,138.8
-iPhone8Plus,128GB,Other,Like_new,121.6
-iPhone8Plus,128GB,Other,Good,114.23
-iPhone8Plus,128GB,Other,Fair,95.8
-iPhone8Plus,128GB,Other,Broken,52.81
-iPhone8Plus,256GB,Unlocked,New,221.09
-iPhone8Plus,256GB,Unlocked,Like_new,194.29
-iPhone8Plus,256GB,Unlocked,Good,182.81
-iPhone8Plus,256GB,Unlocked,Fair,154.09
-iPhone8Plus,256GB,Unlocked,Broken,87.1
-iPhone8Plus,256GB,Verizon,New,221.09
-iPhone8Plus,256GB,Verizon,Like_new,194.29
-iPhone8Plus,256GB,Verizon,Good,182.81
-iPhone8Plus,256GB,Verizon,Fair,154.09
-iPhone8Plus,256GB,Verizon,Broken,87.1
-iPhone8Plus,256GB,AT&T,New,212.36
-iPhone8Plus,256GB,AT&T,Like_new,186.58
-iPhone8Plus,256GB,AT&T,Good,175.53
-iPhone8Plus,256GB,AT&T,Fair,147.91
-iPhone8Plus,256GB,AT&T,Broken,83.46
-iPhone8Plus,256GB,T-Mobile,New,205.01
-iPhone8Plus,256GB,T-Mobile,Like_new,180.09
-iPhone8Plus,256GB,T-Mobile,Good,169.41
-iPhone8Plus,256GB,T-Mobile,Fair,142.7
-iPhone8Plus,256GB,T-Mobile,Broken,80.4
-iPhone8Plus,256GB,Sprint,New,196.51
-iPhone8Plus,256GB,Sprint,Like_new,172.58
-iPhone8Plus,256GB,Sprint,Good,162.32
-iPhone8Plus,256GB,Sprint,Fair,136.68
-iPhone8Plus,256GB,Sprint,Broken,76.86
-iPhone8Plus,256GB,Other,New,140.7
-iPhone8Plus,256GB,Other,Like_new,123.27
-iPhone8Plus,256GB,Other,Good,115.81
-iPhone8Plus,256GB,Other,Fair,97.14
-iPhone8Plus,256GB,Other,Broken,53.6
-iPhoneX,64GB,Unlocked,New,228.39
-iPhoneX,64GB,Unlocked,Like_new,200.74
-iPhoneX,64GB,Unlocked,Good,188.89
-iPhoneX,64GB,Unlocked,Fair,159.27
-iPhoneX,64GB,Unlocked,Broken,90.14
-iPhoneX,64GB,Verizon,New,228.39
-iPhoneX,64GB,Verizon,Like_new,200.74
-iPhoneX,64GB,Verizon,Good,188.89
-iPhoneX,64GB,Verizon,Fair,159.27
-iPhoneX,64GB,Verizon,Broken,90.14
-iPhoneX,64GB,AT&T,New,219.38
-iPhoneX,64GB,AT&T,Like_new,192.78
-iPhoneX,64GB,AT&T,Good,181.39
-iPhoneX,64GB,AT&T,Fair,152.89
-iPhoneX,64GB,AT&T,Broken,86.39
-iPhoneX,64GB,T-Mobile,New,211.8
-iPhoneX,64GB,T-Mobile,Like_new,186.08
-iPhoneX,64GB,T-Mobile,Good,175.06
-iPhoneX,64GB,T-Mobile,Fair,147.51
-iPhoneX,64GB,T-Mobile,Broken,83.23
-iPhoneX,64GB,Sprint,New,203.03
-iPhoneX,64GB,Sprint,Like_new,178.34
-iPhoneX,64GB,Sprint,Good,167.76
-iPhoneX,64GB,Sprint,Fair,141.3
-iPhoneX,64GB,Sprint,Broken,79.57
-iPhoneX,64GB,Other,New,145.44
-iPhoneX,64GB,Other,Like_new,127.47
-iPhoneX,64GB,Other,Good,119.77
-iPhoneX,64GB,Other,Fair,100.51
-iPhoneX,64GB,Other,Broken,55.58
-iPhoneX,256GB,Unlocked,New,251.08
-iPhoneX,256GB,Unlocked,Like_new,220.78
-iPhoneX,256GB,Unlocked,Good,207.79
-iPhoneX,256GB,Unlocked,Fair,175.33
-iPhoneX,256GB,Unlocked,Broken,99.59
-iPhoneX,256GB,Verizon,New,251.08
-iPhoneX,256GB,Verizon,Like_new,220.78
-iPhoneX,256GB,Verizon,Good,207.79
-iPhoneX,256GB,Verizon,Fair,175.33
-iPhoneX,256GB,Verizon,Broken,99.59
-iPhoneX,256GB,AT&T,New,241.21
-iPhoneX,256GB,AT&T,Like_new,212.06
-iPhoneX,256GB,AT&T,Good,199.57
-iPhoneX,256GB,AT&T,Fair,168.34
-iPhoneX,256GB,AT&T,Broken,95.48
-iPhoneX,256GB,T-Mobile,New,232.9
-iPhoneX,256GB,T-Mobile,Like_new,204.72
-iPhoneX,256GB,T-Mobile,Good,192.64
-iPhoneX,256GB,T-Mobile,Fair,162.46
-iPhoneX,256GB,T-Mobile,Broken,92.02
-iPhoneX,256GB,Sprint,New,223.29
-iPhoneX,256GB,Sprint,Like_new,196.24
-iPhoneX,256GB,Sprint,Good,184.64
-iPhoneX,256GB,Sprint,Fair,155.65
-iPhoneX,256GB,Sprint,Broken,88.02
-iPhoneX,256GB,Other,New,160.18
-iPhoneX,256GB,Other,Like_new,140.49
-iPhoneX,256GB,Other,Good,132.05
-iPhoneX,256GB,Other,Fair,110.96
-iPhoneX,256GB,Other,Broken,61.72
-iPhoneXr,64GB,Unlocked,New,245.95
-iPhoneXr,64GB,Unlocked,Like_new,216.25
-iPhoneXr,64GB,Unlocked,Good,203.52
-iPhoneXr,64GB,Unlocked,Fair,171.7
-iPhoneXr,64GB,Unlocked,Broken,97.45
-iPhoneXr,64GB,Verizon,New,245.95
-iPhoneXr,64GB,Verizon,Like_new,216.25
-iPhoneXr,64GB,Verizon,Good,203.52
-iPhoneXr,64GB,Verizon,Fair,171.7
-iPhoneXr,64GB,Verizon,Broken,97.45
-iPhoneXr,64GB,AT&T,New,236.27
-iPhoneXr,64GB,AT&T,Like_new,207.7
-iPhoneXr,64GB,AT&T,Good,195.46
-iPhoneXr,64GB,AT&T,Fair,164.85
-iPhoneXr,64GB,AT&T,Broken,93.43
-iPhoneXr,64GB,T-Mobile,New,228.13
-iPhoneXr,64GB,T-Mobile,Like_new,200.51
-iPhoneXr,64GB,T-Mobile,Good,188.67
-iPhoneXr,64GB,T-Mobile,Fair,159.08
-iPhoneXr,64GB,T-Mobile,Broken,90.03
-iPhoneXr,64GB,Sprint,New,218.71
-iPhoneXr,64GB,Sprint,Like_new,192.19
-iPhoneXr,64GB,Sprint,Good,180.82
-iPhoneXr,64GB,Sprint,Fair,152.41
-iPhoneXr,64GB,Sprint,Broken,86.1
-iPhoneXr,64GB,Other,New,156.85
-iPhoneXr,64GB,Other,Like_new,137.55
-iPhoneXr,64GB,Other,Good,129.27
-iPhoneXr,64GB,Other,Fair,108.59
-iPhoneXr,64GB,Other,Broken,60.33
-iPhoneXr,128GB,Unlocked,New,258.41
-iPhoneXr,128GB,Unlocked,Like_new,227.26
-iPhoneXr,128GB,Unlocked,Good,213.91
-iPhoneXr,128GB,Unlocked,Fair,180.53
-iPhoneXr,128GB,Unlocked,Broken,102.65
-iPhoneXr,128GB,Verizon,New,258.41
-iPhoneXr,128GB,Verizon,Like_new,227.26
-iPhoneXr,128GB,Verizon,Good,213.91
-iPhoneXr,128GB,Verizon,Fair,180.53
-iPhoneXr,128GB,Verizon,Broken,102.65
-iPhoneXr,128GB,AT&T,New,248.26
-iPhoneXr,128GB,AT&T,Like_new,218.3
-iPhoneXr,128GB,AT&T,Good,205.45
-iPhoneXr,128GB,AT&T,Fair,173.34
-iPhoneXr,128GB,AT&T,Broken,98.42
-iPhoneXr,128GB,T-Mobile,New,239.72
-iPhoneXr,128GB,T-Mobile,Like_new,210.75
-iPhoneXr,128GB,T-Mobile,Good,198.33
-iPhoneXr,128GB,T-Mobile,Fair,167.29
-iPhoneXr,128GB,T-Mobile,Broken,94.86
-iPhoneXr,128GB,Sprint,New,229.84
-iPhoneXr,128GB,Sprint,Like_new,202.02
-iPhoneXr,128GB,Sprint,Good,190.1
-iPhoneXr,128GB,Sprint,Fair,160.29
-iPhoneXr,128GB,Sprint,Broken,90.75
-iPhoneXr,128GB,Other,New,164.95
-iPhoneXr,128GB,Other,Like_new,144.71
-iPhoneXr,128GB,Other,Good,136.03
-iPhoneXr,128GB,Other,Fair,114.33
-iPhoneXr,128GB,Other,Broken,63.71
-iPhoneXr,256GB,Unlocked,New,281.19
-iPhoneXr,256GB,Unlocked,Like_new,247.38
-iPhoneXr,256GB,Unlocked,Good,232.9
-iPhoneXr,256GB,Unlocked,Fair,196.67
-iPhoneXr,256GB,Unlocked,Broken,112.14
-iPhoneXr,256GB,Verizon,New,281.19
-iPhoneXr,256GB,Verizon,Like_new,247.38
-iPhoneXr,256GB,Verizon,Good,232.9
-iPhoneXr,256GB,Verizon,Fair,196.67
-iPhoneXr,256GB,Verizon,Broken,112.14
-iPhoneXr,256GB,AT&T,New,270.19
-iPhoneXr,256GB,AT&T,Like_new,237.66
-iPhoneXr,256GB,AT&T,Good,223.72
-iPhoneXr,256GB,AT&T,Fair,188.87
-iPhoneXr,256GB,AT&T,Broken,107.56
-iPhoneXr,256GB,T-Mobile,New,260.91
-iPhoneXr,256GB,T-Mobile,Like_new,229.46
-iPhoneXr,256GB,T-Mobile,Good,215.99
-iPhoneXr,256GB,T-Mobile,Fair,182.3
-iPhoneXr,256GB,T-Mobile,Broken,103.69
-iPhoneXr,256GB,Sprint,New,250.19
-iPhoneXr,256GB,Sprint,Like_new,219.99
-iPhoneXr,256GB,Sprint,Good,207.05
-iPhoneXr,256GB,Sprint,Fair,174.7
-iPhoneXr,256GB,Sprint,Broken,99.22
-iPhoneXr,256GB,Other,New,179.77
-iPhoneXr,256GB,Other,Like_new,157.79
-iPhoneXr,256GB,Other,Good,148.37
-iPhoneXr,256GB,Other,Fair,124.82
-iPhoneXr,256GB,Other,Broken,69.88
-iPhoneXs,64GB,Unlocked,New,261.35
-iPhoneXs,64GB,Unlocked,Like_new,229.85
-iPhoneXs,64GB,Unlocked,Good,216.35
-iPhoneXs,64GB,Unlocked,Fair,182.61
-iPhoneXs,64GB,Unlocked,Broken,103.87
-iPhoneXs,64GB,Verizon,New,261.35
-iPhoneXs,64GB,Verizon,Like_new,229.85
-iPhoneXs,64GB,Verizon,Good,216.35
-iPhoneXs,64GB,Verizon,Fair,182.61
-iPhoneXs,64GB,Verizon,Broken,103.87
-iPhoneXs,64GB,AT&T,New,251.09
-iPhoneXs,64GB,AT&T,Like_new,220.79
-iPhoneXs,64GB,AT&T,Good,207.81
-iPhoneXs,64GB,AT&T,Fair,175.35
-iPhoneXs,64GB,AT&T,Broken,99.6
-iPhoneXs,64GB,T-Mobile,New,242.45
-iPhoneXs,64GB,T-Mobile,Like_new,213.16
-iPhoneXs,64GB,T-Mobile,Good,200.61
-iPhoneXs,64GB,T-Mobile,Fair,169.22
-iPhoneXs,64GB,T-Mobile,Broken,96.0
-iPhoneXs,64GB,Sprint,New,232.46
-iPhoneXs,64GB,Sprint,Like_new,204.33
-iPhoneXs,64GB,Sprint,Good,192.28
-iPhoneXs,64GB,Sprint,Fair,162.15
-iPhoneXs,64GB,Sprint,Broken,91.84
-iPhoneXs,64GB,Other,New,166.86
-iPhoneXs,64GB,Other,Like_new,146.39
-iPhoneXs,64GB,Other,Good,137.61
-iPhoneXs,64GB,Other,Fair,115.69
-iPhoneXs,64GB,Other,Broken,64.51
-iPhoneXs,256GB,Unlocked,New,284.14
-iPhoneXs,256GB,Unlocked,Like_new,249.99
-iPhoneXs,256GB,Unlocked,Good,235.35
-iPhoneXs,256GB,Unlocked,Fair,198.76
-iPhoneXs,256GB,Unlocked,Broken,113.37
-iPhoneXs,256GB,Verizon,New,284.14
-iPhoneXs,256GB,Verizon,Like_new,249.99
-iPhoneXs,256GB,Verizon,Good,235.35
-iPhoneXs,256GB,Verizon,Fair,198.76
-iPhoneXs,256GB,Verizon,Broken,113.37
-iPhoneXs,256GB,AT&T,New,273.02
-iPhoneXs,256GB,AT&T,Like_new,240.16
-iPhoneXs,256GB,AT&T,Good,226.08
-iPhoneXs,256GB,AT&T,Fair,190.88
-iPhoneXs,256GB,AT&T,Broken,108.73
-iPhoneXs,256GB,T-Mobile,New,263.65
-iPhoneXs,256GB,T-Mobile,Like_new,231.88
-iPhoneXs,256GB,T-Mobile,Good,218.27
-iPhoneXs,256GB,T-Mobile,Fair,184.24
-iPhoneXs,256GB,T-Mobile,Broken,104.83
-iPhoneXs,256GB,Sprint,New,252.81
-iPhoneXs,256GB,Sprint,Like_new,222.32
-iPhoneXs,256GB,Sprint,Good,209.25
-iPhoneXs,256GB,Sprint,Fair,176.57
-iPhoneXs,256GB,Sprint,Broken,100.32
-iPhoneXs,256GB,Other,New,181.68
-iPhoneXs,256GB,Other,Like_new,159.48
-iPhoneXs,256GB,Other,Good,149.96
-iPhoneXs,256GB,Other,Fair,126.18
-iPhoneXs,256GB,Other,Broken,70.68
-iPhoneXs,512GB,Unlocked,New,326.96
-iPhoneXs,512GB,Unlocked,Like_new,287.81
-iPhoneXs,512GB,Unlocked,Good,271.03
-iPhoneXs,512GB,Unlocked,Fair,229.08
-iPhoneXs,512GB,Unlocked,Broken,131.21
-iPhoneXs,512GB,Verizon,New,326.96
-iPhoneXs,512GB,Verizon,Like_new,287.81
-iPhoneXs,512GB,Verizon,Good,271.03
-iPhoneXs,512GB,Verizon,Fair,229.08
-iPhoneXs,512GB,Verizon,Broken,131.21
-iPhoneXs,512GB,AT&T,New,314.2
-iPhoneXs,512GB,AT&T,Like_new,276.54
-iPhoneXs,512GB,AT&T,Good,260.4
-iPhoneXs,512GB,AT&T,Fair,220.05
-iPhoneXs,512GB,AT&T,Broken,125.89
-iPhoneXs,512GB,T-Mobile,New,303.47
-iPhoneXs,512GB,T-Mobile,Like_new,267.06
-iPhoneXs,512GB,T-Mobile,Good,251.45
-iPhoneXs,512GB,T-Mobile,Fair,212.44
-iPhoneXs,512GB,T-Mobile,Broken,121.42
-iPhoneXs,512GB,Sprint,New,291.05
-iPhoneXs,512GB,Sprint,Like_new,256.09
-iPhoneXs,512GB,Sprint,Good,241.11
-iPhoneXs,512GB,Sprint,Fair,203.65
-iPhoneXs,512GB,Sprint,Broken,116.25
-iPhoneXs,512GB,Other,New,209.51
-iPhoneXs,512GB,Other,Like_new,184.06
-iPhoneXs,512GB,Other,Good,173.16
-iPhoneXs,512GB,Other,Fair,145.89
-iPhoneXs,512GB,Other,Broken,82.27
-iPhoneXsMax,64GB,Unlocked,New,304.78
-iPhoneXsMax,64GB,Unlocked,Like_new,268.22
-iPhoneXsMax,64GB,Unlocked,Good,252.55
-iPhoneXsMax,64GB,Unlocked,Fair,213.38
-iPhoneXsMax,64GB,Unlocked,Broken,121.97
-iPhoneXsMax,64GB,Verizon,New,304.78
-iPhoneXsMax,64GB,Verizon,Like_new,268.22
-iPhoneXsMax,64GB,Verizon,Good,252.55
-iPhoneXsMax,64GB,Verizon,Fair,213.38
-iPhoneXsMax,64GB,Verizon,Broken,121.97
-iPhoneXsMax,64GB,AT&T,New,292.88
-iPhoneXsMax,64GB,AT&T,Like_new,257.7
-iPhoneXsMax,64GB,AT&T,Good,242.63
-iPhoneXsMax,64GB,AT&T,Fair,204.94
-iPhoneXsMax,64GB,AT&T,Broken,117.01
-iPhoneXsMax,64GB,T-Mobile,New,282.85
-iPhoneXsMax,64GB,T-Mobile,Like_new,248.85
-iPhoneXsMax,64GB,T-Mobile,Good,234.27
-iPhoneXsMax,64GB,T-Mobile,Fair,197.84
-iPhoneXsMax,64GB,T-Mobile,Broken,112.83
-iPhoneXsMax,64GB,Sprint,New,271.25
-iPhoneXsMax,64GB,Sprint,Like_new,238.6
-iPhoneXsMax,64GB,Sprint,Good,224.61
-iPhoneXsMax,64GB,Sprint,Fair,189.63
-iPhoneXsMax,64GB,Sprint,Broken,108.0
-iPhoneXsMax,64GB,Other,New,195.1
-iPhoneXsMax,64GB,Other,Like_new,171.33
-iPhoneXsMax,64GB,Other,Good,161.14
-iPhoneXsMax,64GB,Other,Fair,135.68
-iPhoneXsMax,64GB,Other,Broken,76.27
-iPhoneXsMax,256GB,Unlocked,New,336.58
-iPhoneXsMax,256GB,Unlocked,Like_new,296.31
-iPhoneXsMax,256GB,Unlocked,Good,279.05
-iPhoneXsMax,256GB,Unlocked,Fair,235.9
-iPhoneXsMax,256GB,Unlocked,Broken,135.22
-iPhoneXsMax,256GB,Verizon,New,336.58
-iPhoneXsMax,256GB,Verizon,Like_new,296.31
-iPhoneXsMax,256GB,Verizon,Good,279.05
-iPhoneXsMax,256GB,Verizon,Fair,235.9
-iPhoneXsMax,256GB,Verizon,Broken,135.22
-iPhoneXsMax,256GB,AT&T,New,323.46
-iPhoneXsMax,256GB,AT&T,Like_new,284.72
-iPhoneXsMax,256GB,AT&T,Good,268.12
-iPhoneXsMax,256GB,AT&T,Fair,226.61
-iPhoneXsMax,256GB,AT&T,Broken,129.76
-iPhoneXsMax,256GB,T-Mobile,New,312.42
-iPhoneXsMax,256GB,T-Mobile,Like_new,274.96
-iPhoneXsMax,256GB,T-Mobile,Good,258.91
-iPhoneXsMax,256GB,T-Mobile,Fair,218.78
-iPhoneXsMax,256GB,T-Mobile,Broken,125.15
-iPhoneXsMax,256GB,Sprint,New,299.64
-iPhoneXsMax,256GB,Sprint,Like_new,263.68
-iPhoneXsMax,256GB,Sprint,Good,248.27
-iPhoneXsMax,256GB,Sprint,Fair,209.74
-iPhoneXsMax,256GB,Sprint,Broken,119.83
-iPhoneXsMax,256GB,Other,New,215.76
-iPhoneXsMax,256GB,Other,Like_new,189.59
-iPhoneXsMax,256GB,Other,Good,178.37
-iPhoneXsMax,256GB,Other,Fair,150.32
-iPhoneXsMax,256GB,Other,Broken,84.88
-iPhoneXsMax,512GB,Unlocked,New,372.93
-iPhoneXsMax,512GB,Unlocked,Like_new,328.42
-iPhoneXsMax,512GB,Unlocked,Good,309.34
-iPhoneXsMax,512GB,Unlocked,Fair,261.65
-iPhoneXsMax,512GB,Unlocked,Broken,150.36
-iPhoneXsMax,512GB,Verizon,New,372.93
-iPhoneXsMax,512GB,Verizon,Like_new,328.42
-iPhoneXsMax,512GB,Verizon,Good,309.34
-iPhoneXsMax,512GB,Verizon,Fair,261.65
-iPhoneXsMax,512GB,Verizon,Broken,150.36
-iPhoneXsMax,512GB,AT&T,New,358.43
-iPhoneXsMax,512GB,AT&T,Like_new,315.61
-iPhoneXsMax,512GB,AT&T,Good,297.25
-iPhoneXsMax,512GB,AT&T,Fair,251.38
-iPhoneXsMax,512GB,AT&T,Broken,144.32
-iPhoneXsMax,512GB,T-Mobile,New,346.22
-iPhoneXsMax,512GB,T-Mobile,Like_new,304.82
-iPhoneXsMax,512GB,T-Mobile,Good,287.08
-iPhoneXsMax,512GB,T-Mobile,Fair,242.73
-iPhoneXsMax,512GB,T-Mobile,Broken,139.24
-iPhoneXsMax,512GB,Sprint,New,332.1
-iPhoneXsMax,512GB,Sprint,Like_new,292.35
-iPhoneXsMax,512GB,Sprint,Good,275.32
-iPhoneXsMax,512GB,Sprint,Fair,232.73
-iPhoneXsMax,512GB,Sprint,Broken,133.35
-iPhoneXsMax,512GB,Other,New,239.39
-iPhoneXsMax,512GB,Other,Like_new,210.46
-iPhoneXsMax,512GB,Other,Good,198.06
-iPhoneXsMax,512GB,Other,Fair,167.06
-iPhoneXsMax,512GB,Other,Broken,94.72
-iPhoneSE2ndGen,64GB,Unlocked,New,192.71
-iPhoneSE2ndGen,64GB,Unlocked,Like_new,169.22
-iPhoneSE2ndGen,64GB,Unlocked,Good,159.16
-iPhoneSE2ndGen,64GB,Unlocked,Fair,133.99
-iPhoneSE2ndGen,64GB,Unlocked,Broken,75.27
-iPhoneSE2ndGen,64GB,Verizon,New,192.71
-iPhoneSE2ndGen,64GB,Verizon,Like_new,169.22
-iPhoneSE2ndGen,64GB,Verizon,Good,159.16
-iPhoneSE2ndGen,64GB,Verizon,Fair,133.99
-iPhoneSE2ndGen,64GB,Verizon,Broken,75.27
-iPhoneSE2ndGen,64GB,AT&T,New,185.06
-iPhoneSE2ndGen,64GB,AT&T,Like_new,162.47
-iPhoneSE2ndGen,64GB,AT&T,Good,152.78
-iPhoneSE2ndGen,64GB,AT&T,Fair,128.57
-iPhoneSE2ndGen,64GB,AT&T,Broken,72.09
-iPhoneSE2ndGen,64GB,T-Mobile,New,178.62
-iPhoneSE2ndGen,64GB,T-Mobile,Like_new,156.77
-iPhoneSE2ndGen,64GB,T-Mobile,Good,147.41
-iPhoneSE2ndGen,64GB,T-Mobile,Fair,124.01
-iPhoneSE2ndGen,64GB,T-Mobile,Broken,69.4
-iPhoneSE2ndGen,64GB,Sprint,New,171.17
-iPhoneSE2ndGen,64GB,Sprint,Like_new,150.2
-iPhoneSE2ndGen,64GB,Sprint,Good,141.21
-iPhoneSE2ndGen,64GB,Sprint,Fair,118.74
-iPhoneSE2ndGen,64GB,Sprint,Broken,66.3
-iPhoneSE2ndGen,64GB,Other,New,122.25
-iPhoneSE2ndGen,64GB,Other,Like_new,106.98
-iPhoneSE2ndGen,64GB,Other,Good,100.44
-iPhoneSE2ndGen,64GB,Other,Fair,84.08
-iPhoneSE2ndGen,64GB,Other,Broken,45.92
-iPhoneSE2ndGen,128GB,Unlocked,New,228.39
-iPhoneSE2ndGen,128GB,Unlocked,Like_new,200.74
-iPhoneSE2ndGen,128GB,Unlocked,Good,188.89
-iPhoneSE2ndGen,128GB,Unlocked,Fair,159.27
-iPhoneSE2ndGen,128GB,Unlocked,Broken,90.14
-iPhoneSE2ndGen,128GB,Verizon,New,228.39
-iPhoneSE2ndGen,128GB,Verizon,Like_new,200.74
-iPhoneSE2ndGen,128GB,Verizon,Good,188.89
-iPhoneSE2ndGen,128GB,Verizon,Fair,159.27
-iPhoneSE2ndGen,128GB,Verizon,Broken,90.14
-iPhoneSE2ndGen,128GB,AT&T,New,219.38
-iPhoneSE2ndGen,128GB,AT&T,Like_new,192.78
-iPhoneSE2ndGen,128GB,AT&T,Good,181.39
-iPhoneSE2ndGen,128GB,AT&T,Fair,152.89
-iPhoneSE2ndGen,128GB,AT&T,Broken,86.39
-iPhoneSE2ndGen,128GB,T-Mobile,New,211.8
-iPhoneSE2ndGen,128GB,T-Mobile,Like_new,186.08
-iPhoneSE2ndGen,128GB,T-Mobile,Good,175.06
-iPhoneSE2ndGen,128GB,T-Mobile,Fair,147.51
-iPhoneSE2ndGen,128GB,T-Mobile,Broken,83.23
-iPhoneSE2ndGen,128GB,Sprint,New,203.03
-iPhoneSE2ndGen,128GB,Sprint,Like_new,178.34
-iPhoneSE2ndGen,128GB,Sprint,Good,167.76
-iPhoneSE2ndGen,128GB,Sprint,Fair,141.3
-iPhoneSE2ndGen,128GB,Sprint,Broken,79.57
-iPhoneSE2ndGen,128GB,Other,New,145.44
-iPhoneSE2ndGen,128GB,Other,Like_new,127.47
-iPhoneSE2ndGen,128GB,Other,Good,119.77
-iPhoneSE2ndGen,128GB,Other,Fair,100.51
-iPhoneSE2ndGen,128GB,Other,Broken,55.58
-iPhoneSE2ndGen,256GB,Unlocked,New,243.75
-iPhoneSE2ndGen,256GB,Unlocked,Like_new,214.31
-iPhoneSE2ndGen,256GB,Unlocked,Good,201.69
-iPhoneSE2ndGen,256GB,Unlocked,Fair,170.15
-iPhoneSE2ndGen,256GB,Unlocked,Broken,96.54
-iPhoneSE2ndGen,256GB,Verizon,New,243.75
-iPhoneSE2ndGen,256GB,Verizon,Like_new,214.31
-iPhoneSE2ndGen,256GB,Verizon,Good,201.69
-iPhoneSE2ndGen,256GB,Verizon,Fair,170.15
-iPhoneSE2ndGen,256GB,Verizon,Broken,96.54
-iPhoneSE2ndGen,256GB,AT&T,New,234.16
-iPhoneSE2ndGen,256GB,AT&T,Like_new,205.84
-iPhoneSE2ndGen,256GB,AT&T,Good,193.7
-iPhoneSE2ndGen,256GB,AT&T,Fair,163.35
-iPhoneSE2ndGen,256GB,AT&T,Broken,92.55
-iPhoneSE2ndGen,256GB,T-Mobile,New,226.08
-iPhoneSE2ndGen,256GB,T-Mobile,Like_new,198.7
-iPhoneSE2ndGen,256GB,T-Mobile,Good,186.97
-iPhoneSE2ndGen,256GB,T-Mobile,Fair,157.63
-iPhoneSE2ndGen,256GB,T-Mobile,Broken,89.18
-iPhoneSE2ndGen,256GB,Sprint,New,216.75
-iPhoneSE2ndGen,256GB,Sprint,Like_new,190.46
-iPhoneSE2ndGen,256GB,Sprint,Good,179.19
-iPhoneSE2ndGen,256GB,Sprint,Fair,151.02
-iPhoneSE2ndGen,256GB,Sprint,Broken,85.29
-iPhoneSE2ndGen,256GB,Other,New,155.42
-iPhoneSE2ndGen,256GB,Other,Like_new,136.28
-iPhoneSE2ndGen,256GB,Other,Good,128.08
-iPhoneSE2ndGen,256GB,Other,Fair,107.58
-iPhoneSE2ndGen,256GB,Other,Broken,59.74
-iPhone11,64GB,Unlocked,New,351.4
-iPhone11,64GB,Unlocked,Like_new,309.4
-iPhone11,64GB,Unlocked,Good,291.4
-iPhone11,64GB,Unlocked,Fair,246.4
-iPhone11,64GB,Unlocked,Broken,141.39
-iPhone11,64GB,Verizon,New,351.4
-iPhone11,64GB,Verizon,Like_new,309.4
-iPhone11,64GB,Verizon,Good,291.4
-iPhone11,64GB,Verizon,Fair,246.4
-iPhone11,64GB,Verizon,Broken,141.39
-iPhone11,64GB,AT&T,New,337.72
-iPhone11,64GB,AT&T,Like_new,297.31
-iPhone11,64GB,AT&T,Good,280.0
-iPhone11,64GB,AT&T,Fair,236.71
-iPhone11,64GB,AT&T,Broken,135.7
-iPhone11,64GB,T-Mobile,New,326.2
-iPhone11,64GB,T-Mobile,Like_new,287.14
-iPhone11,64GB,T-Mobile,Good,270.4
-iPhone11,64GB,T-Mobile,Fair,228.54
-iPhone11,64GB,T-Mobile,Broken,130.89
-iPhone11,64GB,Sprint,New,312.88
-iPhone11,64GB,Sprint,Like_new,275.37
-iPhone11,64GB,Sprint,Good,259.3
-iPhone11,64GB,Sprint,Fair,219.11
-iPhone11,64GB,Sprint,Broken,125.34
-iPhone11,64GB,Other,New,225.4
-iPhone11,64GB,Other,Like_new,198.1
-iPhone11,64GB,Other,Good,186.39
-iPhone11,64GB,Other,Fair,157.14
-iPhone11,64GB,Other,Broken,88.9
-iPhone11,128GB,Unlocked,New,376.65
-iPhone11,128GB,Unlocked,Like_new,331.7
-iPhone11,128GB,Unlocked,Good,312.44
-iPhone11,128GB,Unlocked,Fair,264.28
-iPhone11,128GB,Unlocked,Broken,151.91
-iPhone11,128GB,Verizon,New,376.65
-iPhone11,128GB,Verizon,Like_new,331.7
-iPhone11,128GB,Verizon,Good,312.44
-iPhone11,128GB,Verizon,Fair,264.28
-iPhone11,128GB,Verizon,Broken,151.91
-iPhone11,128GB,AT&T,New,362.0
-iPhone11,128GB,AT&T,Like_new,318.77
-iPhone11,128GB,AT&T,Good,300.24
-iPhone11,128GB,AT&T,Fair,253.91
-iPhone11,128GB,AT&T,Broken,145.81
-iPhone11,128GB,T-Mobile,New,349.68
-iPhone11,128GB,T-Mobile,Like_new,307.88
-iPhone11,128GB,T-Mobile,Good,289.96
-iPhone11,128GB,T-Mobile,Fair,245.17
-iPhone11,128GB,T-Mobile,Broken,140.68
-iPhone11,128GB,Sprint,New,335.42
-iPhone11,128GB,Sprint,Like_new,295.28
-iPhone11,128GB,Sprint,Good,278.08
-iPhone11,128GB,Sprint,Fair,235.08
-iPhone11,128GB,Sprint,Broken,134.74
-iPhone11,128GB,Other,New,241.81
-iPhone11,128GB,Other,Like_new,212.59
-iPhone11,128GB,Other,Good,200.07
-iPhone11,128GB,Other,Fair,168.76
-iPhone11,128GB,Other,Broken,95.73
-iPhone11,256GB,Unlocked,New,395.24
-iPhone11,256GB,Unlocked,Like_new,348.12
-iPhone11,256GB,Unlocked,Good,327.93
-iPhone11,256GB,Unlocked,Fair,277.45
-iPhone11,256GB,Unlocked,Broken,159.66
-iPhone11,256GB,Verizon,New,395.24
-iPhone11,256GB,Verizon,Like_new,348.12
-iPhone11,256GB,Verizon,Good,327.93
-iPhone11,256GB,Verizon,Fair,277.45
-iPhone11,256GB,Verizon,Broken,159.66
-iPhone11,256GB,AT&T,New,379.9
-iPhone11,256GB,AT&T,Like_new,334.57
-iPhone11,256GB,AT&T,Good,315.14
-iPhone11,256GB,AT&T,Fair,266.58
-iPhone11,256GB,AT&T,Broken,153.27
-iPhone11,256GB,T-Mobile,New,366.97
-iPhone11,256GB,T-Mobile,Like_new,323.15
-iPhone11,256GB,T-Mobile,Good,304.37
-iPhone11,256GB,T-Mobile,Fair,257.43
-iPhone11,256GB,T-Mobile,Broken,147.88
-iPhone11,256GB,Sprint,New,352.03
-iPhone11,256GB,Sprint,Like_new,309.96
-iPhone11,256GB,Sprint,Good,291.92
-iPhone11,256GB,Sprint,Fair,246.84
-iPhone11,256GB,Sprint,Broken,141.66
-iPhone11,256GB,Other,New,253.89
-iPhone11,256GB,Other,Like_new,223.27
-iPhone11,256GB,Other,Good,210.14
-iPhone11,256GB,Other,Fair,177.33
-iPhone11,256GB,Other,Broken,100.77
-iPhone11Pro,64GB,Unlocked,New,448.94
-iPhone11Pro,64GB,Unlocked,Like_new,395.56
-iPhone11Pro,64GB,Unlocked,Good,372.68
-iPhone11Pro,64GB,Unlocked,Fair,315.49
-iPhone11Pro,64GB,Unlocked,Broken,182.03
-iPhone11Pro,64GB,Verizon,New,448.94
-iPhone11Pro,64GB,Verizon,Like_new,395.56
-iPhone11Pro,64GB,Verizon,Good,372.68
-iPhone11Pro,64GB,Verizon,Fair,315.49
-iPhone11Pro,64GB,Verizon,Broken,182.03
-iPhone11Pro,64GB,AT&T,New,431.55
-iPhone11Pro,64GB,AT&T,Like_new,380.2
-iPhone11Pro,64GB,AT&T,Good,358.19
-iPhone11Pro,64GB,AT&T,Fair,303.17
-iPhone11Pro,64GB,AT&T,Broken,174.79
-iPhone11Pro,64GB,T-Mobile,New,416.91
-iPhone11Pro,64GB,T-Mobile,Like_new,367.27
-iPhone11Pro,64GB,T-Mobile,Good,345.99
-iPhone11Pro,64GB,T-Mobile,Fair,292.8
-iPhone11Pro,64GB,T-Mobile,Broken,168.69
-iPhone11Pro,64GB,Sprint,New,399.98
-iPhone11Pro,64GB,Sprint,Like_new,352.31
-iPhone11Pro,64GB,Sprint,Good,331.88
-iPhone11Pro,64GB,Sprint,Fair,280.81
-iPhone11Pro,64GB,Sprint,Broken,161.63
-iPhone11Pro,64GB,Other,New,288.79
-iPhone11Pro,64GB,Other,Like_new,254.1
-iPhone11Pro,64GB,Other,Good,239.23
-iPhone11Pro,64GB,Other,Fair,202.05
-iPhone11Pro,64GB,Other,Broken,115.31
-iPhone11Pro,256GB,Unlocked,New,498.32
-iPhone11Pro,256GB,Unlocked,Like_new,439.18
-iPhone11Pro,256GB,Unlocked,Good,413.84
-iPhone11Pro,256GB,Unlocked,Fair,350.47
-iPhone11Pro,256GB,Unlocked,Broken,202.61
-iPhone11Pro,256GB,Verizon,New,498.32
-iPhone11Pro,256GB,Verizon,Like_new,439.18
-iPhone11Pro,256GB,Verizon,Good,413.84
-iPhone11Pro,256GB,Verizon,Fair,350.47
-iPhone11Pro,256GB,Verizon,Broken,202.61
-iPhone11Pro,256GB,AT&T,New,479.06
-iPhone11Pro,256GB,AT&T,Like_new,422.17
-iPhone11Pro,256GB,AT&T,Good,397.78
-iPhone11Pro,256GB,AT&T,Fair,336.83
-iPhone11Pro,256GB,AT&T,Broken,194.58
-iPhone11Pro,256GB,T-Mobile,New,462.84
-iPhone11Pro,256GB,T-Mobile,Like_new,407.84
-iPhone11Pro,256GB,T-Mobile,Good,384.26
-iPhone11Pro,256GB,T-Mobile,Fair,325.34
-iPhone11Pro,256GB,T-Mobile,Broken,187.83
-iPhone11Pro,256GB,Sprint,New,444.08
-iPhone11Pro,256GB,Sprint,Like_new,391.27
-iPhone11Pro,256GB,Sprint,Good,368.64
-iPhone11Pro,256GB,Sprint,Fair,312.05
-iPhone11Pro,256GB,Sprint,Broken,180.01
-iPhone11Pro,256GB,Other,New,320.9
-iPhone11Pro,256GB,Other,Like_new,282.46
-iPhone11Pro,256GB,Other,Good,265.98
-iPhone11Pro,256GB,Other,Fair,224.79
-iPhone11Pro,256GB,Other,Broken,128.68
-iPhone11Pro,512GB,Unlocked,New,571.15
-iPhone11Pro,512GB,Unlocked,Like_new,503.51
-iPhone11Pro,512GB,Unlocked,Good,474.52
-iPhone11Pro,512GB,Unlocked,Fair,402.06
-iPhone11Pro,512GB,Unlocked,Broken,232.96
-iPhone11Pro,512GB,Verizon,New,571.15
-iPhone11Pro,512GB,Verizon,Like_new,503.51
-iPhone11Pro,512GB,Verizon,Good,474.52
-iPhone11Pro,512GB,Verizon,Fair,402.06
-iPhone11Pro,512GB,Verizon,Broken,232.96
-iPhone11Pro,512GB,AT&T,New,549.12
-iPhone11Pro,512GB,AT&T,Like_new,484.05
-iPhone11Pro,512GB,AT&T,Good,456.17
-iPhone11Pro,512GB,AT&T,Fair,386.44
-iPhone11Pro,512GB,AT&T,Broken,223.77
-iPhone11Pro,512GB,T-Mobile,New,530.57
-iPhone11Pro,512GB,T-Mobile,Like_new,467.66
-iPhone11Pro,512GB,T-Mobile,Good,440.7
-iPhone11Pro,512GB,T-Mobile,Fair,373.31
-iPhone11Pro,512GB,T-Mobile,Broken,216.05
-iPhone11Pro,512GB,Sprint,New,509.11
-iPhone11Pro,512GB,Sprint,Like_new,448.71
-iPhone11Pro,512GB,Sprint,Good,422.83
-iPhone11Pro,512GB,Sprint,Fair,358.11
-iPhone11Pro,512GB,Sprint,Broken,207.11
-iPhone11Pro,512GB,Other,New,368.23
-iPhone11Pro,512GB,Other,Like_new,324.27
-iPhone11Pro,512GB,Other,Good,305.42
-iPhone11Pro,512GB,Other,Fair,258.32
-iPhone11Pro,512GB,Other,Broken,148.41
-iPhone11ProMax,64GB,Unlocked,New,496.83
-iPhone11ProMax,64GB,Unlocked,Like_new,437.86
-iPhone11ProMax,64GB,Unlocked,Good,412.59
-iPhone11ProMax,64GB,Unlocked,Fair,349.41
-iPhone11ProMax,64GB,Unlocked,Broken,201.99
-iPhone11ProMax,64GB,Verizon,New,496.83
-iPhone11ProMax,64GB,Verizon,Like_new,437.86
-iPhone11ProMax,64GB,Verizon,Good,412.59
-iPhone11ProMax,64GB,Verizon,Fair,349.41
-iPhone11ProMax,64GB,Verizon,Broken,201.99
-iPhone11ProMax,64GB,AT&T,New,477.62
-iPhone11ProMax,64GB,AT&T,Like_new,420.9
-iPhone11ProMax,64GB,AT&T,Good,396.58
-iPhone11ProMax,64GB,AT&T,Fair,335.8
-iPhone11ProMax,64GB,AT&T,Broken,193.99
-iPhone11ProMax,64GB,T-Mobile,New,461.45
-iPhone11ProMax,64GB,T-Mobile,Like_new,406.61
-iPhone11ProMax,64GB,T-Mobile,Good,383.1
-iPhone11ProMax,64GB,T-Mobile,Fair,324.34
-iPhone11ProMax,64GB,T-Mobile,Broken,187.25
-iPhone11ProMax,64GB,Sprint,New,442.74
-iPhone11ProMax,64GB,Sprint,Like_new,390.09
-iPhone11ProMax,64GB,Sprint,Good,367.52
-iPhone11ProMax,64GB,Sprint,Fair,311.1
-iPhone11ProMax,64GB,Sprint,Broken,179.45
-iPhone11ProMax,64GB,Other,New,319.92
-iPhone11ProMax,64GB,Other,Like_new,281.6
-iPhone11ProMax,64GB,Other,Good,265.17
-iPhone11ProMax,64GB,Other,Fair,224.1
-iPhone11ProMax,64GB,Other,Broken,128.28
-iPhone11ProMax,256GB,Unlocked,New,553.11
-iPhone11ProMax,256GB,Unlocked,Like_new,487.57
-iPhone11ProMax,256GB,Unlocked,Good,459.49
-iPhone11ProMax,256GB,Unlocked,Fair,389.28
-iPhone11ProMax,256GB,Unlocked,Broken,225.44
-iPhone11ProMax,256GB,Verizon,New,553.11
-iPhone11ProMax,256GB,Verizon,Like_new,487.57
-iPhone11ProMax,256GB,Verizon,Good,459.49
-iPhone11ProMax,256GB,Verizon,Fair,389.28
-iPhone11ProMax,256GB,Verizon,Broken,225.44
-iPhone11ProMax,256GB,AT&T,New,531.76
-iPhone11ProMax,256GB,AT&T,Like_new,468.72
-iPhone11ProMax,256GB,AT&T,Good,441.7
-iPhone11ProMax,256GB,AT&T,Fair,374.15
-iPhone11ProMax,256GB,AT&T,Broken,216.54
-iPhone11ProMax,256GB,T-Mobile,New,513.78
-iPhone11ProMax,256GB,T-Mobile,Like_new,452.84
-iPhone11ProMax,256GB,T-Mobile,Good,426.72
-iPhone11ProMax,256GB,T-Mobile,Fair,361.42
-iPhone11ProMax,256GB,T-Mobile,Broken,209.06
-iPhone11ProMax,256GB,Sprint,New,493.01
-iPhone11ProMax,256GB,Sprint,Like_new,434.48
-iPhone11ProMax,256GB,Sprint,Good,409.4
-iPhone11ProMax,256GB,Sprint,Fair,346.7
-iPhone11ProMax,256GB,Sprint,Broken,200.4
-iPhone11ProMax,256GB,Other,New,356.5
-iPhone11ProMax,256GB,Other,Like_new,313.91
-iPhone11ProMax,256GB,Other,Good,295.65
-iPhone11ProMax,256GB,Other,Fair,250.02
-iPhone11ProMax,256GB,Other,Broken,143.52
-iPhone11ProMax,512GB,Unlocked,New,590.71
-iPhone11ProMax,512GB,Unlocked,Like_new,520.79
-iPhone11ProMax,512GB,Unlocked,Good,490.82
-iPhone11ProMax,512GB,Unlocked,Fair,415.91
-iPhone11ProMax,512GB,Unlocked,Broken,241.11
-iPhone11ProMax,512GB,Verizon,New,590.71
-iPhone11ProMax,512GB,Verizon,Like_new,520.79
-iPhone11ProMax,512GB,Verizon,Good,490.82
-iPhone11ProMax,512GB,Verizon,Fair,415.91
-iPhone11ProMax,512GB,Verizon,Broken,241.11
-iPhone11ProMax,512GB,AT&T,New,567.94
-iPhone11ProMax,512GB,AT&T,Like_new,500.67
-iPhone11ProMax,512GB,AT&T,Good,471.84
-iPhone11ProMax,512GB,AT&T,Fair,399.78
-iPhone11ProMax,512GB,AT&T,Broken,231.62
-iPhone11ProMax,512GB,T-Mobile,New,548.76
-iPhone11ProMax,512GB,T-Mobile,Like_new,483.73
-iPhone11ProMax,512GB,T-Mobile,Good,455.86
-iPhone11ProMax,512GB,T-Mobile,Fair,386.19
-iPhone11ProMax,512GB,T-Mobile,Broken,223.63
-iPhone11ProMax,512GB,Sprint,New,526.58
-iPhone11ProMax,512GB,Sprint,Like_new,464.14
-iPhone11ProMax,512GB,Sprint,Good,437.39
-iPhone11ProMax,512GB,Sprint,Fair,370.49
-iPhone11ProMax,512GB,Sprint,Broken,214.39
-iPhone11ProMax,512GB,Other,New,380.95
-iPhone11ProMax,512GB,Other,Like_new,335.5
-iPhone11ProMax,512GB,Other,Good,316.02
-iPhone11ProMax,512GB,Other,Fair,267.33
-iPhone11ProMax,512GB,Other,Broken,153.71
-iPhone12,64GB,Unlocked,New,524.57
-iPhone12,64GB,Unlocked,Like_new,462.36
-iPhone12,64GB,Unlocked,Good,435.71
-iPhone12,64GB,Unlocked,Fair,369.06
-iPhone12,64GB,Unlocked,Broken,213.55
-iPhone12,64GB,Verizon,New,524.57
-iPhone12,64GB,Verizon,Like_new,462.36
-iPhone12,64GB,Verizon,Good,435.71
-iPhone12,64GB,Verizon,Fair,369.06
-iPhone12,64GB,Verizon,Broken,213.55
-iPhone12,64GB,AT&T,New,504.31
-iPhone12,64GB,AT&T,Like_new,444.47
-iPhone12,64GB,AT&T,Good,418.82
-iPhone12,64GB,AT&T,Fair,354.71
-iPhone12,64GB,AT&T,Broken,205.11
-iPhone12,64GB,T-Mobile,New,487.25
-iPhone12,64GB,T-Mobile,Like_new,429.4
-iPhone12,64GB,T-Mobile,Good,404.6
-iPhone12,64GB,T-Mobile,Fair,342.62
-iPhone12,64GB,T-Mobile,Broken,198.0
-iPhone12,64GB,Sprint,New,467.52
-iPhone12,64GB,Sprint,Like_new,411.97
-iPhone12,64GB,Sprint,Good,388.16
-iPhone12,64GB,Sprint,Fair,328.65
-iPhone12,64GB,Sprint,Broken,189.78
-iPhone12,64GB,Other,New,337.96
-iPhone12,64GB,Other,Like_new,297.53
-iPhone12,64GB,Other,Good,280.19
-iPhone12,64GB,Other,Fair,236.87
-iPhone12,64GB,Other,Broken,135.8
-iPhone12,128GB,Unlocked,New,557.61
-iPhone12,128GB,Unlocked,Like_new,491.56
-iPhone12,128GB,Unlocked,Good,463.24
-iPhone12,128GB,Unlocked,Fair,392.46
-iPhone12,128GB,Unlocked,Broken,227.32
-iPhone12,128GB,Verizon,New,557.61
-iPhone12,128GB,Verizon,Like_new,491.56
-iPhone12,128GB,Verizon,Good,463.24
-iPhone12,128GB,Verizon,Fair,392.46
-iPhone12,128GB,Verizon,Broken,227.32
-iPhone12,128GB,AT&T,New,536.1
-iPhone12,128GB,AT&T,Like_new,472.55
-iPhone12,128GB,AT&T,Good,445.31
-iPhone12,128GB,AT&T,Fair,377.22
-iPhone12,128GB,AT&T,Broken,218.35
-iPhone12,128GB,T-Mobile,New,517.98
-iPhone12,128GB,T-Mobile,Like_new,456.54
-iPhone12,128GB,T-Mobile,Good,430.22
-iPhone12,128GB,T-Mobile,Fair,364.39
-iPhone12,128GB,T-Mobile,Broken,210.8
-iPhone12,128GB,Sprint,New,497.03
-iPhone12,128GB,Sprint,Like_new,438.03
-iPhone12,128GB,Sprint,Good,412.76
-iPhone12,128GB,Sprint,Fair,349.55
-iPhone12,128GB,Sprint,Broken,202.07
-iPhone12,128GB,Other,New,359.44
-iPhone12,128GB,Other,Like_new,316.5
-iPhone12,128GB,Other,Good,298.09
-iPhone12,128GB,Other,Fair,252.09
-iPhone12,128GB,Other,Broken,144.75
-iPhone12,256GB,Unlocked,New,608.78
-iPhone12,256GB,Unlocked,Like_new,536.76
-iPhone12,256GB,Unlocked,Good,505.88
-iPhone12,256GB,Unlocked,Fair,428.71
-iPhone12,256GB,Unlocked,Broken,248.64
-iPhone12,256GB,Verizon,New,608.78
-iPhone12,256GB,Verizon,Like_new,536.76
-iPhone12,256GB,Verizon,Good,505.88
-iPhone12,256GB,Verizon,Fair,428.71
-iPhone12,256GB,Verizon,Broken,248.64
-iPhone12,256GB,AT&T,New,585.32
-iPhone12,256GB,AT&T,Like_new,516.03
-iPhone12,256GB,AT&T,Good,486.34
-iPhone12,256GB,AT&T,Fair,412.09
-iPhone12,256GB,AT&T,Broken,238.86
-iPhone12,256GB,T-Mobile,New,565.57
-iPhone12,256GB,T-Mobile,Like_new,498.58
-iPhone12,256GB,T-Mobile,Good,469.87
-iPhone12,256GB,T-Mobile,Fair,398.1
-iPhone12,256GB,T-Mobile,Broken,230.63
-iPhone12,256GB,Sprint,New,542.72
-iPhone12,256GB,Sprint,Like_new,478.4
-iPhone12,256GB,Sprint,Good,450.83
-iPhone12,256GB,Sprint,Fair,381.92
-iPhone12,256GB,Sprint,Broken,221.11
-iPhone12,256GB,Other,New,392.7
-iPhone12,256GB,Other,Like_new,345.87
-iPhone12,256GB,Other,Good,325.81
-iPhone12,256GB,Other,Fair,275.65
-iPhone12,256GB,Other,Broken,158.6
-iPhone12Mini,64GB,Unlocked,New,438.48
-iPhone12Mini,64GB,Unlocked,Like_new,386.32
-iPhone12Mini,64GB,Unlocked,Good,363.97
-iPhone12Mini,64GB,Unlocked,Fair,308.08
-iPhone12Mini,64GB,Unlocked,Broken,177.68
-iPhone12Mini,64GB,Verizon,New,438.48
-iPhone12Mini,64GB,Verizon,Like_new,386.32
-iPhone12Mini,64GB,Verizon,Good,363.97
-iPhone12Mini,64GB,Verizon,Fair,308.08
-iPhone12Mini,64GB,Verizon,Broken,177.68
-iPhone12Mini,64GB,AT&T,New,421.49
-iPhone12Mini,64GB,AT&T,Like_new,371.32
-iPhone12Mini,64GB,AT&T,Good,349.81
-iPhone12Mini,64GB,AT&T,Fair,296.04
-iPhone12Mini,64GB,AT&T,Broken,170.6
-iPhone12Mini,64GB,T-Mobile,New,407.18
-iPhone12Mini,64GB,T-Mobile,Like_new,358.67
-iPhone12Mini,64GB,T-Mobile,Good,337.88
-iPhone12Mini,64GB,T-Mobile,Fair,285.91
-iPhone12Mini,64GB,T-Mobile,Broken,164.64
-iPhone12Mini,64GB,Sprint,New,390.64
-iPhone12Mini,64GB,Sprint,Like_new,344.06
-iPhone12Mini,64GB,Sprint,Good,324.1
-iPhone12Mini,64GB,Sprint,Fair,274.19
-iPhone12Mini,64GB,Sprint,Broken,157.74
-iPhone12Mini,64GB,Other,New,282.0
-iPhone12Mini,64GB,Other,Like_new,248.09
-iPhone12Mini,64GB,Other,Good,233.57
-iPhone12Mini,64GB,Other,Fair,197.24
-iPhone12Mini,64GB,Other,Broken,112.48
-iPhone12Mini,128GB,Unlocked,New,469.87
-iPhone12Mini,128GB,Unlocked,Like_new,414.05
-iPhone12Mini,128GB,Unlocked,Good,390.12
-iPhone12Mini,128GB,Unlocked,Fair,330.32
-iPhone12Mini,128GB,Unlocked,Broken,190.76
-iPhone12Mini,128GB,Verizon,New,469.87
-iPhone12Mini,128GB,Verizon,Like_new,414.05
-iPhone12Mini,128GB,Verizon,Good,390.12
-iPhone12Mini,128GB,Verizon,Fair,330.32
-iPhone12Mini,128GB,Verizon,Broken,190.76
-iPhone12Mini,128GB,AT&T,New,451.69
-iPhone12Mini,128GB,AT&T,Like_new,397.99
-iPhone12Mini,128GB,AT&T,Good,374.97
-iPhone12Mini,128GB,AT&T,Fair,317.44
-iPhone12Mini,128GB,AT&T,Broken,183.18
-iPhone12Mini,128GB,T-Mobile,New,436.38
-iPhone12Mini,128GB,T-Mobile,Like_new,384.46
-iPhone12Mini,128GB,T-Mobile,Good,362.21
-iPhone12Mini,128GB,T-Mobile,Fair,306.59
-iPhone12Mini,128GB,T-Mobile,Broken,176.8
-iPhone12Mini,128GB,Sprint,New,418.67
-iPhone12Mini,128GB,Sprint,Like_new,368.82
-iPhone12Mini,128GB,Sprint,Good,347.46
-iPhone12Mini,128GB,Sprint,Fair,294.05
-iPhone12Mini,128GB,Sprint,Broken,169.43
-iPhone12Mini,128GB,Other,New,302.4
-iPhone12Mini,128GB,Other,Like_new,266.12
-iPhone12Mini,128GB,Other,Good,250.57
-iPhone12Mini,128GB,Other,Fair,211.69
-iPhone12Mini,128GB,Other,Broken,120.98
-iPhone12Mini,256GB,Unlocked,New,570.39
-iPhone12Mini,256GB,Unlocked,Like_new,502.85
-iPhone12Mini,256GB,Unlocked,Good,473.89
-iPhone12Mini,256GB,Unlocked,Fair,401.52
-iPhone12Mini,256GB,Unlocked,Broken,232.65
-iPhone12Mini,256GB,Verizon,New,570.39
-iPhone12Mini,256GB,Verizon,Like_new,502.85
-iPhone12Mini,256GB,Verizon,Good,473.89
-iPhone12Mini,256GB,Verizon,Fair,401.52
-iPhone12Mini,256GB,Verizon,Broken,232.65
-iPhone12Mini,256GB,AT&T,New,548.39
-iPhone12Mini,256GB,AT&T,Like_new,483.41
-iPhone12Mini,256GB,AT&T,Good,455.56
-iPhone12Mini,256GB,AT&T,Fair,385.94
-iPhone12Mini,256GB,AT&T,Broken,223.48
-iPhone12Mini,256GB,T-Mobile,New,529.86
-iPhone12Mini,256GB,T-Mobile,Like_new,467.04
-iPhone12Mini,256GB,T-Mobile,Good,440.12
-iPhone12Mini,256GB,T-Mobile,Fair,372.81
-iPhone12Mini,256GB,T-Mobile,Broken,215.76
-iPhone12Mini,256GB,Sprint,New,508.44
-iPhone12Mini,256GB,Sprint,Like_new,448.12
-iPhone12Mini,256GB,Sprint,Good,422.26
-iPhone12Mini,256GB,Sprint,Fair,357.64
-iPhone12Mini,256GB,Sprint,Broken,206.83
-iPhone12Mini,256GB,Other,New,367.74
-iPhone12Mini,256GB,Other,Like_new,323.83
-iPhone12Mini,256GB,Other,Good,305.02
-iPhone12Mini,256GB,Other,Fair,257.97
-iPhone12Mini,256GB,Other,Broken,148.21
-iPhone12Pro,128GB,Unlocked,New,711.43
-iPhone12Pro,128GB,Unlocked,Like_new,627.43
-iPhone12Pro,128GB,Unlocked,Good,591.43
-iPhone12Pro,128GB,Unlocked,Fair,501.42
-iPhone12Pro,128GB,Unlocked,Broken,291.41
-iPhone12Pro,128GB,Verizon,New,711.43
-iPhone12Pro,128GB,Verizon,Like_new,627.43
-iPhone12Pro,128GB,Verizon,Good,591.43
-iPhone12Pro,128GB,Verizon,Fair,501.42
-iPhone12Pro,128GB,Verizon,Broken,291.41
-iPhone12Pro,128GB,AT&T,New,684.07
-iPhone12Pro,128GB,AT&T,Like_new,603.26
-iPhone12Pro,128GB,AT&T,Good,568.63
-iPhone12Pro,128GB,AT&T,Fair,482.04
-iPhone12Pro,128GB,AT&T,Broken,280.01
-iPhone12Pro,128GB,T-Mobile,New,661.03
-iPhone12Pro,128GB,T-Mobile,Like_new,582.91
-iPhone12Pro,128GB,T-Mobile,Good,549.42
-iPhone12Pro,128GB,T-Mobile,Fair,465.72
-iPhone12Pro,128GB,T-Mobile,Broken,270.41
-iPhone12Pro,128GB,Sprint,New,634.39
-iPhone12Pro,128GB,Sprint,Like_new,559.37
-iPhone12Pro,128GB,Sprint,Good,527.22
-iPhone12Pro,128GB,Sprint,Fair,446.85
-iPhone12Pro,128GB,Sprint,Broken,259.3
-iPhone12Pro,128GB,Other,New,459.42
-iPhone12Pro,128GB,Other,Like_new,404.81
-iPhone12Pro,128GB,Other,Good,381.42
-iPhone12Pro,128GB,Other,Fair,322.91
-iPhone12Pro,128GB,Other,Broken,186.4
-iPhone12Pro,256GB,Unlocked,New,787.14
-iPhone12Pro,256GB,Unlocked,Like_new,694.31
-iPhone12Pro,256GB,Unlocked,Good,654.52
-iPhone12Pro,256GB,Unlocked,Fair,555.05
-iPhone12Pro,256GB,Unlocked,Broken,322.95
-iPhone12Pro,256GB,Verizon,New,787.14
-iPhone12Pro,256GB,Verizon,Like_new,694.31
-iPhone12Pro,256GB,Verizon,Good,654.52
-iPhone12Pro,256GB,Verizon,Fair,555.05
-iPhone12Pro,256GB,Verizon,Broken,322.95
-iPhone12Pro,256GB,AT&T,New,756.9
-iPhone12Pro,256GB,AT&T,Like_new,667.6
-iPhone12Pro,256GB,AT&T,Good,629.32
-iPhone12Pro,256GB,AT&T,Fair,533.63
-iPhone12Pro,256GB,AT&T,Broken,310.35
-iPhone12Pro,256GB,T-Mobile,New,731.44
-iPhone12Pro,256GB,T-Mobile,Like_new,645.1
-iPhone12Pro,256GB,T-Mobile,Good,608.1
-iPhone12Pro,256GB,T-Mobile,Fair,515.59
-iPhone12Pro,256GB,T-Mobile,Broken,299.74
-iPhone12Pro,256GB,Sprint,New,701.99
-iPhone12Pro,256GB,Sprint,Like_new,619.09
-iPhone12Pro,256GB,Sprint,Good,583.56
-iPhone12Pro,256GB,Sprint,Fair,494.74
-iPhone12Pro,256GB,Sprint,Broken,287.48
-iPhone12Pro,256GB,Other,New,508.63
-iPhone12Pro,256GB,Other,Like_new,448.28
-iPhone12Pro,256GB,Other,Good,422.42
-iPhone12Pro,256GB,Other,Fair,357.77
-iPhone12Pro,256GB,Other,Broken,206.91
-iPhone12Pro,512GB,Unlocked,New,864.53
-iPhone12Pro,512GB,Unlocked,Like_new,762.67
-iPhone12Pro,512GB,Unlocked,Good,719.01
-iPhone12Pro,512GB,Unlocked,Fair,609.87
-iPhone12Pro,512GB,Unlocked,Broken,355.2
-iPhone12Pro,512GB,Verizon,New,864.53
-iPhone12Pro,512GB,Verizon,Like_new,762.67
-iPhone12Pro,512GB,Verizon,Good,719.01
-iPhone12Pro,512GB,Verizon,Fair,609.87
-iPhone12Pro,512GB,Verizon,Broken,355.2
-iPhone12Pro,512GB,AT&T,New,831.35
-iPhone12Pro,512GB,AT&T,Like_new,733.35
-iPhone12Pro,512GB,AT&T,Good,691.36
-iPhone12Pro,512GB,AT&T,Fair,586.36
-iPhone12Pro,512GB,AT&T,Broken,341.38
-iPhone12Pro,512GB,T-Mobile,New,803.41
-iPhone12Pro,512GB,T-Mobile,Like_new,708.67
-iPhone12Pro,512GB,T-Mobile,Good,668.07
-iPhone12Pro,512GB,T-Mobile,Fair,566.57
-iPhone12Pro,512GB,T-Mobile,Broken,329.73
-iPhone12Pro,512GB,Sprint,New,771.11
-iPhone12Pro,512GB,Sprint,Like_new,680.14
-iPhone12Pro,512GB,Sprint,Good,641.15
-iPhone12Pro,512GB,Sprint,Fair,543.69
-iPhone12Pro,512GB,Sprint,Broken,316.27
-iPhone12Pro,512GB,Other,New,558.93
-iPhone12Pro,512GB,Other,Like_new,492.72
-iPhone12Pro,512GB,Other,Good,464.34
-iPhone12Pro,512GB,Other,Fair,393.4
-iPhone12Pro,512GB,Other,Broken,227.86
-iPhone12ProMax,128GB,Unlocked,New,820.51
-iPhone12ProMax,128GB,Unlocked,Like_new,723.78
-iPhone12ProMax,128GB,Unlocked,Good,682.32
-iPhone12ProMax,128GB,Unlocked,Fair,578.68
-iPhone12ProMax,128GB,Unlocked,Broken,336.85
-iPhone12ProMax,128GB,Verizon,New,820.51
-iPhone12ProMax,128GB,Verizon,Like_new,723.78
-iPhone12ProMax,128GB,Verizon,Good,682.32
-iPhone12ProMax,128GB,Verizon,Fair,578.68
-iPhone12ProMax,128GB,Verizon,Broken,336.85
-iPhone12ProMax,128GB,AT&T,New,789.0
-iPhone12ProMax,128GB,AT&T,Like_new,695.95
-iPhone12ProMax,128GB,AT&T,Good,656.07
-iPhone12ProMax,128GB,AT&T,Fair,556.36
-iPhone12ProMax,128GB,AT&T,Broken,323.73
-iPhone12ProMax,128GB,T-Mobile,New,762.47
-iPhone12ProMax,128GB,T-Mobile,Like_new,672.51
-iPhone12ProMax,128GB,T-Mobile,Good,633.95
-iPhone12ProMax,128GB,T-Mobile,Fair,537.57
-iPhone12ProMax,128GB,T-Mobile,Broken,312.67
-iPhone12ProMax,128GB,Sprint,New,731.79
-iPhone12ProMax,128GB,Sprint,Like_new,645.41
-iPhone12ProMax,128GB,Sprint,Good,608.39
-iPhone12ProMax,128GB,Sprint,Fair,515.84
-iPhone12ProMax,128GB,Sprint,Broken,299.89
-iPhone12ProMax,128GB,Other,New,530.31
-iPhone12ProMax,128GB,Other,Like_new,467.44
-iPhone12ProMax,128GB,Other,Good,440.5
-iPhone12ProMax,128GB,Other,Fair,373.13
-iPhone12ProMax,128GB,Other,Broken,215.94
-iPhone12ProMax,256GB,Unlocked,New,907.85
-iPhone12ProMax,256GB,Unlocked,Like_new,800.92
-iPhone12ProMax,256GB,Unlocked,Good,755.1
-iPhone12ProMax,256GB,Unlocked,Fair,640.55
-iPhone12ProMax,256GB,Unlocked,Broken,373.25
-iPhone12ProMax,256GB,Verizon,New,907.85
-iPhone12ProMax,256GB,Verizon,Like_new,800.92
-iPhone12ProMax,256GB,Verizon,Good,755.1
-iPhone12ProMax,256GB,Verizon,Fair,640.55
-iPhone12ProMax,256GB,Verizon,Broken,373.25
-iPhone12ProMax,256GB,AT&T,New,873.02
-iPhone12ProMax,256GB,AT&T,Like_new,770.16
-iPhone12ProMax,256GB,AT&T,Good,726.08
-iPhone12ProMax,256GB,AT&T,Fair,615.88
-iPhone12ProMax,256GB,AT&T,Broken,358.73
-iPhone12ProMax,256GB,T-Mobile,New,843.69
-iPhone12ProMax,256GB,T-Mobile,Like_new,744.26
-iPhone12ProMax,256GB,T-Mobile,Good,701.64
-iPhone12ProMax,256GB,T-Mobile,Fair,595.1
-iPhone12ProMax,256GB,T-Mobile,Broken,346.52
-iPhone12ProMax,256GB,Sprint,New,809.78
-iPhone12ProMax,256GB,Sprint,Like_new,714.3
-iPhone12ProMax,256GB,Sprint,Good,673.38
-iPhone12ProMax,256GB,Sprint,Fair,571.08
-iPhone12ProMax,256GB,Sprint,Broken,332.39
-iPhone12ProMax,256GB,Other,New,587.08
-iPhone12ProMax,256GB,Other,Like_new,517.59
-iPhone12ProMax,256GB,Other,Good,487.8
-iPhone12ProMax,256GB,Other,Fair,413.34
-iPhone12ProMax,256GB,Other,Broken,239.6
-iPhone12ProMax,512GB,Unlocked,New,994.59
-iPhone12ProMax,512GB,Unlocked,Like_new,877.56
-iPhone12ProMax,512GB,Unlocked,Good,827.39
-iPhone12ProMax,512GB,Unlocked,Fair,701.99
-iPhone12ProMax,512GB,Unlocked,Broken,409.39
-iPhone12ProMax,512GB,Verizon,New,994.59
-iPhone12ProMax,512GB,Verizon,Like_new,877.56
-iPhone12ProMax,512GB,Verizon,Good,827.39
-iPhone12ProMax,512GB,Verizon,Fair,701.99
-iPhone12ProMax,512GB,Verizon,Broken,409.39
-iPhone12ProMax,512GB,AT&T,New,956.47
-iPhone12ProMax,512GB,AT&T,Like_new,843.88
-iPhone12ProMax,512GB,AT&T,Good,795.63
-iPhone12ProMax,512GB,AT&T,Fair,674.99
-iPhone12ProMax,512GB,AT&T,Broken,393.51
-iPhone12ProMax,512GB,T-Mobile,New,924.37
-iPhone12ProMax,512GB,T-Mobile,Like_new,815.52
-iPhone12ProMax,512GB,T-Mobile,Good,768.87
-iPhone12ProMax,512GB,T-Mobile,Fair,652.25
-iPhone12ProMax,512GB,T-Mobile,Broken,380.13
-iPhone12ProMax,512GB,Sprint,New,887.25
-iPhone12ProMax,512GB,Sprint,Like_new,782.74
-iPhone12ProMax,512GB,Sprint,Good,737.94
-iPhone12ProMax,512GB,Sprint,Fair,625.96
-iPhone12ProMax,512GB,Sprint,Broken,364.67
-iPhone12ProMax,512GB,Other,New,643.47
-iPhone12ProMax,512GB,Other,Like_new,567.4
-iPhone12ProMax,512GB,Other,Good,534.79
-iPhone12ProMax,512GB,Other,Fair,453.28
-iPhone12ProMax,512GB,Other,Broken,263.09
+iPhone SE,16 GB,Unlocked,New,39.06
+iPhone SE,16 GB,Unlocked,Like_new,33.49
+iPhone SE,16 GB,Unlocked,Good,31.11
+iPhone SE,16 GB,Unlocked,Fair,25.15
+iPhone SE,16 GB,Unlocked,Broken,11.25
+iPhone SE,16 GB,Verizon,New,39.06
+iPhone SE,16 GB,Verizon,Like_new,33.49
+iPhone SE,16 GB,Verizon,Good,31.11
+iPhone SE,16 GB,Verizon,Fair,25.15
+iPhone SE,16 GB,Verizon,Broken,11.25
+iPhone SE,16 GB,AT&T,New,37.25
+iPhone SE,16 GB,AT&T,Like_new,31.89
+iPhone SE,16 GB,AT&T,Good,29.6
+iPhone SE,16 GB,AT&T,Fair,23.87
+iPhone SE,16 GB,AT&T,Broken,10.49
+iPhone SE,16 GB,T-Mobile,New,35.72
+iPhone SE,16 GB,T-Mobile,Like_new,30.55
+iPhone SE,16 GB,T-Mobile,Good,28.33
+iPhone SE,16 GB,T-Mobile,Fair,22.79
+iPhone SE,16 GB,T-Mobile,Broken,9.86
+iPhone SE,16 GB,Sprint,New,33.96
+iPhone SE,16 GB,Sprint,Like_new,28.99
+iPhone SE,16 GB,Sprint,Good,26.86
+iPhone SE,16 GB,Sprint,Fair,21.54
+iPhone SE,16 GB,Sprint,Broken,9.12
+iPhone SE,16 GB,Other,New,22.37
+iPhone SE,16 GB,Other,Like_new,18.76
+iPhone SE,16 GB,Other,Good,17.21
+iPhone SE,16 GB,Other,Fair,13.34
+iPhone SE,16 GB,Other,Broken,4.3
+iPhone SE,32 GB,Unlocked,New,47.09
+iPhone SE,32 GB,Unlocked,Like_new,40.6
+iPhone SE,32 GB,Unlocked,Good,37.81
+iPhone SE,32 GB,Unlocked,Fair,30.85
+iPhone SE,32 GB,Unlocked,Broken,14.6
+iPhone SE,32 GB,Verizon,New,47.09
+iPhone SE,32 GB,Verizon,Like_new,40.6
+iPhone SE,32 GB,Verizon,Good,37.81
+iPhone SE,32 GB,Verizon,Fair,30.85
+iPhone SE,32 GB,Verizon,Broken,14.6
+iPhone SE,32 GB,AT&T,New,44.98
+iPhone SE,32 GB,AT&T,Like_new,38.73
+iPhone SE,32 GB,AT&T,Good,36.05
+iPhone SE,32 GB,AT&T,Fair,29.35
+iPhone SE,32 GB,AT&T,Broken,13.72
+iPhone SE,32 GB,T-Mobile,New,43.2
+iPhone SE,32 GB,T-Mobile,Like_new,37.15
+iPhone SE,32 GB,T-Mobile,Good,34.56
+iPhone SE,32 GB,T-Mobile,Fair,28.08
+iPhone SE,32 GB,T-Mobile,Broken,12.97
+iPhone SE,32 GB,Sprint,New,41.13
+iPhone SE,32 GB,Sprint,Like_new,35.33
+iPhone SE,32 GB,Sprint,Good,32.85
+iPhone SE,32 GB,Sprint,Fair,26.63
+iPhone SE,32 GB,Sprint,Broken,12.11
+iPhone SE,32 GB,Other,New,27.6
+iPhone SE,32 GB,Other,Like_new,23.37
+iPhone SE,32 GB,Other,Good,21.56
+iPhone SE,32 GB,Other,Fair,17.04
+iPhone SE,32 GB,Other,Broken,6.48
+iPhone SE,64 GB,Unlocked,New,53.19
+iPhone SE,64 GB,Unlocked,Like_new,45.98
+iPhone SE,64 GB,Unlocked,Good,42.89
+iPhone SE,64 GB,Unlocked,Fair,35.16
+iPhone SE,64 GB,Unlocked,Broken,17.14
+iPhone SE,64 GB,Verizon,New,53.19
+iPhone SE,64 GB,Verizon,Like_new,45.98
+iPhone SE,64 GB,Verizon,Good,42.89
+iPhone SE,64 GB,Verizon,Fair,35.16
+iPhone SE,64 GB,Verizon,Broken,17.14
+iPhone SE,64 GB,AT&T,New,50.84
+iPhone SE,64 GB,AT&T,Like_new,43.9
+iPhone SE,64 GB,AT&T,Good,40.93
+iPhone SE,64 GB,AT&T,Fair,33.5
+iPhone SE,64 GB,AT&T,Broken,16.16
+iPhone SE,64 GB,T-Mobile,New,48.86
+iPhone SE,64 GB,T-Mobile,Like_new,42.15
+iPhone SE,64 GB,T-Mobile,Good,39.28
+iPhone SE,64 GB,T-Mobile,Fair,32.1
+iPhone SE,64 GB,T-Mobile,Broken,15.34
+iPhone SE,64 GB,Sprint,New,46.57
+iPhone SE,64 GB,Sprint,Like_new,40.14
+iPhone SE,64 GB,Sprint,Good,37.38
+iPhone SE,64 GB,Sprint,Fair,30.48
+iPhone SE,64 GB,Sprint,Broken,14.38
+iPhone SE,64 GB,Other,New,31.56
+iPhone SE,64 GB,Other,Like_new,26.87
+iPhone SE,64 GB,Other,Good,24.86
+iPhone SE,64 GB,Other,Fair,19.84
+iPhone SE,64 GB,Other,Broken,8.13
+iPhone SE,128 GB,Unlocked,New,71.0
+iPhone SE,128 GB,Unlocked,Like_new,61.71
+iPhone SE,128 GB,Unlocked,Good,57.73
+iPhone SE,128 GB,Unlocked,Fair,47.78
+iPhone SE,128 GB,Unlocked,Broken,24.56
+iPhone SE,128 GB,Verizon,New,71.0
+iPhone SE,128 GB,Verizon,Like_new,61.71
+iPhone SE,128 GB,Verizon,Good,57.73
+iPhone SE,128 GB,Verizon,Fair,47.78
+iPhone SE,128 GB,Verizon,Broken,24.56
+iPhone SE,128 GB,AT&T,New,67.98
+iPhone SE,128 GB,AT&T,Like_new,59.04
+iPhone SE,128 GB,AT&T,Good,55.21
+iPhone SE,128 GB,AT&T,Fair,45.64
+iPhone SE,128 GB,AT&T,Broken,23.3
+iPhone SE,128 GB,T-Mobile,New,65.43
+iPhone SE,128 GB,T-Mobile,Like_new,56.79
+iPhone SE,128 GB,T-Mobile,Good,53.09
+iPhone SE,128 GB,T-Mobile,Fair,43.83
+iPhone SE,128 GB,T-Mobile,Broken,22.24
+iPhone SE,128 GB,Sprint,New,62.48
+iPhone SE,128 GB,Sprint,Like_new,54.19
+iPhone SE,128 GB,Sprint,Good,50.63
+iPhone SE,128 GB,Sprint,Fair,41.75
+iPhone SE,128 GB,Sprint,Broken,21.01
+iPhone SE,128 GB,Other,New,43.14
+iPhone SE,128 GB,Other,Like_new,37.1
+iPhone SE,128 GB,Other,Good,34.51
+iPhone SE,128 GB,Other,Fair,28.04
+iPhone SE,128 GB,Other,Broken,12.95
+iPhone 6,16 GB,Unlocked,New,34.41
+iPhone 6,16 GB,Unlocked,Like_new,29.39
+iPhone 6,16 GB,Unlocked,Good,27.24
+iPhone 6,16 GB,Unlocked,Fair,21.87
+iPhone 6,16 GB,Unlocked,Broken,9.32
+iPhone 6,16 GB,Verizon,New,34.41
+iPhone 6,16 GB,Verizon,Like_new,29.39
+iPhone 6,16 GB,Verizon,Good,27.24
+iPhone 6,16 GB,Verizon,Fair,21.87
+iPhone 6,16 GB,Verizon,Broken,9.32
+iPhone 6,16 GB,AT&T,New,32.78
+iPhone 6,16 GB,AT&T,Like_new,27.95
+iPhone 6,16 GB,AT&T,Good,25.88
+iPhone 6,16 GB,AT&T,Fair,20.71
+iPhone 6,16 GB,AT&T,Broken,8.64
+iPhone 6,16 GB,T-Mobile,New,31.4
+iPhone 6,16 GB,T-Mobile,Like_new,26.73
+iPhone 6,16 GB,T-Mobile,Good,24.74
+iPhone 6,16 GB,T-Mobile,Fair,19.73
+iPhone 6,16 GB,T-Mobile,Broken,8.06
+iPhone 6,16 GB,Sprint,New,29.81
+iPhone 6,16 GB,Sprint,Like_new,25.32
+iPhone 6,16 GB,Sprint,Good,23.41
+iPhone 6,16 GB,Sprint,Fair,18.6
+iPhone 6,16 GB,Sprint,Broken,7.4
+iPhone 6,16 GB,Other,New,19.36
+iPhone 6,16 GB,Other,Like_new,16.09
+iPhone 6,16 GB,Other,Good,14.69
+iPhone 6,16 GB,Other,Fair,11.2
+iPhone 6,16 GB,Other,Broken,3.04
+iPhone 6,32 GB,Unlocked,New,38.39
+iPhone 6,32 GB,Unlocked,Like_new,32.91
+iPhone 6,32 GB,Unlocked,Good,30.56
+iPhone 6,32 GB,Unlocked,Fair,24.68
+iPhone 6,32 GB,Unlocked,Broken,10.97
+iPhone 6,32 GB,Verizon,New,38.39
+iPhone 6,32 GB,Verizon,Like_new,32.91
+iPhone 6,32 GB,Verizon,Good,30.56
+iPhone 6,32 GB,Verizon,Fair,24.68
+iPhone 6,32 GB,Verizon,Broken,10.97
+iPhone 6,32 GB,AT&T,New,36.6
+iPhone 6,32 GB,AT&T,Like_new,31.33
+iPhone 6,32 GB,AT&T,Good,29.07
+iPhone 6,32 GB,AT&T,Fair,23.42
+iPhone 6,32 GB,AT&T,Broken,10.23
+iPhone 6,32 GB,T-Mobile,New,35.1
+iPhone 6,32 GB,T-Mobile,Like_new,30.0
+iPhone 6,32 GB,T-Mobile,Good,27.81
+iPhone 6,32 GB,T-Mobile,Fair,22.35
+iPhone 6,32 GB,T-Mobile,Broken,9.6
+iPhone 6,32 GB,Sprint,New,33.36
+iPhone 6,32 GB,Sprint,Like_new,28.47
+iPhone 6,32 GB,Sprint,Good,26.36
+iPhone 6,32 GB,Sprint,Fair,21.12
+iPhone 6,32 GB,Sprint,Broken,8.88
+iPhone 6,32 GB,Other,New,21.94
+iPhone 6,32 GB,Other,Like_new,18.38
+iPhone 6,32 GB,Other,Good,16.85
+iPhone 6,32 GB,Other,Fair,13.03
+iPhone 6,32 GB,Other,Broken,4.12
+iPhone 6,64 GB,Unlocked,New,41.06
+iPhone 6,64 GB,Unlocked,Like_new,35.26
+iPhone 6,64 GB,Unlocked,Good,32.78
+iPhone 6,64 GB,Unlocked,Fair,26.57
+iPhone 6,64 GB,Unlocked,Broken,12.08
+iPhone 6,64 GB,Verizon,New,41.06
+iPhone 6,64 GB,Verizon,Like_new,35.26
+iPhone 6,64 GB,Verizon,Good,32.78
+iPhone 6,64 GB,Verizon,Fair,26.57
+iPhone 6,64 GB,Verizon,Broken,12.08
+iPhone 6,64 GB,AT&T,New,39.17
+iPhone 6,64 GB,AT&T,Like_new,33.59
+iPhone 6,64 GB,AT&T,Good,31.21
+iPhone 6,64 GB,AT&T,Fair,25.23
+iPhone 6,64 GB,AT&T,Broken,11.3
+iPhone 6,64 GB,T-Mobile,New,37.58
+iPhone 6,64 GB,T-Mobile,Like_new,32.19
+iPhone 6,64 GB,T-Mobile,Good,29.88
+iPhone 6,64 GB,T-Mobile,Fair,24.11
+iPhone 6,64 GB,T-Mobile,Broken,10.63
+iPhone 6,64 GB,Sprint,New,35.74
+iPhone 6,64 GB,Sprint,Like_new,30.57
+iPhone 6,64 GB,Sprint,Good,28.35
+iPhone 6,64 GB,Sprint,Fair,22.8
+iPhone 6,64 GB,Sprint,Broken,9.87
+iPhone 6,64 GB,Other,New,23.67
+iPhone 6,64 GB,Other,Like_new,19.91
+iPhone 6,64 GB,Other,Good,18.29
+iPhone 6,64 GB,Other,Fair,14.26
+iPhone 6,64 GB,Other,Broken,4.84
+iPhone 6,128 GB,Unlocked,New,45.75
+iPhone 6,128 GB,Unlocked,Like_new,39.41
+iPhone 6,128 GB,Unlocked,Good,36.69
+iPhone 6,128 GB,Unlocked,Fair,29.9
+iPhone 6,128 GB,Unlocked,Broken,14.04
+iPhone 6,128 GB,Verizon,New,45.75
+iPhone 6,128 GB,Verizon,Like_new,39.41
+iPhone 6,128 GB,Verizon,Good,36.69
+iPhone 6,128 GB,Verizon,Fair,29.9
+iPhone 6,128 GB,Verizon,Broken,14.04
+iPhone 6,128 GB,AT&T,New,43.68
+iPhone 6,128 GB,AT&T,Like_new,37.58
+iPhone 6,128 GB,AT&T,Good,34.97
+iPhone 6,128 GB,AT&T,Fair,28.43
+iPhone 6,128 GB,AT&T,Broken,13.18
+iPhone 6,128 GB,T-Mobile,New,41.94
+iPhone 6,128 GB,T-Mobile,Like_new,36.05
+iPhone 6,128 GB,T-Mobile,Good,33.52
+iPhone 6,128 GB,T-Mobile,Fair,27.2
+iPhone 6,128 GB,T-Mobile,Broken,12.45
+iPhone 6,128 GB,Sprint,New,39.93
+iPhone 6,128 GB,Sprint,Like_new,34.27
+iPhone 6,128 GB,Sprint,Good,31.84
+iPhone 6,128 GB,Sprint,Fair,25.77
+iPhone 6,128 GB,Sprint,Broken,11.62
+iPhone 6,128 GB,Other,New,26.72
+iPhone 6,128 GB,Other,Like_new,22.6
+iPhone 6,128 GB,Other,Good,20.83
+iPhone 6,128 GB,Other,Fair,16.42
+iPhone 6,128 GB,Other,Broken,6.11
+iPhone 6 Plus,16 GB,Unlocked,New,57.95
+iPhone 6 Plus,16 GB,Unlocked,Like_new,50.18
+iPhone 6 Plus,16 GB,Unlocked,Good,46.86
+iPhone 6 Plus,16 GB,Unlocked,Fair,38.54
+iPhone 6 Plus,16 GB,Unlocked,Broken,19.13
+iPhone 6 Plus,16 GB,Verizon,New,57.95
+iPhone 6 Plus,16 GB,Verizon,Like_new,50.18
+iPhone 6 Plus,16 GB,Verizon,Good,46.86
+iPhone 6 Plus,16 GB,Verizon,Fair,38.54
+iPhone 6 Plus,16 GB,Verizon,Broken,19.13
+iPhone 6 Plus,16 GB,AT&T,New,55.42
+iPhone 6 Plus,16 GB,AT&T,Like_new,47.95
+iPhone 6 Plus,16 GB,AT&T,Good,44.75
+iPhone 6 Plus,16 GB,AT&T,Fair,36.75
+iPhone 6 Plus,16 GB,AT&T,Broken,18.07
+iPhone 6 Plus,16 GB,T-Mobile,New,53.29
+iPhone 6 Plus,16 GB,T-Mobile,Like_new,46.07
+iPhone 6 Plus,16 GB,T-Mobile,Good,42.97
+iPhone 6 Plus,16 GB,T-Mobile,Fair,35.23
+iPhone 6 Plus,16 GB,T-Mobile,Broken,17.18
+iPhone 6 Plus,16 GB,Sprint,New,50.83
+iPhone 6 Plus,16 GB,Sprint,Like_new,43.89
+iPhone 6 Plus,16 GB,Sprint,Good,40.92
+iPhone 6 Plus,16 GB,Sprint,Fair,33.49
+iPhone 6 Plus,16 GB,Sprint,Broken,16.16
+iPhone 6 Plus,16 GB,Other,New,34.65
+iPhone 6 Plus,16 GB,Other,Like_new,29.6
+iPhone 6 Plus,16 GB,Other,Good,27.44
+iPhone 6 Plus,16 GB,Other,Fair,22.04
+iPhone 6 Plus,16 GB,Other,Broken,9.42
+iPhone 6 Plus,32 GB,Unlocked,New,52.51
+iPhone 6 Plus,32 GB,Unlocked,Like_new,45.38
+iPhone 6 Plus,32 GB,Unlocked,Good,42.32
+iPhone 6 Plus,32 GB,Unlocked,Fair,34.68
+iPhone 6 Plus,32 GB,Unlocked,Broken,16.86
+iPhone 6 Plus,32 GB,Verizon,New,52.51
+iPhone 6 Plus,32 GB,Verizon,Like_new,45.38
+iPhone 6 Plus,32 GB,Verizon,Good,42.32
+iPhone 6 Plus,32 GB,Verizon,Fair,34.68
+iPhone 6 Plus,32 GB,Verizon,Broken,16.86
+iPhone 6 Plus,32 GB,AT&T,New,50.18
+iPhone 6 Plus,32 GB,AT&T,Like_new,43.32
+iPhone 6 Plus,32 GB,AT&T,Good,40.39
+iPhone 6 Plus,32 GB,AT&T,Fair,33.04
+iPhone 6 Plus,32 GB,AT&T,Broken,15.89
+iPhone 6 Plus,32 GB,T-Mobile,New,48.23
+iPhone 6 Plus,32 GB,T-Mobile,Like_new,41.6
+iPhone 6 Plus,32 GB,T-Mobile,Good,38.75
+iPhone 6 Plus,32 GB,T-Mobile,Fair,31.65
+iPhone 6 Plus,32 GB,T-Mobile,Broken,15.07
+iPhone 6 Plus,32 GB,Sprint,New,45.97
+iPhone 6 Plus,32 GB,Sprint,Like_new,39.6
+iPhone 6 Plus,32 GB,Sprint,Good,36.87
+iPhone 6 Plus,32 GB,Sprint,Fair,30.05
+iPhone 6 Plus,32 GB,Sprint,Broken,14.13
+iPhone 6 Plus,32 GB,Other,New,31.11
+iPhone 6 Plus,32 GB,Other,Like_new,26.48
+iPhone 6 Plus,32 GB,Other,Good,24.5
+iPhone 6 Plus,32 GB,Other,Fair,19.53
+iPhone 6 Plus,32 GB,Other,Broken,7.94
+iPhone 6 Plus,64 GB,Unlocked,New,67.56
+iPhone 6 Plus,64 GB,Unlocked,Like_new,58.66
+iPhone 6 Plus,64 GB,Unlocked,Good,54.86
+iPhone 6 Plus,64 GB,Unlocked,Fair,45.34
+iPhone 6 Plus,64 GB,Unlocked,Broken,23.12
+iPhone 6 Plus,64 GB,Verizon,New,67.56
+iPhone 6 Plus,64 GB,Verizon,Like_new,58.66
+iPhone 6 Plus,64 GB,Verizon,Good,54.86
+iPhone 6 Plus,64 GB,Verizon,Fair,45.34
+iPhone 6 Plus,64 GB,Verizon,Broken,23.12
+iPhone 6 Plus,64 GB,AT&T,New,64.66
+iPhone 6 Plus,64 GB,AT&T,Like_new,56.11
+iPhone 6 Plus,64 GB,AT&T,Good,52.45
+iPhone 6 Plus,64 GB,AT&T,Fair,43.29
+iPhone 6 Plus,64 GB,AT&T,Broken,21.92
+iPhone 6 Plus,64 GB,T-Mobile,New,62.22
+iPhone 6 Plus,64 GB,T-Mobile,Like_new,53.95
+iPhone 6 Plus,64 GB,T-Mobile,Good,50.42
+iPhone 6 Plus,64 GB,T-Mobile,Fair,41.56
+iPhone 6 Plus,64 GB,T-Mobile,Broken,20.91
+iPhone 6 Plus,64 GB,Sprint,New,59.41
+iPhone 6 Plus,64 GB,Sprint,Like_new,51.47
+iPhone 6 Plus,64 GB,Sprint,Good,48.07
+iPhone 6 Plus,64 GB,Sprint,Fair,39.57
+iPhone 6 Plus,64 GB,Sprint,Broken,19.73
+iPhone 6 Plus,64 GB,Other,New,40.9
+iPhone 6 Plus,64 GB,Other,Like_new,35.12
+iPhone 6 Plus,64 GB,Other,Good,32.65
+iPhone 6 Plus,64 GB,Other,Fair,26.46
+iPhone 6 Plus,64 GB,Other,Broken,12.02
+iPhone 6 Plus,128 GB,Unlocked,New,75.16
+iPhone 6 Plus,128 GB,Unlocked,Like_new,65.38
+iPhone 6 Plus,128 GB,Unlocked,Good,61.19
+iPhone 6 Plus,128 GB,Unlocked,Fair,50.72
+iPhone 6 Plus,128 GB,Unlocked,Broken,26.29
+iPhone 6 Plus,128 GB,Verizon,New,75.16
+iPhone 6 Plus,128 GB,Verizon,Like_new,65.38
+iPhone 6 Plus,128 GB,Verizon,Good,61.19
+iPhone 6 Plus,128 GB,Verizon,Fair,50.72
+iPhone 6 Plus,128 GB,Verizon,Broken,26.29
+iPhone 6 Plus,128 GB,AT&T,New,71.97
+iPhone 6 Plus,128 GB,AT&T,Like_new,62.57
+iPhone 6 Plus,128 GB,AT&T,Good,58.54
+iPhone 6 Plus,128 GB,AT&T,Fair,48.47
+iPhone 6 Plus,128 GB,AT&T,Broken,24.97
+iPhone 6 Plus,128 GB,T-Mobile,New,69.29
+iPhone 6 Plus,128 GB,T-Mobile,Like_new,60.2
+iPhone 6 Plus,128 GB,T-Mobile,Good,56.31
+iPhone 6 Plus,128 GB,T-Mobile,Fair,46.57
+iPhone 6 Plus,128 GB,T-Mobile,Broken,23.85
+iPhone 6 Plus,128 GB,Sprint,New,66.19
+iPhone 6 Plus,128 GB,Sprint,Like_new,57.47
+iPhone 6 Plus,128 GB,Sprint,Good,53.72
+iPhone 6 Plus,128 GB,Sprint,Fair,44.38
+iPhone 6 Plus,128 GB,Sprint,Broken,22.56
+iPhone 6 Plus,128 GB,Other,New,45.84
+iPhone 6 Plus,128 GB,Other,Like_new,39.49
+iPhone 6 Plus,128 GB,Other,Good,36.76
+iPhone 6 Plus,128 GB,Other,Fair,29.96
+iPhone 6 Plus,128 GB,Other,Broken,14.07
+iPhone 6S,16 GB,Unlocked,New,43.07
+iPhone 6S,16 GB,Unlocked,Like_new,37.03
+iPhone 6S,16 GB,Unlocked,Good,34.45
+iPhone 6S,16 GB,Unlocked,Fair,27.99
+iPhone 6S,16 GB,Unlocked,Broken,12.92
+iPhone 6S,16 GB,Verizon,New,43.07
+iPhone 6S,16 GB,Verizon,Like_new,37.03
+iPhone 6S,16 GB,Verizon,Good,34.45
+iPhone 6S,16 GB,Verizon,Fair,27.99
+iPhone 6S,16 GB,Verizon,Broken,12.92
+iPhone 6S,16 GB,AT&T,New,41.1
+iPhone 6S,16 GB,AT&T,Like_new,35.3
+iPhone 6S,16 GB,AT&T,Good,32.81
+iPhone 6S,16 GB,AT&T,Fair,26.6
+iPhone 6S,16 GB,AT&T,Broken,12.1
+iPhone 6S,16 GB,T-Mobile,New,39.45
+iPhone 6S,16 GB,T-Mobile,Like_new,33.84
+iPhone 6S,16 GB,T-Mobile,Good,31.44
+iPhone 6S,16 GB,T-Mobile,Fair,25.43
+iPhone 6S,16 GB,T-Mobile,Broken,11.41
+iPhone 6S,16 GB,Sprint,New,37.54
+iPhone 6S,16 GB,Sprint,Like_new,32.15
+iPhone 6S,16 GB,Sprint,Good,29.84
+iPhone 6S,16 GB,Sprint,Fair,24.07
+iPhone 6S,16 GB,Sprint,Broken,10.62
+iPhone 6S,16 GB,Other,New,24.98
+iPhone 6S,16 GB,Other,Like_new,21.06
+iPhone 6S,16 GB,Other,Good,19.38
+iPhone 6S,16 GB,Other,Fair,15.18
+iPhone 6S,16 GB,Other,Broken,5.39
+iPhone 6S,32 GB,Unlocked,New,53.19
+iPhone 6S,32 GB,Unlocked,Like_new,45.98
+iPhone 6S,32 GB,Unlocked,Good,42.89
+iPhone 6S,32 GB,Unlocked,Fair,35.16
+iPhone 6S,32 GB,Unlocked,Broken,17.14
+iPhone 6S,32 GB,Verizon,New,53.19
+iPhone 6S,32 GB,Verizon,Like_new,45.98
+iPhone 6S,32 GB,Verizon,Good,42.89
+iPhone 6S,32 GB,Verizon,Fair,35.16
+iPhone 6S,32 GB,Verizon,Broken,17.14
+iPhone 6S,32 GB,AT&T,New,50.84
+iPhone 6S,32 GB,AT&T,Like_new,43.9
+iPhone 6S,32 GB,AT&T,Good,40.93
+iPhone 6S,32 GB,AT&T,Fair,33.5
+iPhone 6S,32 GB,AT&T,Broken,16.16
+iPhone 6S,32 GB,T-Mobile,New,48.86
+iPhone 6S,32 GB,T-Mobile,Like_new,42.15
+iPhone 6S,32 GB,T-Mobile,Good,39.28
+iPhone 6S,32 GB,T-Mobile,Fair,32.1
+iPhone 6S,32 GB,T-Mobile,Broken,15.34
+iPhone 6S,32 GB,Sprint,New,46.57
+iPhone 6S,32 GB,Sprint,Like_new,40.14
+iPhone 6S,32 GB,Sprint,Good,37.38
+iPhone 6S,32 GB,Sprint,Fair,30.48
+iPhone 6S,32 GB,Sprint,Broken,14.38
+iPhone 6S,32 GB,Other,New,31.56
+iPhone 6S,32 GB,Other,Like_new,26.87
+iPhone 6S,32 GB,Other,Good,24.86
+iPhone 6S,32 GB,Other,Fair,19.84
+iPhone 6S,32 GB,Other,Broken,8.13
+iPhone 6S,64 GB,Unlocked,New,57.95
+iPhone 6S,64 GB,Unlocked,Like_new,50.18
+iPhone 6S,64 GB,Unlocked,Good,46.86
+iPhone 6S,64 GB,Unlocked,Fair,38.54
+iPhone 6S,64 GB,Unlocked,Broken,19.13
+iPhone 6S,64 GB,Verizon,New,57.95
+iPhone 6S,64 GB,Verizon,Like_new,50.18
+iPhone 6S,64 GB,Verizon,Good,46.86
+iPhone 6S,64 GB,Verizon,Fair,38.54
+iPhone 6S,64 GB,Verizon,Broken,19.13
+iPhone 6S,64 GB,AT&T,New,55.42
+iPhone 6S,64 GB,AT&T,Like_new,47.95
+iPhone 6S,64 GB,AT&T,Good,44.75
+iPhone 6S,64 GB,AT&T,Fair,36.75
+iPhone 6S,64 GB,AT&T,Broken,18.07
+iPhone 6S,64 GB,T-Mobile,New,53.29
+iPhone 6S,64 GB,T-Mobile,Like_new,46.07
+iPhone 6S,64 GB,T-Mobile,Good,42.97
+iPhone 6S,64 GB,T-Mobile,Fair,35.23
+iPhone 6S,64 GB,T-Mobile,Broken,17.18
+iPhone 6S,64 GB,Sprint,New,50.83
+iPhone 6S,64 GB,Sprint,Like_new,43.89
+iPhone 6S,64 GB,Sprint,Good,40.92
+iPhone 6S,64 GB,Sprint,Fair,33.49
+iPhone 6S,64 GB,Sprint,Broken,16.16
+iPhone 6S,64 GB,Other,New,34.65
+iPhone 6S,64 GB,Other,Like_new,29.6
+iPhone 6S,64 GB,Other,Good,27.44
+iPhone 6S,64 GB,Other,Fair,22.04
+iPhone 6S,64 GB,Other,Broken,9.42
+iPhone 6S,128 GB,Unlocked,New,70.31
+iPhone 6S,128 GB,Unlocked,Like_new,61.11
+iPhone 6S,128 GB,Unlocked,Good,57.16
+iPhone 6S,128 GB,Unlocked,Fair,47.29
+iPhone 6S,128 GB,Unlocked,Broken,24.27
+iPhone 6S,128 GB,Verizon,New,70.31
+iPhone 6S,128 GB,Verizon,Like_new,61.11
+iPhone 6S,128 GB,Verizon,Good,57.16
+iPhone 6S,128 GB,Verizon,Fair,47.29
+iPhone 6S,128 GB,Verizon,Broken,24.27
+iPhone 6S,128 GB,AT&T,New,67.31
+iPhone 6S,128 GB,AT&T,Like_new,58.45
+iPhone 6S,128 GB,AT&T,Good,54.66
+iPhone 6S,128 GB,AT&T,Fair,45.17
+iPhone 6S,128 GB,AT&T,Broken,23.02
+iPhone 6S,128 GB,T-Mobile,New,64.79
+iPhone 6S,128 GB,T-Mobile,Like_new,56.22
+iPhone 6S,128 GB,T-Mobile,Good,52.55
+iPhone 6S,128 GB,T-Mobile,Fair,43.38
+iPhone 6S,128 GB,T-Mobile,Broken,21.97
+iPhone 6S,128 GB,Sprint,New,61.87
+iPhone 6S,128 GB,Sprint,Like_new,53.64
+iPhone 6S,128 GB,Sprint,Good,50.12
+iPhone 6S,128 GB,Sprint,Fair,41.31
+iPhone 6S,128 GB,Sprint,Broken,20.75
+iPhone 6S,128 GB,Other,New,42.69
+iPhone 6S,128 GB,Other,Like_new,36.7
+iPhone 6S,128 GB,Other,Good,34.14
+iPhone 6S,128 GB,Other,Fair,27.73
+iPhone 6S,128 GB,Other,Broken,12.76
+iPhone 6S Plus,16 GB,Unlocked,New,77.93
+iPhone 6S Plus,16 GB,Unlocked,Like_new,67.83
+iPhone 6S Plus,16 GB,Unlocked,Good,63.51
+iPhone 6S Plus,16 GB,Unlocked,Fair,52.69
+iPhone 6S Plus,16 GB,Unlocked,Broken,27.45
+iPhone 6S Plus,16 GB,Verizon,New,77.93
+iPhone 6S Plus,16 GB,Verizon,Like_new,67.83
+iPhone 6S Plus,16 GB,Verizon,Good,63.51
+iPhone 6S Plus,16 GB,Verizon,Fair,52.69
+iPhone 6S Plus,16 GB,Verizon,Broken,27.45
+iPhone 6S Plus,16 GB,AT&T,New,74.64
+iPhone 6S Plus,16 GB,AT&T,Like_new,64.93
+iPhone 6S Plus,16 GB,AT&T,Good,60.77
+iPhone 6S Plus,16 GB,AT&T,Fair,50.36
+iPhone 6S Plus,16 GB,AT&T,Broken,26.08
+iPhone 6S Plus,16 GB,T-Mobile,New,71.87
+iPhone 6S Plus,16 GB,T-Mobile,Like_new,62.48
+iPhone 6S Plus,16 GB,T-Mobile,Good,58.46
+iPhone 6S Plus,16 GB,T-Mobile,Fair,48.4
+iPhone 6S Plus,16 GB,T-Mobile,Broken,24.92
+iPhone 6S Plus,16 GB,Sprint,New,68.67
+iPhone 6S Plus,16 GB,Sprint,Like_new,59.65
+iPhone 6S Plus,16 GB,Sprint,Good,55.79
+iPhone 6S Plus,16 GB,Sprint,Fair,46.13
+iPhone 6S Plus,16 GB,Sprint,Broken,23.59
+iPhone 6S Plus,16 GB,Other,New,47.64
+iPhone 6S Plus,16 GB,Other,Like_new,41.08
+iPhone 6S Plus,16 GB,Other,Good,38.26
+iPhone 6S Plus,16 GB,Other,Fair,31.23
+iPhone 6S Plus,16 GB,Other,Broken,14.83
+iPhone 6S Plus,32 GB,Unlocked,New,83.5
+iPhone 6S Plus,32 GB,Unlocked,Like_new,72.75
+iPhone 6S Plus,32 GB,Unlocked,Good,68.14
+iPhone 6S Plus,32 GB,Unlocked,Fair,56.63
+iPhone 6S Plus,32 GB,Unlocked,Broken,29.77
+iPhone 6S Plus,32 GB,Verizon,New,83.5
+iPhone 6S Plus,32 GB,Verizon,Like_new,72.75
+iPhone 6S Plus,32 GB,Verizon,Good,68.14
+iPhone 6S Plus,32 GB,Verizon,Fair,56.63
+iPhone 6S Plus,32 GB,Verizon,Broken,29.77
+iPhone 6S Plus,32 GB,AT&T,New,80.0
+iPhone 6S Plus,32 GB,AT&T,Like_new,69.66
+iPhone 6S Plus,32 GB,AT&T,Good,65.23
+iPhone 6S Plus,32 GB,AT&T,Fair,54.15
+iPhone 6S Plus,32 GB,AT&T,Broken,28.31
+iPhone 6S Plus,32 GB,T-Mobile,New,77.05
+iPhone 6S Plus,32 GB,T-Mobile,Like_new,67.05
+iPhone 6S Plus,32 GB,T-Mobile,Good,62.77
+iPhone 6S Plus,32 GB,T-Mobile,Fair,52.06
+iPhone 6S Plus,32 GB,T-Mobile,Broken,27.08
+iPhone 6S Plus,32 GB,Sprint,New,73.64
+iPhone 6S Plus,32 GB,Sprint,Like_new,64.04
+iPhone 6S Plus,32 GB,Sprint,Good,59.93
+iPhone 6S Plus,32 GB,Sprint,Fair,49.65
+iPhone 6S Plus,32 GB,Sprint,Broken,25.66
+iPhone 6S Plus,32 GB,Other,New,51.26
+iPhone 6S Plus,32 GB,Other,Like_new,44.28
+iPhone 6S Plus,32 GB,Other,Good,41.28
+iPhone 6S Plus,32 GB,Other,Fair,33.8
+iPhone 6S Plus,32 GB,Other,Broken,16.34
+iPhone 6S Plus,64 GB,Unlocked,New,88.39
+iPhone 6S Plus,64 GB,Unlocked,Like_new,77.07
+iPhone 6S Plus,64 GB,Unlocked,Good,72.22
+iPhone 6S Plus,64 GB,Unlocked,Fair,60.09
+iPhone 6S Plus,64 GB,Unlocked,Broken,31.8
+iPhone 6S Plus,64 GB,Verizon,New,88.39
+iPhone 6S Plus,64 GB,Verizon,Like_new,77.07
+iPhone 6S Plus,64 GB,Verizon,Good,72.22
+iPhone 6S Plus,64 GB,Verizon,Fair,60.09
+iPhone 6S Plus,64 GB,Verizon,Broken,31.8
+iPhone 6S Plus,64 GB,AT&T,New,84.69
+iPhone 6S Plus,64 GB,AT&T,Like_new,73.81
+iPhone 6S Plus,64 GB,AT&T,Good,69.15
+iPhone 6S Plus,64 GB,AT&T,Fair,57.48
+iPhone 6S Plus,64 GB,AT&T,Broken,30.27
+iPhone 6S Plus,64 GB,T-Mobile,New,81.59
+iPhone 6S Plus,64 GB,T-Mobile,Like_new,71.07
+iPhone 6S Plus,64 GB,T-Mobile,Good,66.56
+iPhone 6S Plus,64 GB,T-Mobile,Fair,55.28
+iPhone 6S Plus,64 GB,T-Mobile,Broken,28.98
+iPhone 6S Plus,64 GB,Sprint,New,78.01
+iPhone 6S Plus,64 GB,Sprint,Like_new,67.9
+iPhone 6S Plus,64 GB,Sprint,Good,63.57
+iPhone 6S Plus,64 GB,Sprint,Fair,52.74
+iPhone 6S Plus,64 GB,Sprint,Broken,27.48
+iPhone 6S Plus,64 GB,Other,New,54.44
+iPhone 6S Plus,64 GB,Other,Like_new,47.08
+iPhone 6S Plus,64 GB,Other,Good,43.93
+iPhone 6S Plus,64 GB,Other,Fair,36.05
+iPhone 6S Plus,64 GB,Other,Broken,17.66
+iPhone 6S Plus,128 GB,Unlocked,New,96.79
+iPhone 6S Plus,128 GB,Unlocked,Like_new,84.5
+iPhone 6S Plus,128 GB,Unlocked,Good,79.23
+iPhone 6S Plus,128 GB,Unlocked,Fair,66.05
+iPhone 6S Plus,128 GB,Unlocked,Broken,35.31
+iPhone 6S Plus,128 GB,Verizon,New,96.79
+iPhone 6S Plus,128 GB,Verizon,Like_new,84.5
+iPhone 6S Plus,128 GB,Verizon,Good,79.23
+iPhone 6S Plus,128 GB,Verizon,Fair,66.05
+iPhone 6S Plus,128 GB,Verizon,Broken,35.31
+iPhone 6S Plus,128 GB,AT&T,New,92.79
+iPhone 6S Plus,128 GB,AT&T,Like_new,80.96
+iPhone 6S Plus,128 GB,AT&T,Good,75.89
+iPhone 6S Plus,128 GB,AT&T,Fair,63.22
+iPhone 6S Plus,128 GB,AT&T,Broken,33.64
+iPhone 6S Plus,128 GB,T-Mobile,New,89.42
+iPhone 6S Plus,128 GB,T-Mobile,Like_new,77.98
+iPhone 6S Plus,128 GB,T-Mobile,Good,73.08
+iPhone 6S Plus,128 GB,T-Mobile,Fair,60.83
+iPhone 6S Plus,128 GB,T-Mobile,Broken,32.24
+iPhone 6S Plus,128 GB,Sprint,New,85.51
+iPhone 6S Plus,128 GB,Sprint,Like_new,74.53
+iPhone 6S Plus,128 GB,Sprint,Good,69.83
+iPhone 6S Plus,128 GB,Sprint,Fair,58.06
+iPhone 6S Plus,128 GB,Sprint,Broken,30.61
+iPhone 6S Plus,128 GB,Other,New,59.9
+iPhone 6S Plus,128 GB,Other,Like_new,51.91
+iPhone 6S Plus,128 GB,Other,Good,48.48
+iPhone 6S Plus,128 GB,Other,Fair,39.92
+iPhone 6S Plus,128 GB,Other,Broken,19.94
+iPhone 7,32 GB,Unlocked,New,82.1
+iPhone 7,32 GB,Unlocked,Like_new,71.52
+iPhone 7,32 GB,Unlocked,Good,66.99
+iPhone 7,32 GB,Unlocked,Fair,55.64
+iPhone 7,32 GB,Unlocked,Broken,29.19
+iPhone 7,32 GB,Verizon,New,82.1
+iPhone 7,32 GB,Verizon,Like_new,71.52
+iPhone 7,32 GB,Verizon,Good,66.99
+iPhone 7,32 GB,Verizon,Fair,55.64
+iPhone 7,32 GB,Verizon,Broken,29.19
+iPhone 7,32 GB,AT&T,New,78.66
+iPhone 7,32 GB,AT&T,Like_new,68.47
+iPhone 7,32 GB,AT&T,Good,64.11
+iPhone 7,32 GB,AT&T,Fair,53.2
+iPhone 7,32 GB,AT&T,Broken,27.75
+iPhone 7,32 GB,T-Mobile,New,75.75
+iPhone 7,32 GB,T-Mobile,Like_new,65.91
+iPhone 7,32 GB,T-Mobile,Good,61.69
+iPhone 7,32 GB,T-Mobile,Fair,51.14
+iPhone 7,32 GB,T-Mobile,Broken,26.54
+iPhone 7,32 GB,Sprint,New,72.4
+iPhone 7,32 GB,Sprint,Like_new,62.94
+iPhone 7,32 GB,Sprint,Good,58.9
+iPhone 7,32 GB,Sprint,Fair,48.77
+iPhone 7,32 GB,Sprint,Broken,25.14
+iPhone 7,32 GB,Other,New,50.35
+iPhone 7,32 GB,Other,Like_new,43.48
+iPhone 7,32 GB,Other,Good,40.53
+iPhone 7,32 GB,Other,Fair,33.16
+iPhone 7,32 GB,Other,Broken,15.96
+iPhone 7,128 GB,Unlocked,New,91.89
+iPhone 7,128 GB,Unlocked,Like_new,80.16
+iPhone 7,128 GB,Unlocked,Good,75.14
+iPhone 7,128 GB,Unlocked,Fair,62.57
+iPhone 7,128 GB,Unlocked,Broken,33.26
+iPhone 7,128 GB,Verizon,New,91.89
+iPhone 7,128 GB,Verizon,Like_new,80.16
+iPhone 7,128 GB,Verizon,Good,75.14
+iPhone 7,128 GB,Verizon,Fair,62.57
+iPhone 7,128 GB,Verizon,Broken,33.26
+iPhone 7,128 GB,AT&T,New,88.06
+iPhone 7,128 GB,AT&T,Like_new,76.78
+iPhone 7,128 GB,AT&T,Good,71.95
+iPhone 7,128 GB,AT&T,Fair,59.87
+iPhone 7,128 GB,AT&T,Broken,31.67
+iPhone 7,128 GB,T-Mobile,New,84.85
+iPhone 7,128 GB,T-Mobile,Like_new,73.95
+iPhone 7,128 GB,T-Mobile,Good,69.28
+iPhone 7,128 GB,T-Mobile,Fair,57.59
+iPhone 7,128 GB,T-Mobile,Broken,30.33
+iPhone 7,128 GB,Sprint,New,81.13
+iPhone 7,128 GB,Sprint,Like_new,70.66
+iPhone 7,128 GB,Sprint,Good,66.17
+iPhone 7,128 GB,Sprint,Fair,54.95
+iPhone 7,128 GB,Sprint,Broken,28.78
+iPhone 7,128 GB,Other,New,56.71
+iPhone 7,128 GB,Other,Like_new,49.09
+iPhone 7,128 GB,Other,Good,45.82
+iPhone 7,128 GB,Other,Fair,37.66
+iPhone 7,128 GB,Other,Broken,18.6
+iPhone 7,256 GB,Unlocked,New,101.01
+iPhone 7,256 GB,Unlocked,Like_new,88.23
+iPhone 7,256 GB,Unlocked,Good,82.74
+iPhone 7,256 GB,Unlocked,Fair,69.04
+iPhone 7,256 GB,Unlocked,Broken,37.07
+iPhone 7,256 GB,Verizon,New,101.01
+iPhone 7,256 GB,Verizon,Like_new,88.23
+iPhone 7,256 GB,Verizon,Good,82.74
+iPhone 7,256 GB,Verizon,Fair,69.04
+iPhone 7,256 GB,Verizon,Broken,37.07
+iPhone 7,256 GB,AT&T,New,96.85
+iPhone 7,256 GB,AT&T,Like_new,84.55
+iPhone 7,256 GB,AT&T,Good,79.27
+iPhone 7,256 GB,AT&T,Fair,66.09
+iPhone 7,256 GB,AT&T,Broken,35.33
+iPhone 7,256 GB,T-Mobile,New,93.34
+iPhone 7,256 GB,T-Mobile,Like_new,81.45
+iPhone 7,256 GB,T-Mobile,Good,76.35
+iPhone 7,256 GB,T-Mobile,Fair,63.61
+iPhone 7,256 GB,T-Mobile,Broken,33.87
+iPhone 7,256 GB,Sprint,New,89.29
+iPhone 7,256 GB,Sprint,Like_new,77.87
+iPhone 7,256 GB,Sprint,Good,72.97
+iPhone 7,256 GB,Sprint,Fair,60.74
+iPhone 7,256 GB,Sprint,Broken,32.18
+iPhone 7,256 GB,Other,New,62.65
+iPhone 7,256 GB,Other,Like_new,54.33
+iPhone 7,256 GB,Other,Good,50.77
+iPhone 7,256 GB,Other,Fair,41.86
+iPhone 7,256 GB,Other,Broken,21.08
+iPhone 7 Plus,32 GB,Unlocked,New,124.38
+iPhone 7 Plus,32 GB,Unlocked,Like_new,108.87
+iPhone 7 Plus,32 GB,Unlocked,Good,102.22
+iPhone 7 Plus,32 GB,Unlocked,Fair,85.59
+iPhone 7 Plus,32 GB,Unlocked,Broken,46.8
+iPhone 7 Plus,32 GB,Verizon,New,124.38
+iPhone 7 Plus,32 GB,Verizon,Like_new,108.87
+iPhone 7 Plus,32 GB,Verizon,Good,102.22
+iPhone 7 Plus,32 GB,Verizon,Fair,85.59
+iPhone 7 Plus,32 GB,Verizon,Broken,46.8
+iPhone 7 Plus,32 GB,AT&T,New,119.33
+iPhone 7 Plus,32 GB,AT&T,Like_new,104.4
+iPhone 7 Plus,32 GB,AT&T,Good,98.0
+iPhone 7 Plus,32 GB,AT&T,Fair,82.02
+iPhone 7 Plus,32 GB,AT&T,Broken,44.7
+iPhone 7 Plus,32 GB,T-Mobile,New,115.07
+iPhone 7 Plus,32 GB,T-Mobile,Like_new,100.64
+iPhone 7 Plus,32 GB,T-Mobile,Good,94.46
+iPhone 7 Plus,32 GB,T-Mobile,Fair,79.0
+iPhone 7 Plus,32 GB,T-Mobile,Broken,42.93
+iPhone 7 Plus,32 GB,Sprint,New,110.15
+iPhone 7 Plus,32 GB,Sprint,Like_new,96.3
+iPhone 7 Plus,32 GB,Sprint,Good,90.36
+iPhone 7 Plus,32 GB,Sprint,Fair,75.51
+iPhone 7 Plus,32 GB,Sprint,Broken,40.88
+iPhone 7 Plus,32 GB,Other,New,77.83
+iPhone 7 Plus,32 GB,Other,Like_new,67.75
+iPhone 7 Plus,32 GB,Other,Good,63.43
+iPhone 7 Plus,32 GB,Other,Fair,52.63
+iPhone 7 Plus,32 GB,Other,Broken,27.41
+iPhone 7 Plus,128 GB,Unlocked,New,142.95
+iPhone 7 Plus,128 GB,Unlocked,Like_new,125.26
+iPhone 7 Plus,128 GB,Unlocked,Good,117.68
+iPhone 7 Plus,128 GB,Unlocked,Fair,98.74
+iPhone 7 Plus,128 GB,Unlocked,Broken,54.54
+iPhone 7 Plus,128 GB,Verizon,New,142.95
+iPhone 7 Plus,128 GB,Verizon,Like_new,125.26
+iPhone 7 Plus,128 GB,Verizon,Good,117.68
+iPhone 7 Plus,128 GB,Verizon,Fair,98.74
+iPhone 7 Plus,128 GB,Verizon,Broken,54.54
+iPhone 7 Plus,128 GB,AT&T,New,137.18
+iPhone 7 Plus,128 GB,AT&T,Like_new,120.18
+iPhone 7 Plus,128 GB,AT&T,Good,112.89
+iPhone 7 Plus,128 GB,AT&T,Fair,94.66
+iPhone 7 Plus,128 GB,AT&T,Broken,52.14
+iPhone 7 Plus,128 GB,T-Mobile,New,132.34
+iPhone 7 Plus,128 GB,T-Mobile,Like_new,115.89
+iPhone 7 Plus,128 GB,T-Mobile,Good,108.85
+iPhone 7 Plus,128 GB,T-Mobile,Fair,91.23
+iPhone 7 Plus,128 GB,T-Mobile,Broken,50.12
+iPhone 7 Plus,128 GB,Sprint,New,126.73
+iPhone 7 Plus,128 GB,Sprint,Like_new,110.94
+iPhone 7 Plus,128 GB,Sprint,Good,104.18
+iPhone 7 Plus,128 GB,Sprint,Fair,87.25
+iPhone 7 Plus,128 GB,Sprint,Broken,47.78
+iPhone 7 Plus,128 GB,Other,New,89.9
+iPhone 7 Plus,128 GB,Other,Like_new,78.41
+iPhone 7 Plus,128 GB,Other,Good,73.48
+iPhone 7 Plus,128 GB,Other,Fair,61.17
+iPhone 7 Plus,128 GB,Other,Broken,32.44
+iPhone 7 Plus,256 GB,Unlocked,New,150.83
+iPhone 7 Plus,256 GB,Unlocked,Like_new,132.23
+iPhone 7 Plus,256 GB,Unlocked,Good,124.26
+iPhone 7 Plus,256 GB,Unlocked,Fair,104.33
+iPhone 7 Plus,256 GB,Unlocked,Broken,57.82
+iPhone 7 Plus,256 GB,Verizon,New,150.83
+iPhone 7 Plus,256 GB,Verizon,Like_new,132.23
+iPhone 7 Plus,256 GB,Verizon,Good,124.26
+iPhone 7 Plus,256 GB,Verizon,Fair,104.33
+iPhone 7 Plus,256 GB,Verizon,Broken,57.82
+iPhone 7 Plus,256 GB,AT&T,New,144.78
+iPhone 7 Plus,256 GB,AT&T,Like_new,126.88
+iPhone 7 Plus,256 GB,AT&T,Good,119.21
+iPhone 7 Plus,256 GB,AT&T,Fair,100.04
+iPhone 7 Plus,256 GB,AT&T,Broken,55.3
+iPhone 7 Plus,256 GB,T-Mobile,New,139.67
+iPhone 7 Plus,256 GB,T-Mobile,Like_new,122.37
+iPhone 7 Plus,256 GB,T-Mobile,Good,114.96
+iPhone 7 Plus,256 GB,T-Mobile,Fair,96.42
+iPhone 7 Plus,256 GB,T-Mobile,Broken,53.17
+iPhone 7 Plus,256 GB,Sprint,New,133.77
+iPhone 7 Plus,256 GB,Sprint,Like_new,117.16
+iPhone 7 Plus,256 GB,Sprint,Good,110.04
+iPhone 7 Plus,256 GB,Sprint,Fair,92.24
+iPhone 7 Plus,256 GB,Sprint,Broken,50.72
+iPhone 7 Plus,256 GB,Other,New,95.03
+iPhone 7 Plus,256 GB,Other,Like_new,82.93
+iPhone 7 Plus,256 GB,Other,Good,77.76
+iPhone 7 Plus,256 GB,Other,Fair,64.8
+iPhone 7 Plus,256 GB,Other,Broken,34.57
+iPhone 8,64 GB,Unlocked,New,137.94
+iPhone 8,64 GB,Unlocked,Like_new,120.84
+iPhone 8,64 GB,Unlocked,Good,113.51
+iPhone 8,64 GB,Unlocked,Fair,95.19
+iPhone 8,64 GB,Unlocked,Broken,52.45
+iPhone 8,64 GB,Verizon,New,137.94
+iPhone 8,64 GB,Verizon,Like_new,120.84
+iPhone 8,64 GB,Verizon,Good,113.51
+iPhone 8,64 GB,Verizon,Fair,95.19
+iPhone 8,64 GB,Verizon,Broken,52.45
+iPhone 8,64 GB,AT&T,New,132.37
+iPhone 8,64 GB,AT&T,Like_new,115.92
+iPhone 8,64 GB,AT&T,Good,108.87
+iPhone 8,64 GB,AT&T,Fair,91.25
+iPhone 8,64 GB,AT&T,Broken,50.13
+iPhone 8,64 GB,T-Mobile,New,127.68
+iPhone 8,64 GB,T-Mobile,Like_new,111.78
+iPhone 8,64 GB,T-Mobile,Good,104.96
+iPhone 8,64 GB,T-Mobile,Fair,87.93
+iPhone 8,64 GB,T-Mobile,Broken,48.18
+iPhone 8,64 GB,Sprint,New,122.25
+iPhone 8,64 GB,Sprint,Like_new,106.99
+iPhone 8,64 GB,Sprint,Good,100.44
+iPhone 8,64 GB,Sprint,Fair,84.09
+iPhone 8,64 GB,Sprint,Broken,45.92
+iPhone 8,64 GB,Other,New,86.65
+iPhone 8,64 GB,Other,Like_new,75.53
+iPhone 8,64 GB,Other,Good,70.77
+iPhone 8,64 GB,Other,Fair,58.86
+iPhone 8,64 GB,Other,Broken,31.08
+iPhone 8,128 GB,Unlocked,New,191.98
+iPhone 8,128 GB,Unlocked,Like_new,168.58
+iPhone 8,128 GB,Unlocked,Good,158.55
+iPhone 8,128 GB,Unlocked,Fair,133.48
+iPhone 8,128 GB,Unlocked,Broken,74.97
+iPhone 8,128 GB,Verizon,New,191.98
+iPhone 8,128 GB,Verizon,Like_new,168.58
+iPhone 8,128 GB,Verizon,Good,158.55
+iPhone 8,128 GB,Verizon,Fair,133.48
+iPhone 8,128 GB,Verizon,Broken,74.97
+iPhone 8,128 GB,AT&T,New,184.36
+iPhone 8,128 GB,AT&T,Like_new,161.85
+iPhone 8,128 GB,AT&T,Good,152.2
+iPhone 8,128 GB,AT&T,Fair,128.08
+iPhone 8,128 GB,AT&T,Broken,71.8
+iPhone 8,128 GB,T-Mobile,New,177.95
+iPhone 8,128 GB,T-Mobile,Like_new,156.18
+iPhone 8,128 GB,T-Mobile,Good,146.85
+iPhone 8,128 GB,T-Mobile,Fair,123.53
+iPhone 8,128 GB,T-Mobile,Broken,69.12
+iPhone 8,128 GB,Sprint,New,170.52
+iPhone 8,128 GB,Sprint,Like_new,149.62
+iPhone 8,128 GB,Sprint,Good,140.66
+iPhone 8,128 GB,Sprint,Fair,118.27
+iPhone 8,128 GB,Sprint,Broken,66.03
+iPhone 8,128 GB,Other,New,121.78
+iPhone 8,128 GB,Other,Like_new,106.56
+iPhone 8,128 GB,Other,Good,100.05
+iPhone 8,128 GB,Other,Fair,83.75
+iPhone 8,128 GB,Other,Broken,45.72
+iPhone 8,256 GB,Unlocked,New,168.83
+iPhone 8,256 GB,Unlocked,Like_new,148.13
+iPhone 8,256 GB,Unlocked,Good,139.26
+iPhone 8,256 GB,Unlocked,Fair,117.08
+iPhone 8,256 GB,Unlocked,Broken,65.33
+iPhone 8,256 GB,Verizon,New,168.83
+iPhone 8,256 GB,Verizon,Like_new,148.13
+iPhone 8,256 GB,Verizon,Good,139.26
+iPhone 8,256 GB,Verizon,Fair,117.08
+iPhone 8,256 GB,Verizon,Broken,65.33
+iPhone 8,256 GB,AT&T,New,162.09
+iPhone 8,256 GB,AT&T,Like_new,142.17
+iPhone 8,256 GB,AT&T,Good,133.64
+iPhone 8,256 GB,AT&T,Fair,112.3
+iPhone 8,256 GB,AT&T,Broken,62.51
+iPhone 8,256 GB,T-Mobile,New,156.41
+iPhone 8,256 GB,T-Mobile,Like_new,137.16
+iPhone 8,256 GB,T-Mobile,Good,128.91
+iPhone 8,256 GB,T-Mobile,Fair,108.28
+iPhone 8,256 GB,T-Mobile,Broken,60.15
+iPhone 8,256 GB,Sprint,New,149.85
+iPhone 8,256 GB,Sprint,Like_new,131.36
+iPhone 8,256 GB,Sprint,Good,123.43
+iPhone 8,256 GB,Sprint,Fair,103.63
+iPhone 8,256 GB,Sprint,Broken,57.41
+iPhone 8,256 GB,Other,New,106.73
+iPhone 8,256 GB,Other,Like_new,93.27
+iPhone 8,256 GB,Other,Good,87.51
+iPhone 8,256 GB,Other,Fair,73.09
+iPhone 8,256 GB,Other,Broken,39.45
+iPhone 8 Plus,64 GB,Unlocked,New,189.09
+iPhone 8 Plus,64 GB,Unlocked,Like_new,166.02
+iPhone 8 Plus,64 GB,Unlocked,Good,156.14
+iPhone 8 Plus,64 GB,Unlocked,Fair,131.42
+iPhone 8 Plus,64 GB,Unlocked,Broken,73.76
+iPhone 8 Plus,64 GB,Verizon,New,189.09
+iPhone 8 Plus,64 GB,Verizon,Like_new,166.02
+iPhone 8 Plus,64 GB,Verizon,Good,156.14
+iPhone 8 Plus,64 GB,Verizon,Fair,131.42
+iPhone 8 Plus,64 GB,Verizon,Broken,73.76
+iPhone 8 Plus,64 GB,AT&T,New,181.57
+iPhone 8 Plus,64 GB,AT&T,Like_new,159.38
+iPhone 8 Plus,64 GB,AT&T,Good,149.87
+iPhone 8 Plus,64 GB,AT&T,Fair,126.1
+iPhone 8 Plus,64 GB,AT&T,Broken,70.63
+iPhone 8 Plus,64 GB,T-Mobile,New,175.25
+iPhone 8 Plus,64 GB,T-Mobile,Like_new,153.79
+iPhone 8 Plus,64 GB,T-Mobile,Good,144.6
+iPhone 8 Plus,64 GB,T-Mobile,Fair,121.62
+iPhone 8 Plus,64 GB,T-Mobile,Broken,68.0
+iPhone 8 Plus,64 GB,Sprint,New,167.93
+iPhone 8 Plus,64 GB,Sprint,Like_new,147.33
+iPhone 8 Plus,64 GB,Sprint,Good,138.51
+iPhone 8 Plus,64 GB,Sprint,Fair,116.44
+iPhone 8 Plus,64 GB,Sprint,Broken,64.95
+iPhone 8 Plus,64 GB,Other,New,119.89
+iPhone 8 Plus,64 GB,Other,Like_new,104.9
+iPhone 8 Plus,64 GB,Other,Good,98.47
+iPhone 8 Plus,64 GB,Other,Fair,82.41
+iPhone 8 Plus,64 GB,Other,Broken,44.93
+iPhone 8 Plus,128 GB,Unlocked,New,218.17
+iPhone 8 Plus,128 GB,Unlocked,Like_new,191.71
+iPhone 8 Plus,128 GB,Unlocked,Good,180.37
+iPhone 8 Plus,128 GB,Unlocked,Fair,152.03
+iPhone 8 Plus,128 GB,Unlocked,Broken,85.89
+iPhone 8 Plus,128 GB,Verizon,New,218.17
+iPhone 8 Plus,128 GB,Verizon,Like_new,191.71
+iPhone 8 Plus,128 GB,Verizon,Good,180.37
+iPhone 8 Plus,128 GB,Verizon,Fair,152.03
+iPhone 8 Plus,128 GB,Verizon,Broken,85.89
+iPhone 8 Plus,128 GB,AT&T,New,209.55
+iPhone 8 Plus,128 GB,AT&T,Like_new,184.1
+iPhone 8 Plus,128 GB,AT&T,Good,173.19
+iPhone 8 Plus,128 GB,AT&T,Fair,145.92
+iPhone 8 Plus,128 GB,AT&T,Broken,82.29
+iPhone 8 Plus,128 GB,T-Mobile,New,202.3
+iPhone 8 Plus,128 GB,T-Mobile,Like_new,177.69
+iPhone 8 Plus,128 GB,T-Mobile,Good,167.14
+iPhone 8 Plus,128 GB,T-Mobile,Fair,140.78
+iPhone 8 Plus,128 GB,T-Mobile,Broken,79.27
+iPhone 8 Plus,128 GB,Sprint,New,193.91
+iPhone 8 Plus,128 GB,Sprint,Like_new,170.28
+iPhone 8 Plus,128 GB,Sprint,Good,160.15
+iPhone 8 Plus,128 GB,Sprint,Fair,134.84
+iPhone 8 Plus,128 GB,Sprint,Broken,75.77
+iPhone 8 Plus,128 GB,Other,New,138.8
+iPhone 8 Plus,128 GB,Other,Like_new,121.6
+iPhone 8 Plus,128 GB,Other,Good,114.23
+iPhone 8 Plus,128 GB,Other,Fair,95.8
+iPhone 8 Plus,128 GB,Other,Broken,52.81
+iPhone 8 Plus,256 GB,Unlocked,New,220.36
+iPhone 8 Plus,256 GB,Unlocked,Like_new,193.64
+iPhone 8 Plus,256 GB,Unlocked,Good,182.2
+iPhone 8 Plus,256 GB,Unlocked,Fair,153.58
+iPhone 8 Plus,256 GB,Unlocked,Broken,86.79
+iPhone 8 Plus,256 GB,Verizon,New,220.36
+iPhone 8 Plus,256 GB,Verizon,Like_new,193.64
+iPhone 8 Plus,256 GB,Verizon,Good,182.2
+iPhone 8 Plus,256 GB,Verizon,Fair,153.58
+iPhone 8 Plus,256 GB,Verizon,Broken,86.79
+iPhone 8 Plus,256 GB,AT&T,New,211.66
+iPhone 8 Plus,256 GB,AT&T,Like_new,185.96
+iPhone 8 Plus,256 GB,AT&T,Good,174.95
+iPhone 8 Plus,256 GB,AT&T,Fair,147.41
+iPhone 8 Plus,256 GB,AT&T,Broken,83.17
+iPhone 8 Plus,256 GB,T-Mobile,New,204.33
+iPhone 8 Plus,256 GB,T-Mobile,Like_new,179.49
+iPhone 8 Plus,256 GB,T-Mobile,Good,168.84
+iPhone 8 Plus,256 GB,T-Mobile,Fair,142.23
+iPhone 8 Plus,256 GB,T-Mobile,Broken,80.12
+iPhone 8 Plus,256 GB,Sprint,New,195.86
+iPhone 8 Plus,256 GB,Sprint,Like_new,172.01
+iPhone 8 Plus,256 GB,Sprint,Good,161.78
+iPhone 8 Plus,256 GB,Sprint,Fair,136.23
+iPhone 8 Plus,256 GB,Sprint,Broken,76.58
+iPhone 8 Plus,256 GB,Other,New,140.22
+iPhone 8 Plus,256 GB,Other,Like_new,122.86
+iPhone 8 Plus,256 GB,Other,Good,115.41
+iPhone 8 Plus,256 GB,Other,Fair,96.81
+iPhone 8 Plus,256 GB,Other,Broken,53.41
+iPhone X,64 GB,Unlocked,New,226.2
+iPhone X,64 GB,Unlocked,Like_new,198.8
+iPhone X,64 GB,Unlocked,Good,187.06
+iPhone X,64 GB,Unlocked,Fair,157.71
+iPhone X,64 GB,Unlocked,Broken,89.23
+iPhone X,64 GB,Verizon,New,226.2
+iPhone X,64 GB,Verizon,Like_new,198.8
+iPhone X,64 GB,Verizon,Good,187.06
+iPhone X,64 GB,Verizon,Fair,157.71
+iPhone X,64 GB,Verizon,Broken,89.23
+iPhone X,64 GB,AT&T,New,217.27
+iPhone X,64 GB,AT&T,Like_new,190.92
+iPhone X,64 GB,AT&T,Good,179.63
+iPhone X,64 GB,AT&T,Fair,151.39
+iPhone X,64 GB,AT&T,Broken,85.51
+iPhone X,64 GB,T-Mobile,New,209.76
+iPhone X,64 GB,T-Mobile,Like_new,184.28
+iPhone X,64 GB,T-Mobile,Good,173.37
+iPhone X,64 GB,T-Mobile,Fair,146.07
+iPhone X,64 GB,T-Mobile,Broken,82.38
+iPhone X,64 GB,Sprint,New,201.07
+iPhone X,64 GB,Sprint,Like_new,176.61
+iPhone X,64 GB,Sprint,Good,166.13
+iPhone X,64 GB,Sprint,Fair,139.92
+iPhone X,64 GB,Sprint,Broken,78.76
+iPhone X,64 GB,Other,New,144.02
+iPhone X,64 GB,Other,Like_new,126.21
+iPhone X,64 GB,Other,Good,118.58
+iPhone X,64 GB,Other,Fair,99.5
+iPhone X,64 GB,Other,Broken,54.99
+iPhone X,256 GB,Unlocked,New,248.88
+iPhone X,256 GB,Unlocked,Like_new,218.84
+iPhone X,256 GB,Unlocked,Good,205.96
+iPhone X,256 GB,Unlocked,Fair,173.78
+iPhone X,256 GB,Unlocked,Broken,98.68
+iPhone X,256 GB,Verizon,New,248.88
+iPhone X,256 GB,Verizon,Like_new,218.84
+iPhone X,256 GB,Verizon,Good,205.96
+iPhone X,256 GB,Verizon,Fair,173.78
+iPhone X,256 GB,Verizon,Broken,98.68
+iPhone X,256 GB,AT&T,New,239.1
+iPhone X,256 GB,AT&T,Like_new,210.19
+iPhone X,256 GB,AT&T,Good,197.81
+iPhone X,256 GB,AT&T,Fair,166.85
+iPhone X,256 GB,AT&T,Broken,94.6
+iPhone X,256 GB,T-Mobile,New,230.85
+iPhone X,256 GB,T-Mobile,Like_new,202.92
+iPhone X,256 GB,T-Mobile,Good,190.94
+iPhone X,256 GB,T-Mobile,Fair,161.01
+iPhone X,256 GB,T-Mobile,Broken,91.16
+iPhone X,256 GB,Sprint,New,221.33
+iPhone X,256 GB,Sprint,Like_new,194.5
+iPhone X,256 GB,Sprint,Good,183.0
+iPhone X,256 GB,Sprint,Fair,154.26
+iPhone X,256 GB,Sprint,Broken,87.2
+iPhone X,256 GB,Other,New,158.76
+iPhone X,256 GB,Other,Like_new,139.23
+iPhone X,256 GB,Other,Good,130.86
+iPhone X,256 GB,Other,Fair,109.94
+iPhone X,256 GB,Other,Broken,61.13
+iPhone Xr,64 GB,Unlocked,New,244.48
+iPhone Xr,64 GB,Unlocked,Like_new,214.96
+iPhone Xr,64 GB,Unlocked,Good,202.3
+iPhone Xr,64 GB,Unlocked,Fair,170.66
+iPhone Xr,64 GB,Unlocked,Broken,96.85
+iPhone Xr,64 GB,Verizon,New,244.48
+iPhone Xr,64 GB,Verizon,Like_new,214.96
+iPhone Xr,64 GB,Verizon,Good,202.3
+iPhone Xr,64 GB,Verizon,Fair,170.66
+iPhone Xr,64 GB,Verizon,Broken,96.85
+iPhone Xr,64 GB,AT&T,New,234.86
+iPhone Xr,64 GB,AT&T,Like_new,206.46
+iPhone Xr,64 GB,AT&T,Good,194.29
+iPhone Xr,64 GB,AT&T,Fair,163.85
+iPhone Xr,64 GB,AT&T,Broken,92.84
+iPhone Xr,64 GB,T-Mobile,New,226.76
+iPhone Xr,64 GB,T-Mobile,Like_new,199.31
+iPhone Xr,64 GB,T-Mobile,Good,187.54
+iPhone Xr,64 GB,T-Mobile,Fair,158.11
+iPhone Xr,64 GB,T-Mobile,Broken,89.46
+iPhone Xr,64 GB,Sprint,New,217.4
+iPhone Xr,64 GB,Sprint,Like_new,191.03
+iPhone Xr,64 GB,Sprint,Good,179.73
+iPhone Xr,64 GB,Sprint,Fair,151.48
+iPhone Xr,64 GB,Sprint,Broken,85.56
+iPhone Xr,64 GB,Other,New,155.9
+iPhone Xr,64 GB,Other,Like_new,136.71
+iPhone Xr,64 GB,Other,Good,128.48
+iPhone Xr,64 GB,Other,Fair,107.92
+iPhone Xr,64 GB,Other,Broken,59.93
+iPhone Xr,128 GB,Unlocked,New,257.68
+iPhone Xr,128 GB,Unlocked,Like_new,226.61
+iPhone Xr,128 GB,Unlocked,Good,213.3
+iPhone Xr,128 GB,Unlocked,Fair,180.01
+iPhone Xr,128 GB,Unlocked,Broken,102.34
+iPhone Xr,128 GB,Verizon,New,257.68
+iPhone Xr,128 GB,Verizon,Like_new,226.61
+iPhone Xr,128 GB,Verizon,Good,213.3
+iPhone Xr,128 GB,Verizon,Fair,180.01
+iPhone Xr,128 GB,Verizon,Broken,102.34
+iPhone Xr,128 GB,AT&T,New,247.56
+iPhone Xr,128 GB,AT&T,Like_new,217.67
+iPhone Xr,128 GB,AT&T,Good,204.86
+iPhone Xr,128 GB,AT&T,Fair,172.84
+iPhone Xr,128 GB,AT&T,Broken,98.13
+iPhone Xr,128 GB,T-Mobile,New,239.04
+iPhone Xr,128 GB,T-Mobile,Like_new,210.15
+iPhone Xr,128 GB,T-Mobile,Good,197.76
+iPhone Xr,128 GB,T-Mobile,Fair,166.81
+iPhone Xr,128 GB,T-Mobile,Broken,94.58
+iPhone Xr,128 GB,Sprint,New,229.19
+iPhone Xr,128 GB,Sprint,Like_new,201.44
+iPhone Xr,128 GB,Sprint,Good,189.55
+iPhone Xr,128 GB,Sprint,Fair,159.83
+iPhone Xr,128 GB,Sprint,Broken,90.47
+iPhone Xr,128 GB,Other,New,164.48
+iPhone Xr,128 GB,Other,Like_new,144.28
+iPhone Xr,128 GB,Other,Good,135.63
+iPhone Xr,128 GB,Other,Fair,113.99
+iPhone Xr,128 GB,Other,Broken,63.51
+iPhone Xr,256 GB,Unlocked,New,278.25
+iPhone Xr,256 GB,Unlocked,Like_new,244.78
+iPhone Xr,256 GB,Unlocked,Good,230.44
+iPhone Xr,256 GB,Unlocked,Fair,194.58
+iPhone Xr,256 GB,Unlocked,Broken,110.92
+iPhone Xr,256 GB,Verizon,New,278.25
+iPhone Xr,256 GB,Verizon,Like_new,244.78
+iPhone Xr,256 GB,Verizon,Good,230.44
+iPhone Xr,256 GB,Verizon,Fair,194.58
+iPhone Xr,256 GB,Verizon,Broken,110.92
+iPhone Xr,256 GB,AT&T,New,267.35
+iPhone Xr,256 GB,AT&T,Like_new,235.16
+iPhone Xr,256 GB,AT&T,Good,221.36
+iPhone Xr,256 GB,AT&T,Fair,186.86
+iPhone Xr,256 GB,AT&T,Broken,106.37
+iPhone Xr,256 GB,T-Mobile,New,258.17
+iPhone Xr,256 GB,T-Mobile,Like_new,227.05
+iPhone Xr,256 GB,T-Mobile,Good,213.71
+iPhone Xr,256 GB,T-Mobile,Fair,180.36
+iPhone Xr,256 GB,T-Mobile,Broken,102.55
+iPhone Xr,256 GB,Sprint,New,247.56
+iPhone Xr,256 GB,Sprint,Like_new,217.67
+iPhone Xr,256 GB,Sprint,Good,204.86
+iPhone Xr,256 GB,Sprint,Fair,172.84
+iPhone Xr,256 GB,Sprint,Broken,98.13
+iPhone Xr,256 GB,Other,New,177.85
+iPhone Xr,256 GB,Other,Like_new,156.1
+iPhone Xr,256 GB,Other,Good,146.78
+iPhone Xr,256 GB,Other,Fair,123.47
+iPhone Xr,256 GB,Other,Broken,69.08
+iPhone Xs,64 GB,Unlocked,New,258.41
+iPhone Xs,64 GB,Unlocked,Like_new,227.26
+iPhone Xs,64 GB,Unlocked,Good,213.91
+iPhone Xs,64 GB,Unlocked,Fair,180.53
+iPhone Xs,64 GB,Unlocked,Broken,102.65
+iPhone Xs,64 GB,Verizon,New,258.41
+iPhone Xs,64 GB,Verizon,Like_new,227.26
+iPhone Xs,64 GB,Verizon,Good,213.91
+iPhone Xs,64 GB,Verizon,Fair,180.53
+iPhone Xs,64 GB,Verizon,Broken,102.65
+iPhone Xs,64 GB,AT&T,New,248.26
+iPhone Xs,64 GB,AT&T,Like_new,218.3
+iPhone Xs,64 GB,AT&T,Good,205.45
+iPhone Xs,64 GB,AT&T,Fair,173.34
+iPhone Xs,64 GB,AT&T,Broken,98.42
+iPhone Xs,64 GB,T-Mobile,New,239.72
+iPhone Xs,64 GB,T-Mobile,Like_new,210.75
+iPhone Xs,64 GB,T-Mobile,Good,198.33
+iPhone Xs,64 GB,T-Mobile,Fair,167.29
+iPhone Xs,64 GB,T-Mobile,Broken,94.86
+iPhone Xs,64 GB,Sprint,New,229.84
+iPhone Xs,64 GB,Sprint,Like_new,202.02
+iPhone Xs,64 GB,Sprint,Good,190.1
+iPhone Xs,64 GB,Sprint,Fair,160.29
+iPhone Xs,64 GB,Sprint,Broken,90.75
+iPhone Xs,64 GB,Other,New,164.95
+iPhone Xs,64 GB,Other,Like_new,144.71
+iPhone Xs,64 GB,Other,Good,136.03
+iPhone Xs,64 GB,Other,Fair,114.33
+iPhone Xs,64 GB,Other,Broken,63.71
+iPhone Xs,256 GB,Unlocked,New,284.14
+iPhone Xs,256 GB,Unlocked,Like_new,249.99
+iPhone Xs,256 GB,Unlocked,Good,235.35
+iPhone Xs,256 GB,Unlocked,Fair,198.76
+iPhone Xs,256 GB,Unlocked,Broken,113.37
+iPhone Xs,256 GB,Verizon,New,284.14
+iPhone Xs,256 GB,Verizon,Like_new,249.99
+iPhone Xs,256 GB,Verizon,Good,235.35
+iPhone Xs,256 GB,Verizon,Fair,198.76
+iPhone Xs,256 GB,Verizon,Broken,113.37
+iPhone Xs,256 GB,AT&T,New,273.02
+iPhone Xs,256 GB,AT&T,Like_new,240.16
+iPhone Xs,256 GB,AT&T,Good,226.08
+iPhone Xs,256 GB,AT&T,Fair,190.88
+iPhone Xs,256 GB,AT&T,Broken,108.73
+iPhone Xs,256 GB,T-Mobile,New,263.65
+iPhone Xs,256 GB,T-Mobile,Like_new,231.88
+iPhone Xs,256 GB,T-Mobile,Good,218.27
+iPhone Xs,256 GB,T-Mobile,Fair,184.24
+iPhone Xs,256 GB,T-Mobile,Broken,104.83
+iPhone Xs,256 GB,Sprint,New,252.81
+iPhone Xs,256 GB,Sprint,Like_new,222.32
+iPhone Xs,256 GB,Sprint,Good,209.25
+iPhone Xs,256 GB,Sprint,Fair,176.57
+iPhone Xs,256 GB,Sprint,Broken,100.32
+iPhone Xs,256 GB,Other,New,181.68
+iPhone Xs,256 GB,Other,Like_new,159.48
+iPhone Xs,256 GB,Other,Good,149.96
+iPhone Xs,256 GB,Other,Fair,126.18
+iPhone Xs,256 GB,Other,Broken,70.68
+iPhone Xs,512 GB,Unlocked,New,324.0
+iPhone Xs,512 GB,Unlocked,Like_new,285.2
+iPhone Xs,512 GB,Unlocked,Good,268.57
+iPhone Xs,512 GB,Unlocked,Fair,226.98
+iPhone Xs,512 GB,Unlocked,Broken,129.97
+iPhone Xs,512 GB,Verizon,New,324.0
+iPhone Xs,512 GB,Verizon,Like_new,285.2
+iPhone Xs,512 GB,Verizon,Good,268.57
+iPhone Xs,512 GB,Verizon,Fair,226.98
+iPhone Xs,512 GB,Verizon,Broken,129.97
+iPhone Xs,512 GB,AT&T,New,311.36
+iPhone Xs,512 GB,AT&T,Like_new,274.03
+iPhone Xs,512 GB,AT&T,Good,258.03
+iPhone Xs,512 GB,AT&T,Fair,218.03
+iPhone Xs,512 GB,AT&T,Broken,124.71
+iPhone Xs,512 GB,T-Mobile,New,300.71
+iPhone Xs,512 GB,T-Mobile,Like_new,264.63
+iPhone Xs,512 GB,T-Mobile,Good,249.16
+iPhone Xs,512 GB,T-Mobile,Fair,210.49
+iPhone Xs,512 GB,T-Mobile,Broken,120.28
+iPhone Xs,512 GB,Sprint,New,288.41
+iPhone Xs,512 GB,Sprint,Like_new,253.75
+iPhone Xs,512 GB,Sprint,Good,238.9
+iPhone Xs,512 GB,Sprint,Fair,201.78
+iPhone Xs,512 GB,Sprint,Broken,115.15
+iPhone Xs,512 GB,Other,New,207.58
+iPhone Xs,512 GB,Other,Like_new,182.37
+iPhone Xs,512 GB,Other,Good,171.55
+iPhone Xs,512 GB,Other,Fair,144.53
+iPhone Xs,512 GB,Other,Broken,81.47
+iPhone Xs Max,64 GB,Unlocked,New,306.26
+iPhone Xs Max,64 GB,Unlocked,Like_new,269.52
+iPhone Xs Max,64 GB,Unlocked,Good,253.78
+iPhone Xs Max,64 GB,Unlocked,Fair,214.42
+iPhone Xs Max,64 GB,Unlocked,Broken,122.59
+iPhone Xs Max,64 GB,Verizon,New,306.26
+iPhone Xs Max,64 GB,Verizon,Like_new,269.52
+iPhone Xs Max,64 GB,Verizon,Good,253.78
+iPhone Xs Max,64 GB,Verizon,Fair,214.42
+iPhone Xs Max,64 GB,Verizon,Broken,122.59
+iPhone Xs Max,64 GB,AT&T,New,294.3
+iPhone Xs Max,64 GB,AT&T,Like_new,258.96
+iPhone Xs Max,64 GB,AT&T,Good,243.81
+iPhone Xs Max,64 GB,AT&T,Fair,205.95
+iPhone Xs Max,64 GB,AT&T,Broken,117.6
+iPhone Xs Max,64 GB,T-Mobile,New,284.22
+iPhone Xs Max,64 GB,T-Mobile,Like_new,250.06
+iPhone Xs Max,64 GB,T-Mobile,Good,235.42
+iPhone Xs Max,64 GB,T-Mobile,Fair,198.81
+iPhone Xs Max,64 GB,T-Mobile,Broken,113.4
+iPhone Xs Max,64 GB,Sprint,New,272.57
+iPhone Xs Max,64 GB,Sprint,Like_new,239.76
+iPhone Xs Max,64 GB,Sprint,Good,225.71
+iPhone Xs Max,64 GB,Sprint,Fair,190.56
+iPhone Xs Max,64 GB,Sprint,Broken,108.55
+iPhone Xs Max,64 GB,Other,New,196.06
+iPhone Xs Max,64 GB,Other,Like_new,172.18
+iPhone Xs Max,64 GB,Other,Good,161.94
+iPhone Xs Max,64 GB,Other,Fair,136.36
+iPhone Xs Max,64 GB,Other,Broken,76.67
+iPhone Xs Max,256 GB,Unlocked,New,336.58
+iPhone Xs Max,256 GB,Unlocked,Like_new,296.31
+iPhone Xs Max,256 GB,Unlocked,Good,279.05
+iPhone Xs Max,256 GB,Unlocked,Fair,235.9
+iPhone Xs Max,256 GB,Unlocked,Broken,135.22
+iPhone Xs Max,256 GB,Verizon,New,336.58
+iPhone Xs Max,256 GB,Verizon,Like_new,296.31
+iPhone Xs Max,256 GB,Verizon,Good,279.05
+iPhone Xs Max,256 GB,Verizon,Fair,235.9
+iPhone Xs Max,256 GB,Verizon,Broken,135.22
+iPhone Xs Max,256 GB,AT&T,New,323.46
+iPhone Xs Max,256 GB,AT&T,Like_new,284.72
+iPhone Xs Max,256 GB,AT&T,Good,268.12
+iPhone Xs Max,256 GB,AT&T,Fair,226.61
+iPhone Xs Max,256 GB,AT&T,Broken,129.76
+iPhone Xs Max,256 GB,T-Mobile,New,312.42
+iPhone Xs Max,256 GB,T-Mobile,Like_new,274.96
+iPhone Xs Max,256 GB,T-Mobile,Good,258.91
+iPhone Xs Max,256 GB,T-Mobile,Fair,218.78
+iPhone Xs Max,256 GB,T-Mobile,Broken,125.15
+iPhone Xs Max,256 GB,Sprint,New,299.64
+iPhone Xs Max,256 GB,Sprint,Like_new,263.68
+iPhone Xs Max,256 GB,Sprint,Good,248.27
+iPhone Xs Max,256 GB,Sprint,Fair,209.74
+iPhone Xs Max,256 GB,Sprint,Broken,119.83
+iPhone Xs Max,256 GB,Other,New,215.76
+iPhone Xs Max,256 GB,Other,Like_new,189.59
+iPhone Xs Max,256 GB,Other,Good,178.37
+iPhone Xs Max,256 GB,Other,Fair,150.32
+iPhone Xs Max,256 GB,Other,Broken,84.88
+iPhone Xs Max,512 GB,Unlocked,New,370.7
+iPhone Xs Max,512 GB,Unlocked,Like_new,326.45
+iPhone Xs Max,512 GB,Unlocked,Good,307.48
+iPhone Xs Max,512 GB,Unlocked,Fair,260.06
+iPhone Xs Max,512 GB,Unlocked,Broken,149.44
+iPhone Xs Max,512 GB,Verizon,New,370.7
+iPhone Xs Max,512 GB,Verizon,Like_new,326.45
+iPhone Xs Max,512 GB,Verizon,Good,307.48
+iPhone Xs Max,512 GB,Verizon,Fair,260.06
+iPhone Xs Max,512 GB,Verizon,Broken,149.44
+iPhone Xs Max,512 GB,AT&T,New,356.29
+iPhone Xs Max,512 GB,AT&T,Like_new,313.71
+iPhone Xs Max,512 GB,AT&T,Good,295.47
+iPhone Xs Max,512 GB,AT&T,Fair,249.86
+iPhone Xs Max,512 GB,AT&T,Broken,143.43
+iPhone Xs Max,512 GB,T-Mobile,New,344.15
+iPhone Xs Max,512 GB,T-Mobile,Like_new,303.0
+iPhone Xs Max,512 GB,T-Mobile,Good,285.35
+iPhone Xs Max,512 GB,T-Mobile,Fair,241.26
+iPhone Xs Max,512 GB,T-Mobile,Broken,138.38
+iPhone Xs Max,512 GB,Sprint,New,330.11
+iPhone Xs Max,512 GB,Sprint,Like_new,290.59
+iPhone Xs Max,512 GB,Sprint,Good,273.66
+iPhone Xs Max,512 GB,Sprint,Fair,231.32
+iPhone Xs Max,512 GB,Sprint,Broken,132.53
+iPhone Xs Max,512 GB,Other,New,237.94
+iPhone Xs Max,512 GB,Other,Like_new,209.18
+iPhone Xs Max,512 GB,Other,Good,196.85
+iPhone Xs Max,512 GB,Other,Fair,166.03
+iPhone Xs Max,512 GB,Other,Broken,94.12
+iPhone SE 2nd Gen,64 GB,Unlocked,New,194.16
+iPhone SE 2nd Gen,64 GB,Unlocked,Like_new,170.5
+iPhone SE 2nd Gen,64 GB,Unlocked,Good,160.36
+iPhone SE 2nd Gen,64 GB,Unlocked,Fair,135.02
+iPhone SE 2nd Gen,64 GB,Unlocked,Broken,75.88
+iPhone SE 2nd Gen,64 GB,Verizon,New,194.16
+iPhone SE 2nd Gen,64 GB,Verizon,Like_new,170.5
+iPhone SE 2nd Gen,64 GB,Verizon,Good,160.36
+iPhone SE 2nd Gen,64 GB,Verizon,Fair,135.02
+iPhone SE 2nd Gen,64 GB,Verizon,Broken,75.88
+iPhone SE 2nd Gen,64 GB,AT&T,New,186.46
+iPhone SE 2nd Gen,64 GB,AT&T,Like_new,163.7
+iPhone SE 2nd Gen,64 GB,AT&T,Good,153.95
+iPhone SE 2nd Gen,64 GB,AT&T,Fair,129.56
+iPhone SE 2nd Gen,64 GB,AT&T,Broken,72.67
+iPhone SE 2nd Gen,64 GB,T-Mobile,New,179.97
+iPhone SE 2nd Gen,64 GB,T-Mobile,Like_new,157.97
+iPhone SE 2nd Gen,64 GB,T-Mobile,Good,148.54
+iPhone SE 2nd Gen,64 GB,T-Mobile,Fair,124.97
+iPhone SE 2nd Gen,64 GB,T-Mobile,Broken,69.96
+iPhone SE 2nd Gen,64 GB,Sprint,New,172.46
+iPhone SE 2nd Gen,64 GB,Sprint,Like_new,151.34
+iPhone SE 2nd Gen,64 GB,Sprint,Good,142.28
+iPhone SE 2nd Gen,64 GB,Sprint,Fair,119.65
+iPhone SE 2nd Gen,64 GB,Sprint,Broken,66.84
+iPhone SE 2nd Gen,64 GB,Other,New,123.19
+iPhone SE 2nd Gen,64 GB,Other,Like_new,107.81
+iPhone SE 2nd Gen,64 GB,Other,Good,101.23
+iPhone SE 2nd Gen,64 GB,Other,Fair,84.75
+iPhone SE 2nd Gen,64 GB,Other,Broken,46.31
+iPhone SE 2nd Gen,128 GB,Unlocked,New,229.12
+iPhone SE 2nd Gen,128 GB,Unlocked,Like_new,201.38
+iPhone SE 2nd Gen,128 GB,Unlocked,Good,189.5
+iPhone SE 2nd Gen,128 GB,Unlocked,Fair,159.78
+iPhone SE 2nd Gen,128 GB,Unlocked,Broken,90.44
+iPhone SE 2nd Gen,128 GB,Verizon,New,229.12
+iPhone SE 2nd Gen,128 GB,Verizon,Like_new,201.38
+iPhone SE 2nd Gen,128 GB,Verizon,Good,189.5
+iPhone SE 2nd Gen,128 GB,Verizon,Fair,159.78
+iPhone SE 2nd Gen,128 GB,Verizon,Broken,90.44
+iPhone SE 2nd Gen,128 GB,AT&T,New,220.08
+iPhone SE 2nd Gen,128 GB,AT&T,Like_new,193.41
+iPhone SE 2nd Gen,128 GB,AT&T,Good,181.97
+iPhone SE 2nd Gen,128 GB,AT&T,Fair,153.38
+iPhone SE 2nd Gen,128 GB,AT&T,Broken,86.68
+iPhone SE 2nd Gen,128 GB,T-Mobile,New,212.48
+iPhone SE 2nd Gen,128 GB,T-Mobile,Like_new,186.68
+iPhone SE 2nd Gen,128 GB,T-Mobile,Good,175.63
+iPhone SE 2nd Gen,128 GB,T-Mobile,Fair,147.99
+iPhone SE 2nd Gen,128 GB,T-Mobile,Broken,83.51
+iPhone SE 2nd Gen,128 GB,Sprint,New,203.69
+iPhone SE 2nd Gen,128 GB,Sprint,Like_new,178.92
+iPhone SE 2nd Gen,128 GB,Sprint,Good,168.3
+iPhone SE 2nd Gen,128 GB,Sprint,Fair,141.76
+iPhone SE 2nd Gen,128 GB,Sprint,Broken,79.85
+iPhone SE 2nd Gen,128 GB,Other,New,145.92
+iPhone SE 2nd Gen,128 GB,Other,Like_new,127.88
+iPhone SE 2nd Gen,128 GB,Other,Good,120.16
+iPhone SE 2nd Gen,128 GB,Other,Fair,100.84
+iPhone SE 2nd Gen,128 GB,Other,Broken,55.77
+iPhone SE 2nd Gen,256 GB,Unlocked,New,243.75
+iPhone SE 2nd Gen,256 GB,Unlocked,Like_new,214.31
+iPhone SE 2nd Gen,256 GB,Unlocked,Good,201.69
+iPhone SE 2nd Gen,256 GB,Unlocked,Fair,170.15
+iPhone SE 2nd Gen,256 GB,Unlocked,Broken,96.54
+iPhone SE 2nd Gen,256 GB,Verizon,New,243.75
+iPhone SE 2nd Gen,256 GB,Verizon,Like_new,214.31
+iPhone SE 2nd Gen,256 GB,Verizon,Good,201.69
+iPhone SE 2nd Gen,256 GB,Verizon,Fair,170.15
+iPhone SE 2nd Gen,256 GB,Verizon,Broken,96.54
+iPhone SE 2nd Gen,256 GB,AT&T,New,234.16
+iPhone SE 2nd Gen,256 GB,AT&T,Like_new,205.84
+iPhone SE 2nd Gen,256 GB,AT&T,Good,193.7
+iPhone SE 2nd Gen,256 GB,AT&T,Fair,163.35
+iPhone SE 2nd Gen,256 GB,AT&T,Broken,92.55
+iPhone SE 2nd Gen,256 GB,T-Mobile,New,226.08
+iPhone SE 2nd Gen,256 GB,T-Mobile,Like_new,198.7
+iPhone SE 2nd Gen,256 GB,T-Mobile,Good,186.97
+iPhone SE 2nd Gen,256 GB,T-Mobile,Fair,157.63
+iPhone SE 2nd Gen,256 GB,T-Mobile,Broken,89.18
+iPhone SE 2nd Gen,256 GB,Sprint,New,216.75
+iPhone SE 2nd Gen,256 GB,Sprint,Like_new,190.46
+iPhone SE 2nd Gen,256 GB,Sprint,Good,179.19
+iPhone SE 2nd Gen,256 GB,Sprint,Fair,151.02
+iPhone SE 2nd Gen,256 GB,Sprint,Broken,85.29
+iPhone SE 2nd Gen,256 GB,Other,New,155.42
+iPhone SE 2nd Gen,256 GB,Other,Like_new,136.28
+iPhone SE 2nd Gen,256 GB,Other,Good,128.08
+iPhone SE 2nd Gen,256 GB,Other,Fair,107.58
+iPhone SE 2nd Gen,256 GB,Other,Broken,59.74
+iPhone 11,64 GB,Unlocked,New,350.66
+iPhone 11,64 GB,Unlocked,Like_new,308.74
+iPhone 11,64 GB,Unlocked,Good,290.78
+iPhone 11,64 GB,Unlocked,Fair,245.88
+iPhone 11,64 GB,Unlocked,Broken,141.09
+iPhone 11,64 GB,Verizon,New,350.66
+iPhone 11,64 GB,Verizon,Like_new,308.74
+iPhone 11,64 GB,Verizon,Good,290.78
+iPhone 11,64 GB,Verizon,Fair,245.88
+iPhone 11,64 GB,Verizon,Broken,141.09
+iPhone 11,64 GB,AT&T,New,337.01
+iPhone 11,64 GB,AT&T,Like_new,296.69
+iPhone 11,64 GB,AT&T,Good,279.41
+iPhone 11,64 GB,AT&T,Fair,236.2
+iPhone 11,64 GB,AT&T,Broken,135.4
+iPhone 11,64 GB,T-Mobile,New,325.51
+iPhone 11,64 GB,T-Mobile,Like_new,286.53
+iPhone 11,64 GB,T-Mobile,Good,269.82
+iPhone 11,64 GB,T-Mobile,Fair,228.06
+iPhone 11,64 GB,T-Mobile,Broken,130.61
+iPhone 11,64 GB,Sprint,New,312.22
+iPhone 11,64 GB,Sprint,Like_new,274.79
+iPhone 11,64 GB,Sprint,Good,258.75
+iPhone 11,64 GB,Sprint,Fair,218.64
+iPhone 11,64 GB,Sprint,Broken,125.07
+iPhone 11,64 GB,Other,New,224.91
+iPhone 11,64 GB,Other,Like_new,197.67
+iPhone 11,64 GB,Other,Good,186.0
+iPhone 11,64 GB,Other,Fair,156.8
+iPhone 11,64 GB,Other,Broken,88.69
+iPhone 11,128 GB,Unlocked,New,374.42
+iPhone 11,128 GB,Unlocked,Like_new,329.73
+iPhone 11,128 GB,Unlocked,Good,310.58
+iPhone 11,128 GB,Unlocked,Fair,262.7
+iPhone 11,128 GB,Unlocked,Broken,150.98
+iPhone 11,128 GB,Verizon,New,374.42
+iPhone 11,128 GB,Verizon,Like_new,329.73
+iPhone 11,128 GB,Verizon,Good,310.58
+iPhone 11,128 GB,Verizon,Fair,262.7
+iPhone 11,128 GB,Verizon,Broken,150.98
+iPhone 11,128 GB,AT&T,New,359.86
+iPhone 11,128 GB,AT&T,Like_new,316.87
+iPhone 11,128 GB,AT&T,Good,298.45
+iPhone 11,128 GB,AT&T,Fair,252.39
+iPhone 11,128 GB,AT&T,Broken,144.92
+iPhone 11,128 GB,T-Mobile,New,347.6
+iPhone 11,128 GB,T-Mobile,Like_new,306.05
+iPhone 11,128 GB,T-Mobile,Good,288.23
+iPhone 11,128 GB,T-Mobile,Fair,243.71
+iPhone 11,128 GB,T-Mobile,Broken,139.81
+iPhone 11,128 GB,Sprint,New,333.43
+iPhone 11,128 GB,Sprint,Like_new,293.52
+iPhone 11,128 GB,Sprint,Good,276.42
+iPhone 11,128 GB,Sprint,Fair,233.67
+iPhone 11,128 GB,Sprint,Broken,133.91
+iPhone 11,128 GB,Other,New,240.36
+iPhone 11,128 GB,Other,Like_new,211.31
+iPhone 11,128 GB,Other,Good,198.86
+iPhone 11,128 GB,Other,Fair,167.74
+iPhone 11,128 GB,Other,Broken,95.13
+iPhone 11,256 GB,Unlocked,New,395.24
+iPhone 11,256 GB,Unlocked,Like_new,348.12
+iPhone 11,256 GB,Unlocked,Good,327.93
+iPhone 11,256 GB,Unlocked,Fair,277.45
+iPhone 11,256 GB,Unlocked,Broken,159.66
+iPhone 11,256 GB,Verizon,New,395.24
+iPhone 11,256 GB,Verizon,Like_new,348.12
+iPhone 11,256 GB,Verizon,Good,327.93
+iPhone 11,256 GB,Verizon,Fair,277.45
+iPhone 11,256 GB,Verizon,Broken,159.66
+iPhone 11,256 GB,AT&T,New,379.9
+iPhone 11,256 GB,AT&T,Like_new,334.57
+iPhone 11,256 GB,AT&T,Good,315.14
+iPhone 11,256 GB,AT&T,Fair,266.58
+iPhone 11,256 GB,AT&T,Broken,153.27
+iPhone 11,256 GB,T-Mobile,New,366.97
+iPhone 11,256 GB,T-Mobile,Like_new,323.15
+iPhone 11,256 GB,T-Mobile,Good,304.37
+iPhone 11,256 GB,T-Mobile,Fair,257.43
+iPhone 11,256 GB,T-Mobile,Broken,147.88
+iPhone 11,256 GB,Sprint,New,352.03
+iPhone 11,256 GB,Sprint,Like_new,309.96
+iPhone 11,256 GB,Sprint,Good,291.92
+iPhone 11,256 GB,Sprint,Fair,246.84
+iPhone 11,256 GB,Sprint,Broken,141.66
+iPhone 11,256 GB,Other,New,253.89
+iPhone 11,256 GB,Other,Like_new,223.27
+iPhone 11,256 GB,Other,Good,210.14
+iPhone 11,256 GB,Other,Fair,177.33
+iPhone 11,256 GB,Other,Broken,100.77
+iPhone 11 Pro,64 GB,Unlocked,New,448.94
+iPhone 11 Pro,64 GB,Unlocked,Like_new,395.56
+iPhone 11 Pro,64 GB,Unlocked,Good,372.68
+iPhone 11 Pro,64 GB,Unlocked,Fair,315.49
+iPhone 11 Pro,64 GB,Unlocked,Broken,182.03
+iPhone 11 Pro,64 GB,Verizon,New,448.94
+iPhone 11 Pro,64 GB,Verizon,Like_new,395.56
+iPhone 11 Pro,64 GB,Verizon,Good,372.68
+iPhone 11 Pro,64 GB,Verizon,Fair,315.49
+iPhone 11 Pro,64 GB,Verizon,Broken,182.03
+iPhone 11 Pro,64 GB,AT&T,New,431.55
+iPhone 11 Pro,64 GB,AT&T,Like_new,380.2
+iPhone 11 Pro,64 GB,AT&T,Good,358.19
+iPhone 11 Pro,64 GB,AT&T,Fair,303.17
+iPhone 11 Pro,64 GB,AT&T,Broken,174.79
+iPhone 11 Pro,64 GB,T-Mobile,New,416.91
+iPhone 11 Pro,64 GB,T-Mobile,Like_new,367.27
+iPhone 11 Pro,64 GB,T-Mobile,Good,345.99
+iPhone 11 Pro,64 GB,T-Mobile,Fair,292.8
+iPhone 11 Pro,64 GB,T-Mobile,Broken,168.69
+iPhone 11 Pro,64 GB,Sprint,New,399.98
+iPhone 11 Pro,64 GB,Sprint,Like_new,352.31
+iPhone 11 Pro,64 GB,Sprint,Good,331.88
+iPhone 11 Pro,64 GB,Sprint,Fair,280.81
+iPhone 11 Pro,64 GB,Sprint,Broken,161.63
+iPhone 11 Pro,64 GB,Other,New,288.79
+iPhone 11 Pro,64 GB,Other,Like_new,254.1
+iPhone 11 Pro,64 GB,Other,Good,239.23
+iPhone 11 Pro,64 GB,Other,Fair,202.05
+iPhone 11 Pro,64 GB,Other,Broken,115.31
+iPhone 11 Pro,256 GB,Unlocked,New,499.83
+iPhone 11 Pro,256 GB,Unlocked,Like_new,440.51
+iPhone 11 Pro,256 GB,Unlocked,Good,415.09
+iPhone 11 Pro,256 GB,Unlocked,Fair,351.53
+iPhone 11 Pro,256 GB,Unlocked,Broken,203.24
+iPhone 11 Pro,256 GB,Verizon,New,499.83
+iPhone 11 Pro,256 GB,Verizon,Like_new,440.51
+iPhone 11 Pro,256 GB,Verizon,Good,415.09
+iPhone 11 Pro,256 GB,Verizon,Fair,351.53
+iPhone 11 Pro,256 GB,Verizon,Broken,203.24
+iPhone 11 Pro,256 GB,AT&T,New,480.5
+iPhone 11 Pro,256 GB,AT&T,Like_new,423.44
+iPhone 11 Pro,256 GB,AT&T,Good,398.99
+iPhone 11 Pro,256 GB,AT&T,Fair,337.84
+iPhone 11 Pro,256 GB,AT&T,Broken,195.18
+iPhone 11 Pro,256 GB,T-Mobile,New,464.23
+iPhone 11 Pro,256 GB,T-Mobile,Like_new,409.07
+iPhone 11 Pro,256 GB,T-Mobile,Good,385.43
+iPhone 11 Pro,256 GB,T-Mobile,Fair,326.32
+iPhone 11 Pro,256 GB,T-Mobile,Broken,188.41
+iPhone 11 Pro,256 GB,Sprint,New,445.42
+iPhone 11 Pro,256 GB,Sprint,Like_new,392.45
+iPhone 11 Pro,256 GB,Sprint,Good,369.75
+iPhone 11 Pro,256 GB,Sprint,Fair,313.0
+iPhone 11 Pro,256 GB,Sprint,Broken,180.57
+iPhone 11 Pro,256 GB,Other,New,321.87
+iPhone 11 Pro,256 GB,Other,Like_new,283.32
+iPhone 11 Pro,256 GB,Other,Good,266.79
+iPhone 11 Pro,256 GB,Other,Fair,225.48
+iPhone 11 Pro,256 GB,Other,Broken,129.09
+iPhone 11 Pro,512 GB,Unlocked,New,571.15
+iPhone 11 Pro,512 GB,Unlocked,Like_new,503.51
+iPhone 11 Pro,512 GB,Unlocked,Good,474.52
+iPhone 11 Pro,512 GB,Unlocked,Fair,402.06
+iPhone 11 Pro,512 GB,Unlocked,Broken,232.96
+iPhone 11 Pro,512 GB,Verizon,New,571.15
+iPhone 11 Pro,512 GB,Verizon,Like_new,503.51
+iPhone 11 Pro,512 GB,Verizon,Good,474.52
+iPhone 11 Pro,512 GB,Verizon,Fair,402.06
+iPhone 11 Pro,512 GB,Verizon,Broken,232.96
+iPhone 11 Pro,512 GB,AT&T,New,549.12
+iPhone 11 Pro,512 GB,AT&T,Like_new,484.05
+iPhone 11 Pro,512 GB,AT&T,Good,456.17
+iPhone 11 Pro,512 GB,AT&T,Fair,386.44
+iPhone 11 Pro,512 GB,AT&T,Broken,223.77
+iPhone 11 Pro,512 GB,T-Mobile,New,530.57
+iPhone 11 Pro,512 GB,T-Mobile,Like_new,467.66
+iPhone 11 Pro,512 GB,T-Mobile,Good,440.7
+iPhone 11 Pro,512 GB,T-Mobile,Fair,373.31
+iPhone 11 Pro,512 GB,T-Mobile,Broken,216.05
+iPhone 11 Pro,512 GB,Sprint,New,509.11
+iPhone 11 Pro,512 GB,Sprint,Like_new,448.71
+iPhone 11 Pro,512 GB,Sprint,Good,422.83
+iPhone 11 Pro,512 GB,Sprint,Fair,358.11
+iPhone 11 Pro,512 GB,Sprint,Broken,207.11
+iPhone 11 Pro,512 GB,Other,New,368.23
+iPhone 11 Pro,512 GB,Other,Like_new,324.27
+iPhone 11 Pro,512 GB,Other,Good,305.42
+iPhone 11 Pro,512 GB,Other,Fair,258.32
+iPhone 11 Pro,512 GB,Other,Broken,148.41
+iPhone 11 Pro Max,64 GB,Unlocked,New,496.07
+iPhone 11 Pro Max,64 GB,Unlocked,Like_new,437.19
+iPhone 11 Pro Max,64 GB,Unlocked,Good,411.97
+iPhone 11 Pro Max,64 GB,Unlocked,Fair,348.88
+iPhone 11 Pro Max,64 GB,Unlocked,Broken,201.67
+iPhone 11 Pro Max,64 GB,Verizon,New,496.07
+iPhone 11 Pro Max,64 GB,Verizon,Like_new,437.19
+iPhone 11 Pro Max,64 GB,Verizon,Good,411.97
+iPhone 11 Pro Max,64 GB,Verizon,Fair,348.88
+iPhone 11 Pro Max,64 GB,Verizon,Broken,201.67
+iPhone 11 Pro Max,64 GB,AT&T,New,476.9
+iPhone 11 Pro Max,64 GB,AT&T,Like_new,420.25
+iPhone 11 Pro Max,64 GB,AT&T,Good,395.98
+iPhone 11 Pro Max,64 GB,AT&T,Fair,335.29
+iPhone 11 Pro Max,64 GB,AT&T,Broken,193.68
+iPhone 11 Pro Max,64 GB,T-Mobile,New,460.75
+iPhone 11 Pro Max,64 GB,T-Mobile,Like_new,405.99
+iPhone 11 Pro Max,64 GB,T-Mobile,Good,382.52
+iPhone 11 Pro Max,64 GB,T-Mobile,Fair,323.85
+iPhone 11 Pro Max,64 GB,T-Mobile,Broken,186.96
+iPhone 11 Pro Max,64 GB,Sprint,New,442.08
+iPhone 11 Pro Max,64 GB,Sprint,Like_new,389.49
+iPhone 11 Pro Max,64 GB,Sprint,Good,366.96
+iPhone 11 Pro Max,64 GB,Sprint,Fair,310.62
+iPhone 11 Pro Max,64 GB,Sprint,Broken,179.18
+iPhone 11 Pro Max,64 GB,Other,New,319.43
+iPhone 11 Pro Max,64 GB,Other,Like_new,281.17
+iPhone 11 Pro Max,64 GB,Other,Good,264.76
+iPhone 11 Pro Max,64 GB,Other,Fair,223.76
+iPhone 11 Pro Max,64 GB,Other,Broken,128.08
+iPhone 11 Pro Max,256 GB,Unlocked,New,553.86
+iPhone 11 Pro Max,256 GB,Unlocked,Like_new,488.24
+iPhone 11 Pro Max,256 GB,Unlocked,Good,460.12
+iPhone 11 Pro Max,256 GB,Unlocked,Fair,389.8
+iPhone 11 Pro Max,256 GB,Unlocked,Broken,225.75
+iPhone 11 Pro Max,256 GB,Verizon,New,553.86
+iPhone 11 Pro Max,256 GB,Verizon,Like_new,488.24
+iPhone 11 Pro Max,256 GB,Verizon,Good,460.12
+iPhone 11 Pro Max,256 GB,Verizon,Fair,389.8
+iPhone 11 Pro Max,256 GB,Verizon,Broken,225.75
+iPhone 11 Pro Max,256 GB,AT&T,New,532.48
+iPhone 11 Pro Max,256 GB,AT&T,Like_new,469.36
+iPhone 11 Pro Max,256 GB,AT&T,Good,442.3
+iPhone 11 Pro Max,256 GB,AT&T,Fair,374.66
+iPhone 11 Pro Max,256 GB,AT&T,Broken,216.85
+iPhone 11 Pro Max,256 GB,T-Mobile,New,514.48
+iPhone 11 Pro Max,256 GB,T-Mobile,Like_new,453.45
+iPhone 11 Pro Max,256 GB,T-Mobile,Good,427.31
+iPhone 11 Pro Max,256 GB,T-Mobile,Fair,361.92
+iPhone 11 Pro Max,256 GB,T-Mobile,Broken,209.35
+iPhone 11 Pro Max,256 GB,Sprint,New,493.67
+iPhone 11 Pro Max,256 GB,Sprint,Like_new,435.07
+iPhone 11 Pro Max,256 GB,Sprint,Good,409.96
+iPhone 11 Pro Max,256 GB,Sprint,Fair,347.17
+iPhone 11 Pro Max,256 GB,Sprint,Broken,200.68
+iPhone 11 Pro Max,256 GB,Other,New,356.99
+iPhone 11 Pro Max,256 GB,Other,Like_new,314.34
+iPhone 11 Pro Max,256 GB,Other,Good,296.06
+iPhone 11 Pro Max,256 GB,Other,Fair,250.36
+iPhone 11 Pro Max,256 GB,Other,Broken,143.73
+iPhone 11 Pro Max,512 GB,Unlocked,New,597.49
+iPhone 11 Pro Max,512 GB,Unlocked,Like_new,526.78
+iPhone 11 Pro Max,512 GB,Unlocked,Good,496.47
+iPhone 11 Pro Max,512 GB,Unlocked,Fair,420.71
+iPhone 11 Pro Max,512 GB,Unlocked,Broken,243.93
+iPhone 11 Pro Max,512 GB,Verizon,New,597.49
+iPhone 11 Pro Max,512 GB,Verizon,Like_new,526.78
+iPhone 11 Pro Max,512 GB,Verizon,Good,496.47
+iPhone 11 Pro Max,512 GB,Verizon,Fair,420.71
+iPhone 11 Pro Max,512 GB,Verizon,Broken,243.93
+iPhone 11 Pro Max,512 GB,AT&T,New,574.46
+iPhone 11 Pro Max,512 GB,AT&T,Like_new,506.43
+iPhone 11 Pro Max,512 GB,AT&T,Good,477.27
+iPhone 11 Pro Max,512 GB,AT&T,Fair,404.4
+iPhone 11 Pro Max,512 GB,AT&T,Broken,234.33
+iPhone 11 Pro Max,512 GB,T-Mobile,New,555.06
+iPhone 11 Pro Max,512 GB,T-Mobile,Like_new,489.3
+iPhone 11 Pro Max,512 GB,T-Mobile,Good,461.11
+iPhone 11 Pro Max,512 GB,T-Mobile,Fair,390.66
+iPhone 11 Pro Max,512 GB,T-Mobile,Broken,226.26
+iPhone 11 Pro Max,512 GB,Sprint,New,532.64
+iPhone 11 Pro Max,512 GB,Sprint,Like_new,469.49
+iPhone 11 Pro Max,512 GB,Sprint,Good,442.43
+iPhone 11 Pro Max,512 GB,Sprint,Fair,374.77
+iPhone 11 Pro Max,512 GB,Sprint,Broken,216.91
+iPhone 11 Pro Max,512 GB,Other,New,385.35
+iPhone 11 Pro Max,512 GB,Other,Like_new,339.39
+iPhone 11 Pro Max,512 GB,Other,Good,319.69
+iPhone 11 Pro Max,512 GB,Other,Fair,270.45
+iPhone 11 Pro Max,512 GB,Other,Broken,155.54
+iPhone 12,64 GB,Unlocked,New,521.57
+iPhone 12,64 GB,Unlocked,Like_new,459.71
+iPhone 12,64 GB,Unlocked,Good,433.21
+iPhone 12,64 GB,Unlocked,Fair,366.94
+iPhone 12,64 GB,Unlocked,Broken,212.3
+iPhone 12,64 GB,Verizon,New,521.57
+iPhone 12,64 GB,Verizon,Like_new,459.71
+iPhone 12,64 GB,Verizon,Good,433.21
+iPhone 12,64 GB,Verizon,Fair,366.94
+iPhone 12,64 GB,Verizon,Broken,212.3
+iPhone 12,64 GB,AT&T,New,501.42
+iPhone 12,64 GB,AT&T,Like_new,441.92
+iPhone 12,64 GB,AT&T,Good,416.42
+iPhone 12,64 GB,AT&T,Fair,352.66
+iPhone 12,64 GB,AT&T,Broken,203.9
+iPhone 12,64 GB,T-Mobile,New,484.46
+iPhone 12,64 GB,T-Mobile,Like_new,426.93
+iPhone 12,64 GB,T-Mobile,Good,402.28
+iPhone 12,64 GB,T-Mobile,Fair,340.65
+iPhone 12,64 GB,T-Mobile,Broken,196.83
+iPhone 12,64 GB,Sprint,New,464.84
+iPhone 12,64 GB,Sprint,Like_new,409.6
+iPhone 12,64 GB,Sprint,Good,385.93
+iPhone 12,64 GB,Sprint,Fair,326.75
+iPhone 12,64 GB,Sprint,Broken,188.66
+iPhone 12,64 GB,Other,New,336.01
+iPhone 12,64 GB,Other,Like_new,295.8
+iPhone 12,64 GB,Other,Good,278.57
+iPhone 12,64 GB,Other,Fair,235.49
+iPhone 12,64 GB,Other,Broken,134.98
+iPhone 12,128 GB,Unlocked,New,559.87
+iPhone 12,128 GB,Unlocked,Like_new,493.55
+iPhone 12,128 GB,Unlocked,Good,465.12
+iPhone 12,128 GB,Unlocked,Fair,394.06
+iPhone 12,128 GB,Unlocked,Broken,228.26
+iPhone 12,128 GB,Verizon,New,559.87
+iPhone 12,128 GB,Verizon,Like_new,493.55
+iPhone 12,128 GB,Verizon,Good,465.12
+iPhone 12,128 GB,Verizon,Fair,394.06
+iPhone 12,128 GB,Verizon,Broken,228.26
+iPhone 12,128 GB,AT&T,New,538.27
+iPhone 12,128 GB,AT&T,Like_new,474.46
+iPhone 12,128 GB,AT&T,Good,447.12
+iPhone 12,128 GB,AT&T,Fair,378.76
+iPhone 12,128 GB,AT&T,Broken,219.26
+iPhone 12,128 GB,T-Mobile,New,520.07
+iPhone 12,128 GB,T-Mobile,Like_new,458.4
+iPhone 12,128 GB,T-Mobile,Good,431.96
+iPhone 12,128 GB,T-Mobile,Fair,365.88
+iPhone 12,128 GB,T-Mobile,Broken,211.68
+iPhone 12,128 GB,Sprint,New,499.04
+iPhone 12,128 GB,Sprint,Like_new,439.81
+iPhone 12,128 GB,Sprint,Good,414.43
+iPhone 12,128 GB,Sprint,Fair,350.97
+iPhone 12,128 GB,Sprint,Broken,202.91
+iPhone 12,128 GB,Other,New,360.9
+iPhone 12,128 GB,Other,Like_new,317.79
+iPhone 12,128 GB,Other,Good,299.32
+iPhone 12,128 GB,Other,Fair,253.13
+iPhone 12,128 GB,Other,Broken,145.35
+iPhone 12,256 GB,Unlocked,New,608.03
+iPhone 12,256 GB,Unlocked,Like_new,536.09
+iPhone 12,256 GB,Unlocked,Good,505.26
+iPhone 12,256 GB,Unlocked,Fair,428.18
+iPhone 12,256 GB,Unlocked,Broken,248.32
+iPhone 12,256 GB,Verizon,New,608.03
+iPhone 12,256 GB,Verizon,Like_new,536.09
+iPhone 12,256 GB,Verizon,Good,505.26
+iPhone 12,256 GB,Verizon,Fair,428.18
+iPhone 12,256 GB,Verizon,Broken,248.32
+iPhone 12,256 GB,AT&T,New,584.6
+iPhone 12,256 GB,AT&T,Like_new,515.39
+iPhone 12,256 GB,AT&T,Good,485.73
+iPhone 12,256 GB,AT&T,Fair,411.58
+iPhone 12,256 GB,AT&T,Broken,238.56
+iPhone 12,256 GB,T-Mobile,New,564.86
+iPhone 12,256 GB,T-Mobile,Like_new,497.96
+iPhone 12,256 GB,T-Mobile,Good,469.28
+iPhone 12,256 GB,T-Mobile,Fair,397.6
+iPhone 12,256 GB,T-Mobile,Broken,230.34
+iPhone 12,256 GB,Sprint,New,542.05
+iPhone 12,256 GB,Sprint,Like_new,477.8
+iPhone 12,256 GB,Sprint,Good,450.27
+iPhone 12,256 GB,Sprint,Fair,381.44
+iPhone 12,256 GB,Sprint,Broken,220.83
+iPhone 12,256 GB,Other,New,392.21
+iPhone 12,256 GB,Other,Like_new,345.44
+iPhone 12,256 GB,Other,Good,325.4
+iPhone 12,256 GB,Other,Fair,275.3
+iPhone 12,256 GB,Other,Broken,158.4
+iPhone 12 Mini,64 GB,Unlocked,New,438.48
+iPhone 12 Mini,64 GB,Unlocked,Like_new,386.32
+iPhone 12 Mini,64 GB,Unlocked,Good,363.97
+iPhone 12 Mini,64 GB,Unlocked,Fair,308.08
+iPhone 12 Mini,64 GB,Unlocked,Broken,177.68
+iPhone 12 Mini,64 GB,Verizon,New,438.48
+iPhone 12 Mini,64 GB,Verizon,Like_new,386.32
+iPhone 12 Mini,64 GB,Verizon,Good,363.97
+iPhone 12 Mini,64 GB,Verizon,Fair,308.08
+iPhone 12 Mini,64 GB,Verizon,Broken,177.68
+iPhone 12 Mini,64 GB,AT&T,New,421.49
+iPhone 12 Mini,64 GB,AT&T,Like_new,371.32
+iPhone 12 Mini,64 GB,AT&T,Good,349.81
+iPhone 12 Mini,64 GB,AT&T,Fair,296.04
+iPhone 12 Mini,64 GB,AT&T,Broken,170.6
+iPhone 12 Mini,64 GB,T-Mobile,New,407.18
+iPhone 12 Mini,64 GB,T-Mobile,Like_new,358.67
+iPhone 12 Mini,64 GB,T-Mobile,Good,337.88
+iPhone 12 Mini,64 GB,T-Mobile,Fair,285.91
+iPhone 12 Mini,64 GB,T-Mobile,Broken,164.64
+iPhone 12 Mini,64 GB,Sprint,New,390.64
+iPhone 12 Mini,64 GB,Sprint,Like_new,344.06
+iPhone 12 Mini,64 GB,Sprint,Good,324.1
+iPhone 12 Mini,64 GB,Sprint,Fair,274.19
+iPhone 12 Mini,64 GB,Sprint,Broken,157.74
+iPhone 12 Mini,64 GB,Other,New,282.0
+iPhone 12 Mini,64 GB,Other,Like_new,248.09
+iPhone 12 Mini,64 GB,Other,Good,233.57
+iPhone 12 Mini,64 GB,Other,Fair,197.24
+iPhone 12 Mini,64 GB,Other,Broken,112.48
+iPhone 12 Mini,128 GB,Unlocked,New,469.87
+iPhone 12 Mini,128 GB,Unlocked,Like_new,414.05
+iPhone 12 Mini,128 GB,Unlocked,Good,390.12
+iPhone 12 Mini,128 GB,Unlocked,Fair,330.32
+iPhone 12 Mini,128 GB,Unlocked,Broken,190.76
+iPhone 12 Mini,128 GB,Verizon,New,469.87
+iPhone 12 Mini,128 GB,Verizon,Like_new,414.05
+iPhone 12 Mini,128 GB,Verizon,Good,390.12
+iPhone 12 Mini,128 GB,Verizon,Fair,330.32
+iPhone 12 Mini,128 GB,Verizon,Broken,190.76
+iPhone 12 Mini,128 GB,AT&T,New,451.69
+iPhone 12 Mini,128 GB,AT&T,Like_new,397.99
+iPhone 12 Mini,128 GB,AT&T,Good,374.97
+iPhone 12 Mini,128 GB,AT&T,Fair,317.44
+iPhone 12 Mini,128 GB,AT&T,Broken,183.18
+iPhone 12 Mini,128 GB,T-Mobile,New,436.38
+iPhone 12 Mini,128 GB,T-Mobile,Like_new,384.46
+iPhone 12 Mini,128 GB,T-Mobile,Good,362.21
+iPhone 12 Mini,128 GB,T-Mobile,Fair,306.59
+iPhone 12 Mini,128 GB,T-Mobile,Broken,176.8
+iPhone 12 Mini,128 GB,Sprint,New,418.67
+iPhone 12 Mini,128 GB,Sprint,Like_new,368.82
+iPhone 12 Mini,128 GB,Sprint,Good,347.46
+iPhone 12 Mini,128 GB,Sprint,Fair,294.05
+iPhone 12 Mini,128 GB,Sprint,Broken,169.43
+iPhone 12 Mini,128 GB,Other,New,302.4
+iPhone 12 Mini,128 GB,Other,Like_new,266.12
+iPhone 12 Mini,128 GB,Other,Good,250.57
+iPhone 12 Mini,128 GB,Other,Fair,211.69
+iPhone 12 Mini,128 GB,Other,Broken,120.98
+iPhone 12 Mini,256 GB,Unlocked,New,570.39
+iPhone 12 Mini,256 GB,Unlocked,Like_new,502.85
+iPhone 12 Mini,256 GB,Unlocked,Good,473.89
+iPhone 12 Mini,256 GB,Unlocked,Fair,401.52
+iPhone 12 Mini,256 GB,Unlocked,Broken,232.65
+iPhone 12 Mini,256 GB,Verizon,New,570.39
+iPhone 12 Mini,256 GB,Verizon,Like_new,502.85
+iPhone 12 Mini,256 GB,Verizon,Good,473.89
+iPhone 12 Mini,256 GB,Verizon,Fair,401.52
+iPhone 12 Mini,256 GB,Verizon,Broken,232.65
+iPhone 12 Mini,256 GB,AT&T,New,548.39
+iPhone 12 Mini,256 GB,AT&T,Like_new,483.41
+iPhone 12 Mini,256 GB,AT&T,Good,455.56
+iPhone 12 Mini,256 GB,AT&T,Fair,385.94
+iPhone 12 Mini,256 GB,AT&T,Broken,223.48
+iPhone 12 Mini,256 GB,T-Mobile,New,529.86
+iPhone 12 Mini,256 GB,T-Mobile,Like_new,467.04
+iPhone 12 Mini,256 GB,T-Mobile,Good,440.12
+iPhone 12 Mini,256 GB,T-Mobile,Fair,372.81
+iPhone 12 Mini,256 GB,T-Mobile,Broken,215.76
+iPhone 12 Mini,256 GB,Sprint,New,508.44
+iPhone 12 Mini,256 GB,Sprint,Like_new,448.12
+iPhone 12 Mini,256 GB,Sprint,Good,422.26
+iPhone 12 Mini,256 GB,Sprint,Fair,357.64
+iPhone 12 Mini,256 GB,Sprint,Broken,206.83
+iPhone 12 Mini,256 GB,Other,New,367.74
+iPhone 12 Mini,256 GB,Other,Like_new,323.83
+iPhone 12 Mini,256 GB,Other,Good,305.02
+iPhone 12 Mini,256 GB,Other,Fair,257.97
+iPhone 12 Mini,256 GB,Other,Broken,148.21
+iPhone 12 Pro,128 GB,Unlocked,New,715.22
+iPhone 12 Pro,128 GB,Unlocked,Like_new,630.77
+iPhone 12 Pro,128 GB,Unlocked,Good,594.58
+iPhone 12 Pro,128 GB,Unlocked,Fair,504.1
+iPhone 12 Pro,128 GB,Unlocked,Broken,292.99
+iPhone 12 Pro,128 GB,Verizon,New,715.22
+iPhone 12 Pro,128 GB,Verizon,Like_new,630.77
+iPhone 12 Pro,128 GB,Verizon,Good,594.58
+iPhone 12 Pro,128 GB,Verizon,Fair,504.1
+iPhone 12 Pro,128 GB,Verizon,Broken,292.99
+iPhone 12 Pro,128 GB,AT&T,New,687.71
+iPhone 12 Pro,128 GB,AT&T,Like_new,606.47
+iPhone 12 Pro,128 GB,AT&T,Good,571.66
+iPhone 12 Pro,128 GB,AT&T,Fair,484.62
+iPhone 12 Pro,128 GB,AT&T,Broken,281.52
+iPhone 12 Pro,128 GB,T-Mobile,New,664.55
+iPhone 12 Pro,128 GB,T-Mobile,Like_new,586.01
+iPhone 12 Pro,128 GB,T-Mobile,Good,552.36
+iPhone 12 Pro,128 GB,T-Mobile,Fair,468.21
+iPhone 12 Pro,128 GB,T-Mobile,Broken,271.87
+iPhone 12 Pro,128 GB,Sprint,New,637.77
+iPhone 12 Pro,128 GB,Sprint,Like_new,562.36
+iPhone 12 Pro,128 GB,Sprint,Good,530.04
+iPhone 12 Pro,128 GB,Sprint,Fair,449.24
+iPhone 12 Pro,128 GB,Sprint,Broken,260.71
+iPhone 12 Pro,128 GB,Other,New,461.88
+iPhone 12 Pro,128 GB,Other,Like_new,406.98
+iPhone 12 Pro,128 GB,Other,Good,383.46
+iPhone 12 Pro,128 GB,Other,Fair,324.65
+iPhone 12 Pro,128 GB,Other,Broken,187.43
+iPhone 12 Pro,256 GB,Unlocked,New,788.66
+iPhone 12 Pro,256 GB,Unlocked,Like_new,695.64
+iPhone 12 Pro,256 GB,Unlocked,Good,655.78
+iPhone 12 Pro,256 GB,Unlocked,Fair,556.12
+iPhone 12 Pro,256 GB,Unlocked,Broken,323.58
+iPhone 12 Pro,256 GB,Verizon,New,788.66
+iPhone 12 Pro,256 GB,Verizon,Like_new,695.64
+iPhone 12 Pro,256 GB,Verizon,Good,655.78
+iPhone 12 Pro,256 GB,Verizon,Fair,556.12
+iPhone 12 Pro,256 GB,Verizon,Broken,323.58
+iPhone 12 Pro,256 GB,AT&T,New,758.36
+iPhone 12 Pro,256 GB,AT&T,Like_new,668.88
+iPhone 12 Pro,256 GB,AT&T,Good,630.53
+iPhone 12 Pro,256 GB,AT&T,Fair,534.66
+iPhone 12 Pro,256 GB,AT&T,Broken,310.96
+iPhone 12 Pro,256 GB,T-Mobile,New,732.85
+iPhone 12 Pro,256 GB,T-Mobile,Like_new,646.35
+iPhone 12 Pro,256 GB,T-Mobile,Good,609.27
+iPhone 12 Pro,256 GB,T-Mobile,Fair,516.59
+iPhone 12 Pro,256 GB,T-Mobile,Broken,300.33
+iPhone 12 Pro,256 GB,Sprint,New,703.35
+iPhone 12 Pro,256 GB,Sprint,Like_new,620.28
+iPhone 12 Pro,256 GB,Sprint,Good,584.69
+iPhone 12 Pro,256 GB,Sprint,Fair,495.7
+iPhone 12 Pro,256 GB,Sprint,Broken,288.04
+iPhone 12 Pro,256 GB,Other,New,509.62
+iPhone 12 Pro,256 GB,Other,Like_new,449.15
+iPhone 12 Pro,256 GB,Other,Good,423.24
+iPhone 12 Pro,256 GB,Other,Fair,358.46
+iPhone 12 Pro,256 GB,Other,Broken,207.32
+iPhone 12 Pro,512 GB,Unlocked,New,865.29
+iPhone 12 Pro,512 GB,Unlocked,Like_new,763.33
+iPhone 12 Pro,512 GB,Unlocked,Good,719.64
+iPhone 12 Pro,512 GB,Unlocked,Fair,610.4
+iPhone 12 Pro,512 GB,Unlocked,Broken,355.51
+iPhone 12 Pro,512 GB,Verizon,New,865.29
+iPhone 12 Pro,512 GB,Verizon,Like_new,763.33
+iPhone 12 Pro,512 GB,Verizon,Good,719.64
+iPhone 12 Pro,512 GB,Verizon,Fair,610.4
+iPhone 12 Pro,512 GB,Verizon,Broken,355.51
+iPhone 12 Pro,512 GB,AT&T,New,832.08
+iPhone 12 Pro,512 GB,AT&T,Like_new,734.0
+iPhone 12 Pro,512 GB,AT&T,Good,691.96
+iPhone 12 Pro,512 GB,AT&T,Fair,586.88
+iPhone 12 Pro,512 GB,AT&T,Broken,341.68
+iPhone 12 Pro,512 GB,T-Mobile,New,804.12
+iPhone 12 Pro,512 GB,T-Mobile,Like_new,709.3
+iPhone 12 Pro,512 GB,T-Mobile,Good,668.66
+iPhone 12 Pro,512 GB,T-Mobile,Fair,567.07
+iPhone 12 Pro,512 GB,T-Mobile,Broken,330.03
+iPhone 12 Pro,512 GB,Sprint,New,771.78
+iPhone 12 Pro,512 GB,Sprint,Like_new,680.74
+iPhone 12 Pro,512 GB,Sprint,Good,641.72
+iPhone 12 Pro,512 GB,Sprint,Fair,544.17
+iPhone 12 Pro,512 GB,Sprint,Broken,316.55
+iPhone 12 Pro,512 GB,Other,New,559.43
+iPhone 12 Pro,512 GB,Other,Like_new,493.15
+iPhone 12 Pro,512 GB,Other,Good,464.75
+iPhone 12 Pro,512 GB,Other,Fair,393.75
+iPhone 12 Pro,512 GB,Other,Broken,228.07
+iPhone 12 Pro Max,128 GB,Unlocked,New,815.2
+iPhone 12 Pro Max,128 GB,Unlocked,Like_new,719.09
+iPhone 12 Pro Max,128 GB,Unlocked,Good,677.89
+iPhone 12 Pro Max,128 GB,Unlocked,Fair,574.92
+iPhone 12 Pro Max,128 GB,Unlocked,Broken,334.64
+iPhone 12 Pro Max,128 GB,Verizon,New,815.2
+iPhone 12 Pro Max,128 GB,Verizon,Like_new,719.09
+iPhone 12 Pro Max,128 GB,Verizon,Good,677.89
+iPhone 12 Pro Max,128 GB,Verizon,Fair,574.92
+iPhone 12 Pro Max,128 GB,Verizon,Broken,334.64
+iPhone 12 Pro Max,128 GB,AT&T,New,783.89
+iPhone 12 Pro Max,128 GB,AT&T,Like_new,691.44
+iPhone 12 Pro Max,128 GB,AT&T,Good,651.81
+iPhone 12 Pro Max,128 GB,AT&T,Fair,552.75
+iPhone 12 Pro Max,128 GB,AT&T,Broken,321.6
+iPhone 12 Pro Max,128 GB,T-Mobile,New,757.53
+iPhone 12 Pro Max,128 GB,T-Mobile,Like_new,668.14
+iPhone 12 Pro Max,128 GB,T-Mobile,Good,629.84
+iPhone 12 Pro Max,128 GB,T-Mobile,Fair,534.07
+iPhone 12 Pro Max,128 GB,T-Mobile,Broken,310.62
+iPhone 12 Pro Max,128 GB,Sprint,New,727.05
+iPhone 12 Pro Max,128 GB,Sprint,Like_new,641.22
+iPhone 12 Pro Max,128 GB,Sprint,Good,604.44
+iPhone 12 Pro Max,128 GB,Sprint,Fair,512.48
+iPhone 12 Pro Max,128 GB,Sprint,Broken,297.92
+iPhone 12 Pro Max,128 GB,Other,New,526.86
+iPhone 12 Pro Max,128 GB,Other,Like_new,464.39
+iPhone 12 Pro Max,128 GB,Other,Good,437.62
+iPhone 12 Pro Max,128 GB,Other,Fair,370.68
+iPhone 12 Pro Max,128 GB,Other,Broken,214.5
+iPhone 12 Pro Max,256 GB,Unlocked,New,906.32
+iPhone 12 Pro Max,256 GB,Unlocked,Like_new,799.58
+iPhone 12 Pro Max,256 GB,Unlocked,Good,753.83
+iPhone 12 Pro Max,256 GB,Unlocked,Fair,639.47
+iPhone 12 Pro Max,256 GB,Unlocked,Broken,372.61
+iPhone 12 Pro Max,256 GB,Verizon,New,906.32
+iPhone 12 Pro Max,256 GB,Verizon,Like_new,799.58
+iPhone 12 Pro Max,256 GB,Verizon,Good,753.83
+iPhone 12 Pro Max,256 GB,Verizon,Fair,639.47
+iPhone 12 Pro Max,256 GB,Verizon,Broken,372.61
+iPhone 12 Pro Max,256 GB,AT&T,New,871.56
+iPhone 12 Pro Max,256 GB,AT&T,Like_new,768.87
+iPhone 12 Pro Max,256 GB,AT&T,Good,724.86
+iPhone 12 Pro Max,256 GB,AT&T,Fair,614.84
+iPhone 12 Pro Max,256 GB,AT&T,Broken,358.13
+iPhone 12 Pro Max,256 GB,T-Mobile,New,842.28
+iPhone 12 Pro Max,256 GB,T-Mobile,Like_new,743.01
+iPhone 12 Pro Max,256 GB,T-Mobile,Good,700.47
+iPhone 12 Pro Max,256 GB,T-Mobile,Fair,594.1
+iPhone 12 Pro Max,256 GB,T-Mobile,Broken,345.93
+iPhone 12 Pro Max,256 GB,Sprint,New,808.42
+iPhone 12 Pro Max,256 GB,Sprint,Like_new,713.11
+iPhone 12 Pro Max,256 GB,Sprint,Good,672.25
+iPhone 12 Pro Max,256 GB,Sprint,Fair,570.12
+iPhone 12 Pro Max,256 GB,Sprint,Broken,331.82
+iPhone 12 Pro Max,256 GB,Other,New,586.1
+iPhone 12 Pro Max,256 GB,Other,Like_new,516.71
+iPhone 12 Pro Max,256 GB,Other,Good,486.98
+iPhone 12 Pro Max,256 GB,Other,Fair,412.64
+iPhone 12 Pro Max,256 GB,Other,Broken,239.18
+iPhone 12 Pro Max,512 GB,Unlocked,New,976.32
+iPhone 12 Pro Max,512 GB,Unlocked,Like_new,861.41
+iPhone 12 Pro Max,512 GB,Unlocked,Good,812.17
+iPhone 12 Pro Max,512 GB,Unlocked,Fair,689.05
+iPhone 12 Pro Max,512 GB,Unlocked,Broken,401.78
+iPhone 12 Pro Max,512 GB,Verizon,New,976.32
+iPhone 12 Pro Max,512 GB,Verizon,Like_new,861.41
+iPhone 12 Pro Max,512 GB,Verizon,Good,812.17
+iPhone 12 Pro Max,512 GB,Verizon,Fair,689.05
+iPhone 12 Pro Max,512 GB,Verizon,Broken,401.78
+iPhone 12 Pro Max,512 GB,AT&T,New,938.89
+iPhone 12 Pro Max,512 GB,AT&T,Like_new,828.35
+iPhone 12 Pro Max,512 GB,AT&T,Good,780.98
+iPhone 12 Pro Max,512 GB,AT&T,Fair,662.53
+iPhone 12 Pro Max,512 GB,AT&T,Broken,386.18
+iPhone 12 Pro Max,512 GB,T-Mobile,New,907.38
+iPhone 12 Pro Max,512 GB,T-Mobile,Like_new,800.51
+iPhone 12 Pro Max,512 GB,T-Mobile,Good,754.71
+iPhone 12 Pro Max,512 GB,T-Mobile,Fair,640.21
+iPhone 12 Pro Max,512 GB,T-Mobile,Broken,373.05
+iPhone 12 Pro Max,512 GB,Sprint,New,870.93
+iPhone 12 Pro Max,512 GB,Sprint,Like_new,768.32
+iPhone 12 Pro Max,512 GB,Sprint,Good,724.34
+iPhone 12 Pro Max,512 GB,Sprint,Fair,614.4
+iPhone 12 Pro Max,512 GB,Sprint,Broken,357.87
+iPhone 12 Pro Max,512 GB,Other,New,631.59
+iPhone 12 Pro Max,512 GB,Other,Like_new,556.9
+iPhone 12 Pro Max,512 GB,Other,Good,524.89
+iPhone 12 Pro Max,512 GB,Other,Fair,444.87
+iPhone 12 Pro Max,512 GB,Other,Broken,258.14
